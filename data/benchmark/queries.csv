@@ -1,0 +1,7 @@
+
+query_id,query_text,query_type
+Q001,Scholarships for undergraduate students,Direct
+Q002,I'm studying engineering and need some financial help for college,Colloquial
+Q003,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,Constraint-based
+Q004,I need help paying for my education,Underspecified
+Q005,I'm from Karnataka and need support for college. What scholarships are available?,Ambiguous

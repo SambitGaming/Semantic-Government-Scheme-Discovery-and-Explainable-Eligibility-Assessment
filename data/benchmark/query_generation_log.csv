@@ -1,0 +1,8 @@
+
+query_id,query_type,source_scheme_ids,difficulty,creator,notes
+Q001,Direct,,Easy,Researcher,Direct education scholarship request
+Q002,Colloquial,,Medium,Researcher,Natural citizen wording
+Q003,Constraint,,Hard,Researcher,Multiple constraints: UG engineering and low income
+Q004,Underspecified,,Easy,Researcher,Missing important eligibility details
+Q005,Ambiguous,,Medium,Researcher,Karnataka college support with multiple possible interpretations
+    
