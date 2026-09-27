@@ -1,7 +1,112 @@
-
-query_id,query_text,query_type
+﻿query_id,query_text,query_type
 Q001,Scholarships for undergraduate students,Direct
-Q002,I'm studying engineering and need some financial help for college,Colloquial
-Q003,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,Constraint-based
-Q004,I need help paying for my education,Underspecified
-Q005,I'm from Karnataka and need support for college. What scholarships are available?,Ambiguous
+Q002,Post-matric scholarship for SC students,Direct
+Q003,Pre-matric scholarship for ST students,Direct
+Q004,PM-YASASVI scholarship for OBC students,Direct
+Q005,National Overseas Scholarship for Scheduled Tribe students,Direct
+Q006,Scholarship scheme for girl students in technical diploma courses,Direct
+Q007,AICTE Saksham Scholarship for specially-abled students,Direct
+Q008,National Means-cum-Merit Scholarship Scheme details,Direct
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,Direct
+Q010,INSPIRE Scholarship for Higher Education (SHE),Direct
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,Direct
+Q012,National Fellowship for Students with Disabilities,Direct
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,Direct
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,Direct
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,Direct
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,Direct
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,Direct
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,Direct
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,Direct
+Q020,Financial assistance for wards of Beedi and Cine workers,Direct
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,Direct
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,Direct
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,Direct
+Q024,National Fellowship for OBC students pursuing PhD,Direct
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,Direct
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,Direct
+Q027,I'm studying engineering and need some financial help for college,Colloquial
+Q028,hey any scholarships for a poor family kid going to college?,Colloquial
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",Colloquial
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",Colloquial
+Q031,bro any scholarship for SC students after 10th?,Colloquial
+Q032,"i work in a beedi factory, can my kids get any help for school fees",Colloquial
+Q033,"just finished 12th, from a minority community, need money for college",Colloquial
+Q034,is there anything for disabled students who want to study abroad,Colloquial
+Q035,"my son's dad was in CRPF, are there any scholarships for us",Colloquial
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",Colloquial
+Q037,can obc students get scholarship money for hostel and fees after 10th,Colloquial
+Q038,"i want to do research after my PhD, is there any fellowship for that",Colloquial
+Q039,"we're from the northeast, is there any special scholarship for us in college",Colloquial
+Q040,"any help for girls doing btech, my income is really low",Colloquial
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",Colloquial
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,Colloquial
+Q043,"my dad works in the mines, is there any scholarship scheme for us",Colloquial
+Q044,"looking for scholarship money to study science after 12th, i study hard",Colloquial
+Q045,any postdoc fellowship going right now for unemployed PhD holders,Colloquial
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",Colloquial
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,Constraint-based
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,Constraint-based
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,Constraint-based
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",Constraint-based
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,Constraint-based
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",Constraint-based
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,Constraint-based
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,Constraint-based
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,Constraint-based
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",Constraint-based
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,Constraint-based
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,Constraint-based
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,Constraint-based
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,Constraint-based
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,Constraint-based
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,Constraint-based
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,Constraint-based
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,Constraint-based
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,Constraint-based
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,Constraint-based
+Q067,I need help paying for my education,Underspecified
+Q068,Any scholarships for students?,Underspecified
+Q069,I want financial help for higher studies,Underspecified
+Q070,Looking for a scholarship,Underspecified
+Q071,Scholarship for research students,Underspecified
+Q072,Is there support for school students?,Underspecified
+Q073,Need money for college fees,Underspecified
+Q074,Scholarships for minority students,Underspecified
+Q075,What scholarships exist for disabled students?,Underspecified
+Q076,Support for students from poor families,Underspecified
+Q077,Scholarships for girls,Underspecified
+Q078,Scheme for reserved category students,Underspecified
+Q079,Fellowship opportunities for PhD scholars,Underspecified
+Q080,Financial assistance for workers' children,Underspecified
+Q081,Scholarships in Karnataka,Underspecified
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,Ambiguous
+Q083,I belong to a backward community and want help with my studies,Ambiguous
+Q084,Scholarship for students with special needs,Ambiguous
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",Ambiguous
+Q086,Is there a scholarship for merit students or is it only for poor students?,Ambiguous
+Q087,"My family works for the government, is there something for us?",Ambiguous
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",Ambiguous
+Q089,Scheme for students in the northeast or hill states,Ambiguous
+Q090,"I want to study abroad, are there any government scholarships for that",Ambiguous
+Q091,"Something for minorities or backward classes, I qualify for both maybe",Ambiguous
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",Ambiguous
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",Ambiguous
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",Ambiguous
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",Ambiguous
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",Ambiguous
+Q097,Scholarship for private international school fees for a general category student in Delhi,Hard-negative
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,Hard-negative
+Q099,Business loan scheme for starting a small shop,Hard-negative
+Q100,Free laptop distribution scheme for all citizens regardless of student status,Hard-negative
+Q101,Pension scheme for senior citizens above 60 years,Hard-negative
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,Hard-negative
+Q103,Sports quota admission scheme for national-level athletes,Hard-negative
+Q104,How do I apply for an Indian passport online,Hard-negative
+Q105,Subsidy scheme for buying an electric vehicle,Hard-negative
+Q106,Scholarship for studying culinary arts in France with full funding,Hard-negative
+Q107,Loan waiver scheme for farmers in Punjab,Hard-negative
+Q108,Today's weather forecast for Bengaluru,Hard-negative
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,Hard-negative
+Q110,Health insurance scheme for unemployed graduates,Hard-negative
+Q111,Scholarship for children of private company employees with no income restriction,Hard-negative

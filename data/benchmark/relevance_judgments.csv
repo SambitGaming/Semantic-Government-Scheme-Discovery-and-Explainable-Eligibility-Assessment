@@ -1,3 +1,198 @@
-
-query_id,scheme_id,relevance_label,relevance_score,justification
-    
+﻿query_id,scheme_id,relevance_label,relevance_score,justification
+Q001,C001,Relevant,2,PM-USP is the core central merit scholarship for college/university (UG) students
+Q001,C019,Partially Relevant,1,"INSPIRE-SHE covers only UG/PG science students, a subset of undergraduates"
+Q001,C005,Partially Relevant,1,"AICTE Saksham(Degree) covers only UG students with disability, a subset of undergraduates"
+Q001,C023,Partially Relevant,1,"Pragati (Technical Degree) covers only UG girl students, a subset of undergraduates"
+Q002,C036,Relevant,2,Post-Matric Scholarship for SC (Karnataka) directly matches post-matric SC students
+Q002,C022,Partially Relevant,1,"PG Scholarship for SC/ST covers only postgraduate professional courses, a subset of post-matric SC students"
+Q002,C008,Not Relevant,0,"Targets Pre-Matric (Class IX-X) SC students in DNH & DD, not post-matric"
+Q003,C040,Relevant,2,Pre-Matric Scholarship for ST Students directly matches Classes IX-X ST students
+Q003,C008,Not Relevant,0,"Pre-Matric scheme is for SC students, not ST students"
+Q004,C009,Relevant,2,PM-YASASVI Post-Matric Scholarship directly covers OBC students
+Q004,C010,Relevant,2,PM-YASASVI Top Class College Education directly covers OBC students
+Q004,C011,Relevant,2,PM-YASASVI Top Class School Education directly covers OBC students
+Q004,C012,Relevant,2,PM-YASASVI Pre-Matric Scholarship directly covers OBC students
+Q005,C015,Relevant,2,National Overseas Scholarship for ST is an exact name match
+Q005,C038,Partially Relevant,1,"Prabuddha Overseas Scholarship also funds ST students abroad, but is Karnataka-state specific, not national"
+Q006,C004,Relevant,2,Pragati Scholarship (Technical Diploma) is an exact match for girl students in diploma courses
+Q006,C023,Partially Relevant,1,"Pragati (Technical Degree) is the equivalent scheme but for degree, not diploma, courses"
+Q007,C005,Relevant,2,AICTE Saksham (Degree) is an exact match for specially-abled students
+Q007,C026,Relevant,2,"AICTE Saksham (Diploma) is the diploma-level equivalent, also an exact match"
+Q008,C006,Relevant,2,National Means-cum-Merit Scholarship Scheme is an exact name match
+Q009,C018,Relevant,2,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship is an exact name match
+Q010,C019,Relevant,2,INSPIRE-SHE is an exact name match
+Q010,C020,Not Relevant,0,"This is the INSPIRE Fellowship (PhD-level), a different sub-scheme from SHE"
+Q011,C016,Relevant,2,Rajiv Gandhi National Fellowship for SC is an exact name match
+Q012,C014,Relevant,2,National Fellowship for Students with Disabilities is an exact name match
+Q013,C033,Relevant,2,PM Scholarship Scheme for CAPF & Assam Rifles wards is an exact name match
+Q014,C047,Relevant,2,Karnataka MCM Scholarship for minorities is an exact name match
+Q015,C041,Relevant,2,Vidyasiri Food and Accommodation Scholarship Scheme is an exact name match
+Q016,C049,Relevant,2,Chief Minister Raitha Vidya Nidhi Scheme is an exact name match for farmers' children
+Q017,C038,Relevant,2,Prabuddha Overseas Scholarship Scheme is an exact name match
+Q018,C046,Relevant,2,D. Devaraj Urs Prathibha Puraskara is an exact name match
+Q019,C045,Relevant,2,Karnataka DST-PhD Fellowship is an exact name match
+Q020,C031,Relevant,2,Financial Assistance for wards of Beedi/Cine workers is an exact name match
+Q020,C048,Not Relevant,0,"This is for construction workers' children, not Beedi/Cine workers"
+Q021,C024,Relevant,2,PG Scholarship for GATE/GPAT qualified students (AICTE) is an exact name match
+Q022,C003,Relevant,2,Ishan Uday Special Scholarship Scheme is an exact name match
+Q023,C001,Relevant,2,PM-USP Central Sector Scheme is an exact name match
+Q024,C017,Relevant,2,National Fellowship for OBC Students (M.Phil/PhD) is an exact match
+Q024,C030,Relevant,2,"National Fellowship for OBC Students (Higher Education/PG record) is the same fellowship, also PhD-focused"
+Q025,C025,Relevant,2,PM-USP Special Scholarship Scheme for J&K and Ladakh is an exact name match
+Q026,C048,Relevant,2,Karnataka BOCW Welfare Board educational assistance is an exact name match
+Q027,C001,Relevant,2,"PM-USP covers meritorious UG students, including engineering, from poor families"
+Q027,C024,Partially Relevant,1,"GATE/GPAT PG scholarship applies only if pursuing postgraduate engineering, not stated by user"
+Q027,C019,Not Relevant,0,INSPIRE-SHE explicitly covers natural/basic sciences and excludes engineering
+Q028,C001,Relevant,2,PM-USP is the main merit-cum-need scholarship for poor college-going students
+Q028,C006,Partially Relevant,1,"NMMSS supports economically weaker students, but only at Class IX school level, not stated 'college'"
+Q029,C004,Relevant,2,Pragati (Technical Diploma) is an exact match for a girl studying diploma
+Q029,C023,Partially Relevant,1,"Pragati (Technical Degree) is the equivalent for degree students, partial match since query says diploma"
+Q030,C020,Relevant,2,"INSPIRE Fellowship funds full-time PhD students in basic/applied sciences, matching PhD in physics"
+Q030,C002,Not Relevant,0,"National Scholarship for PG Studies is for first postgraduate degree, not PhD"
+Q031,C037,Relevant,2,"Pre-Matric Scholarship for SC Students covers Class IX-X, matching 'after 10th' transition stage"
+Q031,C036,Partially Relevant,1,"Post-Matric SC scholarship applies once actually past Class X into post-matric study, partially matches 'after 10th'"
+Q032,C031,Relevant,2,Financial Assistance for wards of Beedi workers directly matches a parent working in a beedi factory
+Q033,C051,Relevant,2,"Pre-Matric Scholarship for Minorities would apply if still school-age, but user has finished Class 12"
+Q033,C050,Relevant,2,Post-Matric Scholarship for Minorities matches a minority student entering college after Class 12
+Q033,C007,Partially Relevant,1,"Haryana MCM for Minority applies only to Haryana residents in professional/technical courses, state not specified"
+Q034,C015,Relevant,2,"National Overseas Scholarship for ST covers disabled/general ST students studying abroad only if ST; disability alone isn't the qualifying criterion here, but query is ambiguous on category"
+Q034,C013,Partially Relevant,1,"Scholarship for Top Class Education for Disabled (DNH&DD) supports disabled students but is domestic, not for overseas study"
+Q035,C033,Relevant,2,PM Scholarship for CAPF & Assam Rifles wards matches if CRPF is being used loosely for a Central Armed Police Force
+Q035,C034,Partially Relevant,1,PM Scholarship for wards/widows of Central Police Force Personnel could also apply depending on exact force classification
+Q036,C049,Relevant,2,Chief Minister Raitha Vidya Nidhi Scheme is the Karnataka scheme for farmers' children
+Q036,C048,Not Relevant,0,"This targets construction workers' children, not farmers"
+Q037,C009,Relevant,2,PM-YASASVI Post-Matric Scholarship gives OBC students financial help including hostel-related costs after Class 10
+Q037,C042,Partially Relevant,1,Karnataka Post-Matric Scholarship for Backward Classes (OBC) is relevant only if the student is Karnataka-domiciled
+Q038,C018,Relevant,2,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship directly funds post-PhD research
+Q038,C027,Partially Relevant,1,"National Post Doctoral Fellowship is specifically for women researchers, partial match since gender not stated"
+Q039,C003,Relevant,2,Ishan Uday Scholarship is specifically for domiciled students of the North Eastern Region in college
+Q040,C023,Relevant,2,Pragati (Technical Degree) matches a low-income girl student pursuing a B.Tech-equivalent degree
+Q040,C004,Not Relevant,0,"Pragati (Technical Diploma) is for diploma students, not degree/BTech students"
+Q041,C010,Relevant,2,PM-YASASVI Top Class College Education explicitly covers OBC students admitted to notified institutions like IITs
+Q041,C009,Partially Relevant,1,"PM-YASASVI Post-Matric Scholarship is the general OBC scheme, applicable but less targeted than the Top Class scheme"
+Q042,C040,Relevant,2,"Pre-Matric Scholarship for ST Students covers Class IX-X ST students, matching 'school, 9th standard'"
+Q043,C031,Relevant,2,Financial Assistance for wards of Iron Ore/Mica/Mine workers directly covers children of mine workers
+Q044,C019,Relevant,2,INSPIRE-SHE rewards meritorious students pursuing science after Class 12
+Q044,C001,Partially Relevant,1,"PM-USP is a general merit scholarship for any stream after Class 12, less targeted than INSPIRE-SHE for 'science'"
+Q045,C018,Relevant,2,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship exactly targets unemployed PhD holders
+Q046,C008,Relevant,2,"Pre-Matric Scholarship for SC students in DNH & DD directly matches the location and category, if still school-age"
+Q046,C013,Partially Relevant,1,"Scholarships for Top Class Education for Disabled, DNH & DD is location-matched but for disability, not SC category alone"
+Q047,C001,Relevant,2,"PM-USP directly matches UG students from economically weaker families, including engineering"
+Q047,C024,Not Relevant,0,"GATE/GPAT scholarship is postgraduate-only, not undergraduate"
+Q048,C037,Relevant,2,Pre-Matric Scholarship for SC Students matches Class IX-X SC students with income under Rs 2.5 lakh exactly
+Q048,C028,Relevant,2,"Pre-Matric Scholarship for Scheduled Caste Students has the same Class 9/10, SC, Rs 2.5 lakh criteria"
+Q048,C008,Partially Relevant,1,Pre-Matric SC scheme matches the same criteria but is restricted to DNH & DD region only
+Q049,C017,Relevant,2,National Fellowship for OBC Students funds M.Phil/PhD OBC candidates and excludes other stipend recipients
+Q049,C030,Relevant,2,National Fellowship for OBC Students (record C030) is the same PG/PhD fellowship for OBC
+Q050,C004,Relevant,2,"Pragati (Technical Diploma) exactly matches girl, second-year lateral entry diploma, income under Rs 8 lakh"
+Q050,C023,Not Relevant,0,"Pragati (Technical Degree) is for degree students, not diploma students"
+Q051,C036,Relevant,2,Post-Matric Scholarship for SC (Karnataka) exactly matches Karnataka-domiciled SC post-matric students
+Q052,C005,Relevant,2,AICTE Saksham (Degree) exactly matches 40% disability admitted to a degree course
+Q052,C026,Partially Relevant,1,"AICTE Saksham (Diploma) has the same disability criteria but applies to diploma, not degree, courses"
+Q053,C027,Relevant,2,National Post Doctoral Fellowship is explicitly targeted at women researchers post-PhD
+Q053,C018,Partially Relevant,1,Dr. S. Radhakrishnan Fellowship also funds post-doctoral research but is not gender-specific
+Q054,C035,Relevant,2,Research Fellowship Scheme for Scheduled Tribe Candidates exactly matches ST PhD scholars in Scheduled Areas of Rajasthan
+Q055,C007,Relevant,2,"Haryana Merit Cum Means Scheme for Minority exactly matches minority, Haryana, professional course, 50% marks"
+Q056,C003,Relevant,2,"Ishan Uday exactly matches NE domicile, first-year technical degree, income below Rs 4.5 lakh"
+Q057,C049,Relevant,2,"Chief Minister Raitha Vidya Nidhi Scheme is the Karnataka scheme for farmers' children, covering school stage"
+Q058,C033,Relevant,2,PM Scholarship for CAPF & Assam Rifles wards matches sons of personnel below officer rank
+Q058,C034,Partially Relevant,1,PM Scholarship for CPF wards/widows may also apply depending on exact force classification
+Q059,C015,Relevant,2,National Overseas Scholarship for ST exactly matches ST student pursuing a Master's abroad
+Q060,C018,Relevant,2,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship exactly matches unemployed PhD holder in a relevant discipline seeking post-doctoral funding
+Q061,C010,Relevant,2,PM-YASASVI Top Class College Education exactly matches EBC/DNT students admitted to notified Top Class institutions like IITs/IIMs
+Q062,C041,Relevant,2,Vidyasiri Food and Accommodation Scholarship Scheme exactly matches Karnataka backward-class students needing food/accommodation in post-matric study
+Q063,C043,Relevant,2,"Pre-Matric Scholarship for Students with Disabilities matches Class IX-X disabled students, but scheme is central, not DNH&DD specific"
+Q063,C013,Partially Relevant,1,"Top Class Education scheme for Disabled, DNH & DD matches the location but only for Graduate/PG level, not Class 11"
+Q064,C020,Relevant,2,INSPIRE Fellowship exactly matches full-time PhD students in basic/applied sciences
+Q065,C001,Relevant,2,PM-USP exactly matches meritorious Class 12 student in 80th percentile from a poor family entering a regular degree course
+Q066,C032,Relevant,2,PM Scholarship Scheme for RPF exactly matches widow of RPF personnel with a dependent ward in college
+Q067,C001,Partially Relevant,1,"PM-USP could apply if the user is a meritorious UG student from a poor family, but stage/category unclear"
+Q067,C002,Partially Relevant,1,"National PG Scholarship could apply if pursuing postgraduate studies, but not specified"
+Q068,C001,Partially Relevant,1,"PM-USP is a broadly applicable general merit scholarship, but too underspecified to confirm fit"
+Q068,C006,Partially Relevant,1,"NMMSS is a broadly applicable school-level scholarship, but too underspecified to confirm fit"
+Q069,C002,Partially Relevant,1,"National Scholarship for PG Studies fits 'higher studies' if postgraduate, but not confirmed"
+Q069,C001,Partially Relevant,1,"PM-USP fits 'higher studies' if undergraduate and meritorious, but not confirmed"
+Q070,C001,Not Relevant,0,"Query gives no information on category, income, or education stage to justify a match"
+Q071,C020,Partially Relevant,1,"INSPIRE Fellowship funds PhD research students, a subset of 'research students'"
+Q071,C016,Partially Relevant,1,"Rajiv Gandhi Fellowship funds SC M.Phil/PhD research students, a subset of 'research students'"
+Q071,C017,Partially Relevant,1,"National Fellowship for OBC funds OBC M.Phil/PhD research students, a subset of 'research students'"
+Q072,C006,Partially Relevant,1,"NMMSS supports school students from Class IX, a subset of 'school students'"
+Q072,C037,Partially Relevant,1,"Pre-Matric SC scheme supports Class IX-X SC school students, a subset of 'school students'"
+Q073,C001,Partially Relevant,1,"PM-USP covers college fees for meritorious UG students, but query doesn't confirm merit/income eligibility"
+Q074,C050,Relevant,2,Post-Matric Scholarship for Minorities directly targets minority students generally
+Q074,C051,Relevant,2,Pre-Matric Scholarship for Minorities directly targets minority students generally
+Q074,C007,Partially Relevant,1,"Haryana MCM for Minority also targets minority students, but restricted to Haryana and professional courses"
+Q075,C043,Relevant,2,Pre-Matric Scholarship for Students with Disabilities directly targets disabled students generally
+Q075,C044,Relevant,2,Post-Matric Scholarship for Students with Disabilities directly targets disabled students generally
+Q075,C014,Partially Relevant,1,"National Fellowship for Disabled Students only covers M.Phil/PhD disabled students, a subset"
+Q076,C001,Relevant,2,PM-USP directly targets meritorious students from poor/economically weaker families
+Q076,C006,Partially Relevant,1,"NMMSS targets economically weaker students but only at school Class IX level, a subset"
+Q077,C004,Relevant,2,Pragati (Technical Diploma) directly targets girl students
+Q077,C023,Relevant,2,Pragati (Technical Degree) directly targets girl students
+Q077,C027,Partially Relevant,1,"National Post Doctoral Fellowship targets women researchers, a narrow subset of 'girls'"
+Q078,C009,Partially Relevant,1,"PM-YASASVI covers OBC/EBC/DNT, a subset of 'reserved category'"
+Q078,C036,Partially Relevant,1,"Post-Matric SC scheme covers SC, a subset of 'reserved category'"
+Q078,C039,Partially Relevant,1,"Post-Matric ST scheme covers ST, a subset of 'reserved category'"
+Q079,C020,Relevant,2,INSPIRE Fellowship directly funds PhD scholars in sciences
+Q079,C016,Partially Relevant,1,"Rajiv Gandhi Fellowship funds only SC PhD scholars, a subset of 'PhD scholars'"
+Q079,C017,Partially Relevant,1,"National Fellowship for OBC funds only OBC PhD scholars, a subset of 'PhD scholars'"
+Q080,C031,Relevant,2,Financial Assistance for wards of Beedi/Mine/Cine workers directly targets workers' children
+Q080,C048,Relevant,2,Karnataka BOCW Welfare Board assistance directly targets construction workers' children
+Q081,C036,Partially Relevant,1,"Post-Matric SC (Karnataka) is one of several Karnataka-specific schemes, but query doesn't specify category"
+Q081,C041,Partially Relevant,1,"Vidyasiri Scheme is a Karnataka-specific scheme, but query doesn't specify category"
+Q081,C045,Partially Relevant,1,"Karnataka DST-PhD Fellowship is Karnataka-specific, but query doesn't specify PhD/science stage"
+Q082,C036,Partially Relevant,1,"Post-Matric SC (Karnataka) could match if user is SC, but category unstated"
+Q082,C047,Partially Relevant,1,"Karnataka MCM Scholarship could match if user is from a minority community, but unstated"
+Q082,C049,Partially Relevant,1,"Raitha Vidya Nidhi could match if user is a farmer's child, but unstated"
+Q083,C042,Relevant,2,Karnataka Post-Matric Scholarship for Backward Classes (OBC) directly matches 'backward community' if in Karnataka
+Q083,C009,Partially Relevant,1,"PM-YASASVI (OBC/EBC/DNT, central) is also relevant to 'backward community' but state/region unclear"
+Q084,C043,Partially Relevant,1,"Pre-Matric Scholarship for Disabled Students may match 'special needs' if referring to disability, but ambiguous"
+Q084,C044,Partially Relevant,1,"Post-Matric Scholarship for Disabled Students may match 'special needs' if referring to disability, but ambiguous"
+Q084,C014,Not Relevant,0,"This fellowship is PhD-level only, too narrow for an ambiguous general 'special needs' query"
+Q085,C009,Partially Relevant,1,"PM-YASASVI (OBC/EBC/DNT) could match a professional-course student if that is their category, unconfirmed"
+Q085,C022,Partially Relevant,1,"PG Scholarship for SC/ST professional courses could match if that is their category, unconfirmed"
+Q085,C007,Partially Relevant,1,"Haryana MCM (Minority, professional course) could match if that is their category and state, unconfirmed"
+Q086,C001,Relevant,2,"PM-USP is both merit-based and need-based, directly resolving the ambiguity between 'merit' and 'poor'"
+Q086,C046,Partially Relevant,1,"D. Devaraj Urs Prathibha Puraskara is purely merit-based (90%+ marks) with no explicit income cap, partial match to 'merit'"
+Q086,C006,Partially Relevant,1,"NMMSS is both merit and need-based but restricted to school Class IX, partial match"
+Q087,C032,Partially Relevant,1,"PM Scholarship for RPF wards may match if 'government work' means Railway Protection Force, unconfirmed"
+Q087,C033,Partially Relevant,1,"PM Scholarship for CAPF/Assam Rifles wards may match if 'government work' means paramilitary force, unconfirmed"
+Q087,C034,Partially Relevant,1,"PM Scholarship for CPF wards/widows may match if 'government work' means police force, unconfirmed"
+Q088,C020,Partially Relevant,1,"INSPIRE Fellowship is a PhD research fellowship, matching one branch of the ambiguity ('fellowship')"
+Q088,C002,Partially Relevant,1,"National Scholarship for PG Studies is a coursework-based PG scholarship, matching the other branch ('scholarship')"
+Q089,C003,Relevant,2,Ishan Uday Scholarship directly targets domiciled students of the North Eastern Region
+Q089,C025,Partially Relevant,1,"J&K and Ladakh scheme covers a different hill/UT region, only partially matching 'hill states'"
+Q090,C015,Relevant,2,"National Overseas Scholarship for ST directly funds studying abroad, but only for ST category"
+Q090,C038,Partially Relevant,1,Prabuddha Overseas Scholarship also funds study abroad but is Karnataka-state and SC/ST specific
+Q091,C050,Partially Relevant,1,Post-Matric Scholarship for Minorities matches if the user is from a minority community
+Q091,C042,Partially Relevant,1,Karnataka Post-Matric Scholarship for Backward Classes matches if the user is from a backward class instead
+Q092,C036,Partially Relevant,1,"Post-Matric SC (Karnataka) matches if the user is SC, category unconfirmed"
+Q092,C039,Partially Relevant,1,"Post-Matric ST Scholarship matches if the user is ST, category unconfirmed"
+Q093,C037,Partially Relevant,1,"Pre-Matric SC Scholarship matches if the user is still in school (Class IX-X), stage unconfirmed"
+Q093,C036,Partially Relevant,1,"Post-Matric SC (Karnataka) matches if the user is already in college, stage unconfirmed"
+Q094,C033,Partially Relevant,1,"PM Scholarship for CAPF/Assam Rifles wards could match 'police force' loosely, but exact force unconfirmed"
+Q094,C034,Partially Relevant,1,"PM Scholarship for CPF wards/widows is the most literal match to 'police force', but not explicitly named by the user"
+Q095,C043,Partially Relevant,1,"Pre-Matric Disability Scholarship could match the disability aspect, but not minority status"
+Q095,C050,Partially Relevant,1,"Post-Matric Minority Scholarship could match the minority aspect, but not disability"
+Q095,C044,Partially Relevant,1,"Post-Matric Disability Scholarship could match the disability aspect at a later stage, but not minority status"
+Q096,C001,Partially Relevant,1,"PM-USP is a central-level scheme, matching one branch of the ambiguity"
+Q096,C036,Partially Relevant,1,"Post-Matric SC (Karnataka) is a state-level scheme, matching the other branch of the ambiguity"
+Q097,C001,Not Relevant,0,PM-USP requires family income under Rs 4.5 lakh; a general-category student with no stated income constraint at a private international school is not covered
+Q097,C025,Not Relevant,0,J&K/Ladakh scheme is domicile-restricted and unrelated to a general Delhi private-school student
+Q098,C015,Not Relevant,0,"National Overseas Scholarship for ST is restricted to Scheduled Tribe applicants, not 'any Indian citizen'"
+Q098,C038,Not Relevant,0,"Prabuddha Overseas Scholarship is restricted to Karnataka SC/ST students, not any Indian citizen"
+Q099,C048,Not Relevant,0,"Karnataka BOCW assistance is educational aid for workers' dependents, not a business loan scheme"
+Q100,C001,Not Relevant,0,"No scheme in the dataset provides free laptops to all citizens; benefits are cash scholarships, not device distribution"
+Q101,C018,Not Relevant,0,"This fellowship is for unemployed PhD holders doing research, not a general senior-citizen pension scheme"
+Q102,C001,Not Relevant,0,"PM-USP has an income ceiling of Rs 4.50 lakh, excluding a 'no income limit' general-category applicant"
+Q102,C025,Not Relevant,0,"J&K/Ladakh scheme has an income ceiling of Rs 8 lakh and domicile restriction, not matching a general 'no income limit' MBA-abroad applicant"
+Q103,C001,Not Relevant,0,PM-USP is a merit/need-based academic scholarship with no sports-quota admission provision
+Q104,C001,Not Relevant,0,"Passport application is an unrelated government service, not covered by any scholarship scheme"
+Q105,C001,Not Relevant,0,No scheme in the dataset relates to vehicle subsidies; all schemes concern educational financial assistance
+Q106,C015,Not Relevant,0,"National Overseas Scholarship for ST supports postgraduate study/research abroad for ST students only, not culinary arts for any applicant"
+Q107,C049,Not Relevant,0,"Raitha Vidya Nidhi is an educational scholarship for farmers' children in Karnataka, not a loan-waiver scheme, and is unrelated to Punjab"
+Q108,C001,Not Relevant,0,Weather forecasts are entirely outside the scope of any educational scholarship scheme
+Q109,C001,Not Relevant,0,PM-USP requires meritorious performance (80th percentile) and low income; 'average marks' and 'high income' both fail eligibility
+Q109,C046,Not Relevant,0,D. Devaraj Urs Prathibha Puraskara requires over 90% marks; 'average marks' does not meet the merit bar
+Q110,C001,Not Relevant,0,No scheme in the dataset offers health insurance; all listed schemes provide educational scholarships/fellowships
+Q111,C001,Not Relevant,0,PM-USP has an income ceiling of Rs 4.50 lakh; 'no income restriction' for private company employees' children does not qualify

@@ -1,8 +1,112 @@
-
-query_id,query_type,source_scheme_ids,difficulty,creator,notes
-Q001,Direct,,Easy,Researcher,Direct education scholarship request
-Q002,Colloquial,,Medium,Researcher,Natural citizen wording
-Q003,Constraint,,Hard,Researcher,Multiple constraints: UG engineering and low income
-Q004,Underspecified,,Easy,Researcher,Missing important eligibility details
-Q005,Ambiguous,,Medium,Researcher,Karnataka college support with multiple possible interpretations
-    
+﻿query_id,query_type,source_scheme_ids,difficulty,creator,notes
+Q001,Direct,C001;C005;C019;C023,Easy,Researcher,Direct education scholarship request for undergraduates
+Q002,Direct,C022;C036,Easy,Researcher,"Direct category+stage lookup: SC, post-matric"
+Q003,Direct,C040,Easy,Researcher,"Direct category+stage lookup: ST, pre-matric"
+Q004,Direct,C009;C010;C011;C012,Easy,Researcher,Direct scheme-family lookup: PM-YASASVI for OBC
+Q005,Direct,C015;C038,Easy,Researcher,Direct scheme-name lookup: ST overseas scholarship
+Q006,Direct,C004;C023,Easy,Researcher,"Direct scheme lookup: girls, technical diploma"
+Q007,Direct,C005;C026,Easy,Researcher,"Direct scheme lookup: AICTE Saksham, disability"
+Q008,Direct,C006,Easy,Researcher,Direct scheme-name lookup: NMMSS
+Q009,Direct,C018,Easy,Researcher,Direct scheme-name lookup: UGC post-doctoral fellowship
+Q010,Direct,C019,Easy,Researcher,Direct scheme-name lookup: INSPIRE-SHE
+Q011,Direct,C016,Easy,Researcher,"Direct scheme-name lookup: Rajiv Gandhi Fellowship, SC"
+Q012,Direct,C014,Easy,Researcher,Direct scheme-name lookup: fellowship for disabled students
+Q013,Direct,C033,Easy,Researcher,Direct scheme-name lookup: CAPF wards scholarship
+Q014,Direct,C047,Easy,Researcher,"Direct scheme-name lookup: Karnataka MCM, minorities"
+Q015,Direct,C041,Easy,Researcher,Direct scheme-name lookup: Vidyasiri
+Q016,Direct,C049,Easy,Researcher,Direct scheme-name lookup: Raitha Vidya Nidhi
+Q017,Direct,C038,Easy,Researcher,Direct scheme-name lookup: Prabuddha Overseas
+Q018,Direct,C046,Easy,Researcher,Direct scheme-name lookup: Devaraj Urs Prathibha Puraskara
+Q019,Direct,C045,Easy,Researcher,Direct scheme-name lookup: Karnataka DST-PhD Fellowship
+Q020,Direct,C031,Easy,Researcher,Direct scheme lookup: Beedi/Cine workers' wards
+Q021,Direct,C024,Easy,Researcher,Direct scheme-name lookup: GATE/GPAT PG scholarship
+Q022,Direct,C003,Easy,Researcher,"Direct scheme-name lookup: Ishan Uday, NE region"
+Q023,Direct,C001,Easy,Researcher,Direct scheme-name lookup: PM-USP
+Q024,Direct,C017;C030,Easy,Researcher,"Direct scheme lookup: OBC fellowship, PhD stage"
+Q025,Direct,C025,Easy,Researcher,Direct scheme lookup: J&K and Ladakh region
+Q026,Direct,C048,Easy,Researcher,Direct scheme lookup: Karnataka construction workers welfare
+Q027,Colloquial,C001;C024,Medium,Researcher,Natural citizen wording: engineering student seeking fee help
+Q028,Colloquial,C001;C006,Medium,Researcher,"Natural citizen wording: low-income family, going to college"
+Q029,Colloquial,C004;C023,Medium,Researcher,"Natural citizen wording: parent asking on behalf of daughter, diploma"
+Q030,Colloquial,C020,Medium,Researcher,Natural citizen wording: PhD in physics seeking fee support
+Q031,Colloquial,C036;C037,Medium,Researcher,"Natural citizen wording: informal tone, SC student after Class 10"
+Q032,Colloquial,C031,Medium,Researcher,Natural citizen wording: occupation stated informally (beedi factory)
+Q033,Colloquial,C007;C050;C051,Medium,Researcher,Natural citizen wording: minority student post-Class 12
+Q034,Colloquial,C013;C015,Medium,Researcher,"Natural citizen wording: disability + study-abroad intent, informal"
+Q035,Colloquial,C033;C034,Medium,Researcher,Natural citizen wording: parent's force affiliation stated informally (CRPF)
+Q036,Colloquial,C049,Medium,Researcher,Natural citizen wording: location + occupation stated informally
+Q037,Colloquial,C009;C042,Medium,Researcher,"Natural citizen wording: OBC student, hostel and fee costs"
+Q038,Colloquial,C018;C027,Medium,Researcher,"Natural citizen wording: post-PhD research funding, informal tone"
+Q039,Colloquial,C003,Medium,Researcher,"Natural citizen wording: northeast regional identity, informal"
+Q040,Colloquial,C023,Medium,Researcher,"Natural citizen wording: girl in BTech, low income, informal"
+Q041,Colloquial,C009;C010,Medium,Researcher,"Natural citizen wording: IIT admission, OBC, affordability concern"
+Q042,Colloquial,C040,Medium,Researcher,"Natural citizen wording: ST student, Class 9, informal"
+Q043,Colloquial,C031,Medium,Researcher,Natural citizen wording: parent's mining occupation stated informally
+Q044,Colloquial,C001;C019,Medium,Researcher,"Natural citizen wording: science after Class 12, merit self-claim"
+Q045,Colloquial,C018,Medium,Researcher,"Natural citizen wording: postdoc fellowship, informal tone"
+Q046,Colloquial,C008;C013,Medium,Researcher,"Natural citizen wording: location + SC category, informal"
+Q047,Constraint-based,C001,Hard,Researcher,Multiple constraints: UG engineering and low income
+Q048,Constraint-based,C008;C028;C037,Hard,Researcher,"Multiple constraints: SC category, Class 9, income below Rs 2.5 lakh"
+Q049,Constraint-based,C017;C030,Hard,Researcher,"Multiple constraints: OBC category, M.Phil/PhD stage, no other stipend"
+Q050,Constraint-based,C004,Hard,Researcher,"Multiple constraints: girl, second-year lateral entry diploma, income below Rs 8 lakh"
+Q051,Constraint-based,C036,Hard,Researcher,"Multiple constraints: Karnataka domicile, SC category, post-matric stage"
+Q052,Constraint-based,C005;C026,Hard,Researcher,"Multiple constraints: 40% disability, degree admission"
+Q053,Constraint-based,C018;C027,Hard,Researcher,"Multiple constraints: gender (woman), post-doctoral stage"
+Q054,Constraint-based,C035,Hard,Researcher,"Multiple constraints: ST category, PhD stage, Rajasthan Scheduled Area"
+Q055,Constraint-based,C007,Hard,Researcher,"Multiple constraints: minority category, Haryana residency, marks threshold"
+Q056,Constraint-based,C003,Hard,Researcher,"Multiple constraints: NE domicile, first-year technical degree, income cap"
+Q057,Constraint-based,C049,Hard,Researcher,"Multiple constraints: Karnataka domicile, farmer's child, school stage"
+Q058,Constraint-based,C033;C034,Hard,Researcher,"Multiple constraints: CAPF personnel's son, rank below officer"
+Q059,Constraint-based,C015,Hard,Researcher,"Multiple constraints: ST category, overseas study, Master's level"
+Q060,Constraint-based,C018,Hard,Researcher,"Multiple constraints: unemployed, PhD holder, science background, post-doctoral funding"
+Q061,Constraint-based,C010,Hard,Researcher,"Multiple constraints: EBC/DNT category, notified Top Class institution"
+Q062,Constraint-based,C041,Hard,Researcher,"Multiple constraints: Karnataka, backward class, food/accommodation need"
+Q063,Constraint-based,C013;C043,Hard,Researcher,"Multiple constraints: disability, Class 11, DNH & DD location"
+Q064,Constraint-based,C020,Hard,Researcher,"Multiple constraints: doctoral stage, basic sciences, INSPIRE fellowship"
+Q065,Constraint-based,C001,Hard,Researcher,"Multiple constraints: merit percentile, low income, regular degree entry"
+Q066,Constraint-based,C032,Hard,Researcher,"Multiple constraints: widow status, RPF personnel, dependent in college"
+Q067,Underspecified,C001;C002,Easy,Researcher,"Missing important eligibility details (no category, income or stage given)"
+Q068,Underspecified,C001;C006,Easy,Researcher,Missing important eligibility details (fully generic student query)
+Q069,Underspecified,C001;C002,Easy,Researcher,Missing important eligibility details (education stage unspecified)
+Q070,Underspecified,,Easy,Researcher,Missing important eligibility details (no context at all)
+Q071,Underspecified,C016;C017;C020,Easy,Researcher,Missing important eligibility details (category and level of 'research' unspecified)
+Q072,Underspecified,C006;C037,Easy,Researcher,Missing important eligibility details (category and income unspecified)
+Q073,Underspecified,C001,Easy,Researcher,Missing important eligibility details (merit/income status unspecified)
+Q074,Underspecified,C007;C050;C051,Easy,Researcher,Missing important eligibility details (education stage unspecified)
+Q075,Underspecified,C014;C043;C044,Easy,Researcher,Missing important eligibility details (education stage unspecified)
+Q076,Underspecified,C001;C006,Easy,Researcher,Missing important eligibility details (education stage unspecified)
+Q077,Underspecified,C004;C023;C027,Easy,Researcher,Missing important eligibility details (education stage/course unspecified)
+Q078,Underspecified,C009;C036;C039,Easy,Researcher,Missing important eligibility details (specific reserved category unspecified)
+Q079,Underspecified,C016;C017;C020,Easy,Researcher,Missing important eligibility details (category unspecified)
+Q080,Underspecified,C031;C048,Easy,Researcher,Missing important eligibility details (occupation type unspecified)
+Q081,Underspecified,C036;C041;C045,Easy,Researcher,Missing important eligibility details (category and stage unspecified)
+Q082,Ambiguous,C036;C047;C049,Medium,Researcher,Karnataka college support with multiple possible interpretations
+Q083,Ambiguous,C009;C042,Medium,Researcher,Backward-community claim with multiple possible category interpretations
+Q084,Ambiguous,C043;C044,Medium,Researcher,'Special needs' phrasing ambiguous between disability and other support needs
+Q085,Ambiguous,C007;C009;C022,Medium,Researcher,Professional-course funding request with category left for the system to infer
+Q086,Ambiguous,C001;C006;C046,Medium,Researcher,"Merit vs need framed as either/or, ambiguous as to which basis applies"
+Q087,Ambiguous,C032;C033;C034,Medium,Researcher,'Family works for government' ambiguous across multiple force/department schemes
+Q088,Ambiguous,C002;C020,Medium,Researcher,"Fellowship vs scholarship framed as either/or, ambiguous as to which applies"
+Q089,Ambiguous,C003;C025,Medium,Researcher,Northeast vs 'hill states' ambiguous regional scope
+Q090,Ambiguous,C015;C038,Medium,Researcher,Study-abroad request ambiguous as to eligible category
+Q091,Ambiguous,C042;C050,Medium,Researcher,"Minority vs backward-class status ambiguous, both possible"
+Q092,Ambiguous,C036;C039,Medium,Researcher,"SC vs ST category ambiguous, both possible in Karnataka context"
+Q093,Ambiguous,C036;C037,Medium,Researcher,"School vs college stage ambiguous, unclear which applies"
+Q094,Ambiguous,C033;C034,Medium,Researcher,'Police force' ambiguous across multiple defense/police ward schemes
+Q095,Ambiguous,C043;C044;C050,Medium,Researcher,"Disability vs minority status ambiguous, both possible"
+Q096,Ambiguous,C001;C036,Medium,Researcher,State-level vs central-level scheme distinction left ambiguous
+Q097,Hard-negative,,Hard,Researcher,Hard negative: no income cap or eligible category stated; tests over-matching on general 'scholarship' wording
+Q098,Hard-negative,,Hard,Researcher,Hard negative: 'any Indian citizen' contradicts category-restricted overseas schemes
+Q099,Hard-negative,,Hard,Researcher,"Hard negative: business loan request, out of domain (not an education scholarship)"
+Q100,Hard-negative,,Hard,Researcher,"Hard negative: universal laptop distribution, no such benefit exists in corpus"
+Q101,Hard-negative,,Hard,Researcher,"Hard negative: senior-citizen pension, unrelated to student scholarships"
+Q102,Hard-negative,,Hard,Researcher,Hard negative: explicit 'no income limit' contradicts every income-capped scheme
+Q103,Hard-negative,,Hard,Researcher,"Hard negative: sports-quota admission, out of domain for academic scholarships"
+Q104,Hard-negative,,Hard,Researcher,"Hard negative: passport application, unrelated government service"
+Q105,Hard-negative,,Hard,Researcher,"Hard negative: vehicle subsidy, unrelated to education schemes"
+Q106,Hard-negative,,Hard,Researcher,"Hard negative: culinary-arts funding for 'any' applicant, no matching category"
+Q107,Hard-negative,,Hard,Researcher,Hard negative: farmer loan waiver (not scholarship) in an uncovered state (Punjab)
+Q108,Hard-negative,,Hard,Researcher,"Hard negative: completely unrelated domain (weather), tests basic topic filtering"
+Q109,Hard-negative,,Hard,Researcher,"Hard negative: general category, average marks, high income; fails every merit/need threshold"
+Q110,Hard-negative,,Hard,Researcher,"Hard negative: health insurance, unrelated to education scholarships"
+Q111,Hard-negative,,Hard,Researcher,Hard negative: private-sector employees' children with no income restriction; fails income-capped eligibility
