@@ -1,14 +1,14 @@
-
 import pandas as pd
 import os
 import re
 
-# -----------------------------------
-# 1. File paths
-# -----------------------------------
+# ============================================================
+# Day 3 - Clean Corpus and Build Retrieval Corpus
+# Designed for:
+# data/raw/schemes.csv
+# ============================================================
 
 RAW_FILE = "data/raw/schemes.csv"
-
 PROCESSED_FOLDER = "data/processed"
 
 CLEAN_FILE = os.path.join(
@@ -21,69 +21,75 @@ RETRIEVAL_FILE = os.path.join(
     "retrieval_corpus.csv"
 )
 
-# -----------------------------------
-# 2. Create processed folder
-# -----------------------------------
+
+# ------------------------------------------------------------
+# 1. Create processed folder
+# ------------------------------------------------------------
 
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
 
-# -----------------------------------
-# 3. Read raw CSV
-# -----------------------------------
 
-df = pd.read_csv(RAW_FILE, encoding="cp1252")
+# ------------------------------------------------------------
+# 2. Read the CSV
+# ------------------------------------------------------------
+# Your current CSV uses these columns:
+#
+# ID, Scholarship, Ministry, Category, Status,
+# Target_group, Description, Eligibility, Benefits,
+# Required_documents, Application_mode, Keywords,
+# Official_url, Source, Verification_date, Rule_version
+#
+# The encoding fallback is included because the supplied CSV
+# contains characters that are not valid UTF-8.
 
-print("Raw dataset loaded")
+def read_csv_safely(path):
+    encodings = ["utf-8-sig", "utf-8", "cp1252", "latin1"]
+
+    for encoding in encodings:
+        try:
+            df = pd.read_csv(path, encoding=encoding)
+            print(f"CSV loaded using encoding: {encoding}")
+            return df
+        except UnicodeDecodeError:
+            continue
+
+    raise ValueError("Could not decode the CSV using the supported encodings.")
+
+
+df = read_csv_safely(RAW_FILE)
+
+print("\nRaw dataset loaded successfully.")
 print("Total schemes:", len(df))
 
-# -----------------------------------
-# 4. Clean column names
-# -----------------------------------
 
-df.columns = (
-    df.columns
-    .str.strip()
-    .str.lower()
-    .str.replace(" ", "_")
-)
+# ------------------------------------------------------------
+# 3. Clean column names
+# ------------------------------------------------------------
 
-# -----------------------------------
-# 5. Clean text values
-# -----------------------------------
-
-def clean_text(value):
-    if pd.isna(value):
-        return ""
-
-    value = str(value)
-
-    # Remove unnecessary spaces
-    value = re.sub(r"\s+", " ", value)
-
-    return value.strip()
+df.columns = df.columns.str.strip()
 
 
-# Clean every column
-for column in df.columns:
-    df[column] = df[column].apply(clean_text)
-
-# -----------------------------------
-# 6. Check required columns
-# -----------------------------------
+# ------------------------------------------------------------
+# 4. Check the columns that exist in YOUR CSV
+# ------------------------------------------------------------
 
 required_columns = [
-    "scheme_id",
-    "scheme_name",
-    "category",
-    "study_level",
-    "target_group",
-    "description",
-    "eligibility",
-    "benefits",
-    "keywords",
-    "official_url",
-    "source_name",
-    "rule_version"
+    "ID",
+    "Scholarship",
+    "Ministry",
+    "Category",
+    "Status",
+    "Target_group",
+    "Description",
+    "Eligibility",
+    "Benefits",
+    "Required_documents",
+    "Application_mode",
+    "Keywords",
+    "Official_url",
+    "Source",
+    "Verification_date",
+    "Rule_version"
 ]
 
 missing_columns = [
@@ -92,46 +98,118 @@ missing_columns = [
 ]
 
 if missing_columns:
-    print("Missing columns:", missing_columns)
-    raise ValueError("Required columns are missing.")
+    print("\nERROR: These columns are missing:")
+    for column in missing_columns:
+        print("-", column)
 
-# -----------------------------------
-# 7. Check duplicate IDs
-# -----------------------------------
+    raise ValueError("Your CSV does not match the expected Day 3 schema.")
 
-duplicate_ids = df[
-    df["scheme_id"].duplicated(keep=False)
-]
+
+# ------------------------------------------------------------
+# 5. Clean text values
+# ------------------------------------------------------------
+
+def clean_text(value):
+    if pd.isna(value):
+        return ""
+
+    value = str(value)
+
+    # Replace line breaks/tabs/multiple spaces with one space
+    value = re.sub(r"\s+", " ", value)
+
+    return value.strip()
+
+
+for column in df.columns:
+    df[column] = df[column].apply(clean_text)
+
+
+# ------------------------------------------------------------
+# 6. Check duplicate scheme IDs
+# ------------------------------------------------------------
+
+duplicate_ids = df[df["ID"].duplicated(keep=False)]
 
 if len(duplicate_ids) > 0:
-    print("WARNING: Duplicate scheme IDs found")
-    print(duplicate_ids["scheme_id"].tolist())
+    print("\nWARNING: Duplicate scheme IDs found:")
+    print(duplicate_ids["ID"].tolist())
 else:
-    print("All scheme IDs are unique")
+    print("All scheme IDs are unique.")
 
-# -----------------------------------
+
+# ------------------------------------------------------------
+# 7. Check missing important values
+# ------------------------------------------------------------
+
+important_columns = [
+    "ID",
+    "Scholarship",
+    "Category",
+    "Target_group",
+    "Description",
+    "Eligibility",
+    "Benefits",
+    "Keywords",
+    "Official_url",
+    "Source",
+    "Rule_version"
+]
+
+print("\nMissing/empty values:")
+for column in important_columns:
+    empty_count = (df[column].str.strip() == "").sum()
+    print(f"{column}: {empty_count}")
+
+
+# ------------------------------------------------------------
 # 8. Save cleaned dataset
-# -----------------------------------
+# ------------------------------------------------------------
+# IMPORTANT:
+# data/raw/schemes.csv is NEVER modified.
 
-df.to_csv(CLEAN_FILE, index=False)
+df.to_csv(
+    CLEAN_FILE,
+    index=False,
+    encoding="utf-8-sig"
+)
 
-print("Clean dataset saved:", CLEAN_FILE)
+print("\nClean dataset saved to:")
+print(CLEAN_FILE)
 
-# -----------------------------------
+
+# ------------------------------------------------------------
 # 9. Build retrieval text
-# -----------------------------------
+# ------------------------------------------------------------
+#
+# The supplied CSV does NOT contain a Study_level column.
+# Therefore, this script does NOT invent one.
+#
+# Retrieval text uses the fields actually present in your CSV
+# that are relevant to scholarship search:
+#
+# Scholarship
+# Category
+# Target_group
+# Description
+# Eligibility
+# Benefits
+# Keywords
+#
+# Ministry, status, documents, application mode, URL, source,
+# verification date and rule version remain outside retrieval
+# text as metadata/supporting information.
 
 def build_retrieval_text(row):
 
     return (
-        f"Scheme Name: {row['scheme_name']}. "
-        f"Category: {row['category']}. "
-        f"Study Level: {row['study_level']}. "
-        f"Target Group: {row['target_group']}. "
-        f"Description: {row['description']}. "
-        f"Eligibility: {row['eligibility']}. "
-        f"Benefits: {row['benefits']}. "
-        f"Keywords: {row['keywords']}."
+        f"Scheme Name: {row['Scholarship']}. "
+        f"Category: {row['Category']}. "
+        f"Target Group: {row['Target_group']}. "
+        f"Description: {row['Description']}. "
+        f"Eligibility: {row['Eligibility']}. "
+        f"Benefits: {row['Benefits']}. "
+        f"Keywords: {row['Keywords']}."
     )
 
 
@@ -140,54 +218,114 @@ df["retrieval_text"] = df.apply(
     axis=1
 )
 
-# -----------------------------------
+
+# ------------------------------------------------------------
 # 10. Create retrieval corpus
-# -----------------------------------
+# ------------------------------------------------------------
 
-retrieval_columns = [
-    "scheme_id",
-    "scheme_name",
-    "retrieval_text",
-    "official_url",
-    "source_name",
-    "rule_version"
-]
+retrieval_df = pd.DataFrame({
+    "scheme_id": df["ID"],
+    "scheme_name": df["Scholarship"],
+    "retrieval_text": df["retrieval_text"],
+    "official_url": df["Official_url"],
+    "source_name": df["Source"],
+    "rule_version": df["Rule_version"]
+})
 
-retrieval_df = df[retrieval_columns].copy()
 
-retrieval_df.to_csv(
-    RETRIEVAL_FILE,
-    index=False
-)
+# ------------------------------------------------------------
+# 11. Check empty retrieval text
+# ------------------------------------------------------------
 
-print("Retrieval corpus saved:", RETRIEVAL_FILE)
-
-# -----------------------------------
-# 11. Validation
-# -----------------------------------
-
-print("\n--- VALIDATION ---")
-
-print("Raw schemes:", len(df))
-print("Clean schemes:", len(df))
-print("Retrieval schemes:", len(retrieval_df))
-
-# Check empty retrieval text
-empty_text = retrieval_df[
+empty_retrieval = retrieval_df[
     retrieval_df["retrieval_text"].str.strip() == ""
 ]
 
-print("Empty retrieval texts:", len(empty_text))
+print("\nEmpty retrieval texts:", len(empty_retrieval))
 
-# Check duplicate retrieval text
-duplicate_text = retrieval_df[
+
+# ------------------------------------------------------------
+# 12. Check duplicate retrieval text
+# ------------------------------------------------------------
+
+duplicate_retrieval = retrieval_df[
     retrieval_df["retrieval_text"].duplicated(keep=False)
 ]
 
-print("Duplicate retrieval texts:", len(duplicate_text))
+print("Duplicate retrieval texts:", len(duplicate_retrieval))
 
-# Check missing metadata
-print("\nMissing values:")
-print(retrieval_df.isnull().sum())
+if len(duplicate_retrieval) > 0:
+    print("\nWARNING: Duplicate retrieval text found for:")
+    print(
+        duplicate_retrieval[
+            ["scheme_id", "scheme_name"]
+        ].to_string(index=False)
+    )
 
-print("\nDay 3 corpus preparation complete!")
+
+# ------------------------------------------------------------
+# 13. Save retrieval corpus
+# ------------------------------------------------------------
+
+retrieval_df.to_csv(
+    RETRIEVAL_FILE,
+    index=False,
+    encoding="utf-8-sig"
+)
+
+print("\nRetrieval corpus saved to:")
+print(RETRIEVAL_FILE)
+
+
+# ------------------------------------------------------------
+# 14. Final validation
+# ------------------------------------------------------------
+
+print("\n==============================")
+print("DAY 3 VALIDATION")
+print("==============================")
+
+print("Raw corpus count:       ", len(df))
+print("Clean corpus count:     ", len(df))
+print("Retrieval corpus count: ", len(retrieval_df))
+
+print(
+    "Empty retrieval texts:  ",
+    len(empty_retrieval)
+)
+
+print(
+    "Duplicate retrieval text:",
+    len(duplicate_retrieval)
+)
+
+print("\nRetrieval corpus columns:")
+print(retrieval_df.columns.tolist())
+
+
+# ------------------------------------------------------------
+# 15. Check that corpus size was preserved
+# ------------------------------------------------------------
+
+if len(df) != len(retrieval_df):
+    raise ValueError(
+        "ERROR: The number of schemes changed while creating "
+        "the retrieval corpus."
+    )
+
+print("\nCorpus size preserved successfully.")
+
+
+# ------------------------------------------------------------
+# 16. Final message
+# ------------------------------------------------------------
+
+print("\nDay 3 corpus preparation completed successfully.")
+
+print("\nCreated files:")
+print("1.", CLEAN_FILE)
+print("2.", RETRIEVAL_FILE)
+
+print("\nIMPORTANT:")
+print("The original file was not modified:")
+print(RAW_FILE)
