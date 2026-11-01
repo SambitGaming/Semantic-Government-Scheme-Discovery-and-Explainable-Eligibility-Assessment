@@ -1,0 +1,26 @@
+{
+  "source_id": "socialjustice_schemes_23",
+  "source_url": "https://socialjustice.gov.in/schemes/23",
+  "candidate_count": 3,
+  "candidates": [
+    {
+      "text": "",
+      "url": "https://socialjustice.gov.in/schemes/23",
+      "discovery_source_url": "https://socialjustice.gov.in/schemes/23",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "Schemes",
+      "url": "https://socialjustice.gov.in/schemes",
+      "discovery_source_url": "https://socialjustice.gov.in/schemes/23",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "Archive",
+      "url": "https://socialjustice.gov.in/schemes/23/archive",
+      "discovery_source_url": "https://socialjustice.gov.in/schemes/23",
+      "verification_status": "pending_review"
+    }
+  ],
+  "verification_status": "pending_review"
+}

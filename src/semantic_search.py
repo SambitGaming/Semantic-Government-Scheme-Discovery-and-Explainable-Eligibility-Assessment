@@ -1,4 +1,3 @@
-
 import os
 import pandas as pd
 from sentence_transformers import SentenceTransformer
@@ -81,7 +80,7 @@ def semantic_search(query, top_k=5):
     # Copy dataset so original data is not modified
     results = df.copy()
 
-    # Add similarity scores
+    # Keep similarity score internally for ranking
     results["similarity_score"] = similarity_scores
 
     # Sort by highest similarity
@@ -112,10 +111,10 @@ for query in queries:
 
     results = semantic_search(query, top_k=5)
 
+    # Similarity score is NOT displayed
     display_columns = [
         "scheme_id",
-        "scheme_name",
-        "similarity_score"
+        "scheme_name"
     ]
 
     print(
@@ -146,12 +145,12 @@ while True:
 
     print("\nTop matching schemes:\n")
 
+    # Similarity score is NOT displayed
     print(
         results[
             [
                 "scheme_id",
                 "scheme_name",
-                "similarity_score",
                 "official_url"
             ]
         ].to_string(index=False)

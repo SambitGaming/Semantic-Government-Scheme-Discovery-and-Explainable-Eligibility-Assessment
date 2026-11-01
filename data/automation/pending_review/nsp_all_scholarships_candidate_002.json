@@ -1,0 +1,16 @@
+{
+  "source_id": "nsp_all_scholarships_candidate_002",
+  "source_name": "Apply For Scholarship",
+  "official_url": "https://scholarships.gov.in/ApplicationForm",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-19T12:50:16.597407+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The HTML page contains no extractable text content."
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null,
+  "discovered_from": "https://scholarships.gov.in/All-Scholarships",
+  "discovery_candidate_text": "Apply For Scholarship"
+}

@@ -1,0 +1,176 @@
+rule_id,scheme_id,rule_type,field,operator,value,explanation,version,Official_url
+R001,C001,education,education_level,IN,Undergraduate|Postgraduate|Professional,"Applicant must be pursuing a regular graduate, postgraduate or professional degree course. Professional is included as a distinct education category.",1,https://scholarships.gov.in/
+R002,C001,income,annual_income,<=,450000,"Gross parental/family income must not exceed ?4,50,000 per annum",1,https://scholarships.gov.in/
+R003,C001,study_mode,study_mode,==,Regular,Must be a regular degree course; correspondence/distance students are excluded,1,https://scholarships.gov.in/
+R004,C001,scholarship_status,receives_other_scholarship,==,No,Applicant must not be receiving another scholarship or State-run scholarship/fee waiver/reimbursement,1,https://scholarships.gov.in/
+R005,C002,education,education_level,==,Postgraduate,Applicant must be pursuing a postgraduate degree,1,https://scholarships.gov.in/
+R006,C002,education,year_of_study,==,1,Applicant must be enrolled in the first year of the postgraduate programme,1,https://scholarships.gov.in/
+R007,C002,qualification,has_completed_postgraduate,==,No,Applicant must not already have completed a postgraduate degree (first PG degree only),1,https://scholarships.gov.in/
+R008,C002,age,age,<,30,Applicant must be under 30 years of age,1,https://scholarships.gov.in/
+R009,C002,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://scholarships.gov.in/
+R010,C003,state,state,IN,Arunachal Pradesh|Assam|Manipur|Meghalaya|Mizoram|Nagaland|Sikkim|Tripura,Applicant must be a domicile of the North Eastern Region,1,https://scholarships.gov.in/
+R011,C003,income,annual_income,<=,450000,"Parental annual income must not exceed ?4,50,000",1,https://scholarships.gov.in/
+R012,C003,education,education_level,==,Undergraduate,Applicant must be admitted to an eligible degree course,1,https://scholarships.gov.in/
+R013,C003,education,year_of_study,==,1,Applicant must be admitted to the first year of the degree course,1,https://scholarships.gov.in/
+R014,C003,study_mode,study_mode,==,Regular,Open University and non-degree/diploma students are excluded; course must be a regular degree course,1,https://scholarships.gov.in/
+R015,C003,scholarship_status,receives_other_scholarship,==,No,Students already receiving another undergraduate scholarship are excluded,1,https://scholarships.gov.in/
+R016,C004,gender,gender,==,Female,Applicant must be a girl student,1,https://scholarships.gov.in/
+R017,C004,education,education_level,==,Diploma,Applicant must be pursuing a technical diploma course,1,https://scholarships.gov.in/
+R018,C004,education,year_of_study,IN,1|2,"Applicant must be in first year of diploma, or second year via lateral entry",1,https://scholarships.gov.in/
+R019,C004,income,annual_income,<=,800000,"Family annual income from all sources must not exceed ?8,00,000",1,https://scholarships.gov.in/
+R020,C004,state,state,IN,Andaman and Nicobar Islands|Jammu and Kashmir|Ladakh|Dadra and Nagar Haveli and Daman and Diu|Lakshadweep|Arunachal Pradesh|Assam|Manipur|Meghalaya|Mizoram|Nagaland|Sikkim|Tripura,Applicant must be from the listed Union Territories / North Eastern States,1,https://scholarships.gov.in/
+R021,C005,education,education_level,==,Undergraduate,Applicant must be pursuing a degree course,1,https://scholarships.gov.in/
+R022,C005,education,year_of_study,IN,1|2,"Applicant must be in first year of degree, or second year via lateral entry",1,https://scholarships.gov.in/
+R023,C005,disability,disability_percentage,>=,40,Disability must be at least 40% (benchmark disability),1,https://scholarships.gov.in/
+R024,C005,income,annual_income,<=,800000,"Family income from all sources must not exceed ?8,00,000 per annum",1,https://scholarships.gov.in/
+R025,C005,scholarship_status,receives_other_scholarship,==,No,"Students receiving another scholarship, emolument, salary or stipend are excluded",1,https://scholarships.gov.in/
+R026,C006,education,class_level,==,8,Applicant must be a Class VIII student entering Class IX,1,https://scholarships.gov.in/
+R027,C006,income,annual_income,<=,350000,"Parental income from all sources must not exceed ?3,50,000 per annum",1,https://scholarships.gov.in/
+R028,C006,marks,percentage,>=,55,"Base threshold is 55% marks in Class VII. SC/ST applicants may qualify at 50% after the stated 5% relaxation; the current 8-column rule format cannot encode that category-dependent exception, so it requires manual/category-aware verification.",1,https://scholarships.gov.in/
+R029,C006,institution,institution_type,IN,Government|Government-aided|Local body,"Applicant must be a regular student of a Government, Government-aided or local body school",1,https://scholarships.gov.in/
+R030,C007,religion,religion,IN,Muslim|Christian|Sikh|Buddhist|Jain|Parsi,"Applicant must belong to a notified minority community (Muslim, Christian, Sikh, Buddhist, Jain or Parsi)",1,https://scholarships.gov.in/
+R031,C007,state,state,==,Haryana,Applicant must be a resident of Haryana,1,https://scholarships.gov.in/
+R032,C007,course,course_type,IN,Professional|Technical,Applicant must be admitted to a recognized professional or technical course,1,https://scholarships.gov.in/
+R033,C007,marks,percentage,>=,50,Applicant must have at least 50% marks in the previous qualifying examination,1,https://scholarships.gov.in/
+R034,C007,income,annual_income,<=,250000,"Annual family income must not exceed ?2,50,000",1,https://scholarships.gov.in/
+R035,C007,scholarship_status,receives_other_scholarship,==,No,Applicants receiving another scholarship or stipend for the same course are ineligible,1,https://scholarships.gov.in/
+R036,C008,state,state,==,Dadra and Nagar Haveli and Daman and Diu,Applicant must belong to Dadra & Nagar Haveli and Daman & Diu,1,https://scholarships.gov.in/
+R037,C008,education,class_level,IN,9|10,Applicant must be studying in Class IX or X,1,https://scholarships.gov.in/
+R038,C008,category,category,==,SC,Applicant must belong to Scheduled Caste,1,https://scholarships.gov.in/
+R039,C008,income,annual_income,<=,250000,"Parents'/guardian's annual income from all sources must not exceed ?2,50,000",1,https://scholarships.gov.in/
+R040,C009,citizenship,citizenship,==,Indian,Applicant must be an Indian national,1,https://scholarships.gov.in/
+R041,C009,category,category,IN,OBC|EBC|DNT,"Applicant must belong to OBC, EBC or DNT category",1,https://scholarships.gov.in/
+R042,C009,education,education_level,!=,School,Applicant must be pursuing post-matric (Class XI or above) education,1,https://scholarships.gov.in/
+R043,C009,income,annual_income,<=,250000,Income ceiling of ?2.50 lakh applies (parents/guardians' income for unemployed students),1,https://scholarships.gov.in/
+R044,C010,category,category,IN,OBC|EBC|DNT,"Applicant must belong to OBC, EBC or DNT category",1,https://scholarships.gov.in/
+R045,C010,education,education_level,IN,Undergraduate|Postgraduate,Applicant must be pursuing studies beyond Class XII (degree level),1,https://scholarships.gov.in/
+R046,C010,income,annual_income,<=,250000,Total annual family income from all sources must be up to ?2.50 lakh,1,https://scholarships.gov.in/
+R047,C010,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://scholarships.gov.in/
+R048,C011,category,category,IN,OBC|EBC|DNT,"Applicant must belong to OBC, EBC or DNT category",1,https://scholarships.gov.in/
+R049,C011,income,annual_income,<,250000,Household annual income must be less than ?2.5 lakh,1,https://scholarships.gov.in/
+R050,C011,education,class_level,>=,9,Applicant must be studying in Class 9 or above,1,https://scholarships.gov.in/
+R051,C012,citizenship,citizenship,==,Indian,Applicant must be an Indian national,1,https://scholarships.gov.in/
+R052,C012,income,annual_income,<=,250000,Parents'/guardians' annual income from all sources must not exceed ?2.5 lakh,1,https://scholarships.gov.in/
+R053,C012,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://scholarships.gov.in/
+R054,C012,education,class_level,IN,9|10,Applicant must be studying in Class IX or X,1,https://scholarships.gov.in/
+R055,C012,institution,institution_type,==,Government,Applicant must study in a Government school only,1,https://scholarships.gov.in/
+R056,C012,category,category,IN,OBC|EBC|DNT,"Applicant must belong to OBC, EBC or DNT category",1,https://scholarships.gov.in/
+R057,C013,state,state,==,Dadra and Nagar Haveli and Daman and Diu,Applicant must belong to DNH & DD,1,https://scholarships.gov.in/
+R058,C013,disability,has_disability,==,Yes,Applicant must be a student with disability,1,https://scholarships.gov.in/
+R059,C013,education,education_level,IN,Diploma|Undergraduate|Postgraduate,Applicant must be pursuing a graduate or postgraduate degree/diploma course,1,https://scholarships.gov.in/
+R060,C013,income,annual_income,<=,800000,Annual family income must not exceed ?8 lakh,1,https://scholarships.gov.in/
+R061,C014,disability,disability_percentage,>=,40,Disability must be at least 40% (benchmark disability),1,https://depwd.gov.in/
+R062,C014,education,education_level,IN,MPhil|PhD,Applicant must be admitted to M.Phil. or Ph.D.,1,https://depwd.gov.in/
+R063,C015,category,category,==,ST,Applicant must belong to Scheduled Tribe (ST/PVTG),1,https://overseas.tribal.gov.in/StudentsRegistrationForm.aspx
+R064,C015,income,annual_income,<=,600000,Family income must not exceed ?6 lakh per annum,1,https://overseas.tribal.gov.in/StudentsRegistrationForm.aspx
+R065,C015,marks,percentage,>=,55,Applicant must have at least 55% marks (or equivalent) in the qualifying examination,1,https://overseas.tribal.gov.in/StudentsRegistrationForm.aspx
+R066,C015,age,age,<=,38,"Maximum age is 38 for the highest listed limit (Post-Doctoral). The scheme also specifies lower programme-specific limits of 32 for Masters and 35 for Ph.D.; the current 8-column rule format cannot encode that programme-dependent exception, so programme-specific verification is required.",1,https://overseas.tribal.gov.in/StudentsRegistrationForm.aspx
+R067,C016,category,category,==,SC,Applicant must belong to Scheduled Caste,1,http://www.ugc.ac.in/ugc_schemes/
+R068,C016,qualification,has_completed_postgraduate,==,Yes,Applicant must have passed a postgraduate examination,1,http://www.ugc.ac.in/ugc_schemes/
+R069,C016,education,education_level,IN,MPhil|PhD,Applicant must be registered for M.Phil./Ph.D.,1,http://www.ugc.ac.in/ugc_schemes/
+R070,C017,category,category,==,OBC,Applicant must belong to OBC category,1,https://www.ugc.gov.in/
+R071,C017,education,education_level,IN,MPhil|PhD,Applicant must be pursuing M.Phil./Ph.D.,1,https://www.ugc.gov.in/
+R072,C017,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://www.ugc.gov.in/
+R073,C017,employment,is_government_employee,==,No,Employees of universities/colleges/educational institutions and Central/State/UT governments are excluded,1,https://www.ugc.gov.in/
+R074,C018,qualification,highest_qualification,==,PhD,Applicant must hold a Ph.D. degree,1,https://frg.ugc.ac.in/
+R075,C018,employment,employment_status,==,Unemployed,Applicant must be unemployed,1,https://frg.ugc.ac.in/
+R076,C019,education,education_level,IN,Undergraduate|Postgraduate,Applicant must be pursuing a Bachelor/Master level course,1,https://www.online-inspire.gov.in
+R077,C019,course,course_stream,==,Science,"Course must be in Natural/Basic Sciences (Engineering, Medicine, Computer Science/IT etc. are excluded)",1,https://www.online-inspire.gov.in
+R078,C020,education,education_level,==,PhD,Applicant must be pursuing a Ph.D.,1,https://www.online-inspire.gov.in
+R079,C020,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://www.online-inspire.gov.in
+R080,C020,marks,percentage,>=,70,Minimum 70% aggregate (M.Sc./integrated M.S./M.Sc.) required,1,https://www.online-inspire.gov.in
+R081,C021,citizenship,citizenship,IN,Indian|PIO,Applicant must be an Indian citizen or Person of Indian Origin,1,http://www.online-inspire.gov.in
+R082,C021,qualification,highest_qualification,==,PhD,Applicant must hold a Ph.D. (thesis-submitted candidates are handled manually),1,http://www.online-inspire.gov.in
+R083,C021,marks,percentage,>=,60,Minimum 60% (or equivalent CGPA) throughout academic profile from Class 12 onwards,1,http://www.online-inspire.gov.in
+R084,C021,age,age,<=,42,"Maximum age is 42 for the benchmark-disability limit. The scheme also specifies 32 for General and 37 for SC/ST/Women; the current 8-column rule format cannot encode those category/status-dependent limits, so category/status verification is required.",1,http://www.online-inspire.gov.in
+R085,C022,category,category,IN,SC|ST,Applicant must belong to SC/ST category,1,https://scholarships.gov.in/
+R086,C022,education,education_level,==,Postgraduate,Applicant must be admitted to a postgraduate course,1,https://scholarships.gov.in/
+R087,C022,education,year_of_study,==,1,Only first-year postgraduate students are eligible,1,https://scholarships.gov.in/
+R088,C022,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://scholarships.gov.in/
+R089,C022,course,course_type,==,Professional,Course must be a professional postgraduate course,1,https://scholarships.gov.in/
+R090,C023,gender,gender,==,Female,Applicant must be a girl student,1,https://scholarships.gov.in/
+R091,C023,education,education_level,==,Undergraduate,Applicant must be pursuing a technical degree course,1,https://scholarships.gov.in/
+R092,C023,education,year_of_study,IN,1|2,"Applicant must be in first year of degree, or second year via lateral entry",1,https://scholarships.gov.in/
+R093,C023,income,annual_income,<=,800000,"Annual family income (all sources) must not exceed ?8,00,000",1,https://scholarships.gov.in/
+R094,C023,state,state,IN,Andaman and Nicobar Islands|Jammu and Kashmir|Ladakh|Dadra and Nagar Haveli and Daman and Diu|Lakshadweep|Arunachal Pradesh|Assam|Manipur|Meghalaya|Mizoram|Nagaland|Sikkim|Tripura,Applicant must be from the listed Union Territories / North Eastern States,1,https://scholarships.gov.in/
+R095,C024,qualification,has_gate_ceed_score,==,Yes,Applicant must have a valid GATE/CEED score at the time of admission,1,https://pgscholarship.aicte-india.org/
+R096,C024,education,education_level,==,Postgraduate,Applicant must be admitted to a postgraduate programme,1,https://pgscholarship.aicte-india.org/
+R097,C024,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://pgscholarship.aicte-india.org/
+R098,C025,state,state,IN,Jammu and Kashmir|Ladakh,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+R099,C025,income,annual_income,<=,800000,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+R100,C026,education,education_level,==,Diploma,Applicant must be pursuing a diploma course,1,https://scholarships.gov.in/
+R101,C026,education,year_of_study,IN,1|2,"Applicant must be in first year of diploma, or second year via lateral entry",1,https://scholarships.gov.in/
+R102,C026,disability,disability_percentage,>=,40,Disability must be at least 40% (benchmark disability),1,https://scholarships.gov.in/
+R103,C026,income,annual_income,<=,800000,Family income from all sources must not exceed ?8 lakh per annum,1,https://scholarships.gov.in/
+R104,C027,citizenship,citizenship,==,Indian,Applicant must be an Indian citizen,1,https://serb.gov.in/
+R105,C027,qualification,highest_qualification,IN,PhD|MD|MS,Applicant must hold a PhD/M.D/M.S degree (thesis-submitted candidates are handled manually),1,https://serb.gov.in/
+R106,C027,age,age,<=,40,"Maximum age is 40 where the stated 5-year relaxation applies (base limit 35 plus 5 years for SC/ST/OBC/PwD/Women). The current 8-column rule format cannot encode the relaxation condition, so category/status verification is required.",1,https://serb.gov.in/
+R107,C028,education,class_level,IN,9|10,Applicant must be studying in Class IX or X,1,
+R108,C028,category,category,==,SC,Applicant must belong to Scheduled Caste,1,
+R109,C028,income,annual_income,<=,250000,Total income of parents/guardian must not exceed ?2.5 lakh per annum,1,
+R110,C029,state,state,==,Dadra and Nagar Haveli and Daman and Diu,Applicant must belong to DNH & DD,1,https://scholarships.gov.in/
+R111,C029,disability,has_disability,==,Yes,Applicant must be a student with disability,1,https://scholarships.gov.in/
+R112,C029,education,education_level,IN,Diploma|Undergraduate|Postgraduate,Applicant must be pursuing a graduate or postgraduate degree/diploma course,1,https://scholarships.gov.in/
+R113,C029,income,annual_income,<=,800000,Annual family income must not exceed ?8 lakh,1,https://scholarships.gov.in/
+R114,C030,category,category,==,OBC,Applicant must belong to OBC category,1,https://www.ugc.gov.in/
+R115,C030,education,education_level,IN,MPhil|PhD,Applicant must be pursuing M.Phil./Ph.D.,1,https://www.ugc.gov.in/
+R116,C030,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://www.ugc.gov.in/
+R117,C030,employment,is_government_employee,==,No,Employees of universities/colleges/educational institutions and Central/State/UT governments are excluded,1,https://www.ugc.gov.in/
+R118,C031,study_mode,study_mode,==,Regular,Correspondence study is excluded; regular admission is required,1,https://scholarships.gov.in/
+R119,C032,marks,percentage,>=,60,Minimum 60% in the qualifying examination (10+2/Diploma/Graduation as applicable),1,https://scholarships.gov.in/
+R120,C032,course,course_type,==,Professional,Course must be an eligible professional degree course,1,https://scholarships.gov.in/
+R121,C032,study_mode,study_mode,==,Regular,Study abroad and distance learning are not eligible; regular admission is required,1,https://scholarships.gov.in/
+R122,C033,marks,percentage,>=,60,Minimum 60% in the qualifying examination (10+2/Diploma/Graduation as applicable),1,https://scholarships.gov.in/
+R123,C033,course,course_type,==,Professional,Course must be an eligible professional degree course,1,https://scholarships.gov.in/
+R124,C033,study_mode,study_mode,==,Regular,Study abroad and distance learning are not eligible; regular admission is required,1,https://scholarships.gov.in/
+R125,C034,marks,percentage,>=,60,Minimum 60% in the qualifying examination (10+2/Diploma/Graduation as applicable),1,
+R126,C034,course,course_type,==,Professional,Course must be an eligible professional degree course,1,
+R127,C035,state,state,==,Rajasthan,Applicant must be a native of Rajasthan,1,
+R128,C035,category,category,==,ST,Applicant must belong to Scheduled Tribe,1,
+R129,C035,qualification,has_completed_postgraduate,==,Yes,Applicant must have completed post-graduation,1,
+R130,C035,marks,percentage,>=,50,Post-graduation marks must be at least 50%,1,
+R131,C035,education,education_level,==,PhD,Applicant must be registered for a Ph.D. programme,1,
+R132,C036,category,category,==,SC,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+R133,C036,state,state,==,Karnataka,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+R134,C036,education,education_level,!=,School,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+R135,C037,education,class_level,IN,9|10,Applicant must be studying in Class IX or X,1,https://socialjustice.gov.in/schemes/23
+R136,C037,study_mode,study_mode,==,Full-time,Course must be pursued on a full-time basis,1,https://socialjustice.gov.in/schemes/23
+R137,C037,category,category,==,SC,Applicant must be SC,1,https://socialjustice.gov.in/schemes/23
+R138,C037,income,annual_income,<=,250000,Parent/guardian income must not exceed ?2.50 lakh per year,1,https://socialjustice.gov.in/schemes/23
+R139,C038,category,category,IN,SC|ST,Applicant must be an SC or ST student,1,https://socialwelfare.karnataka.gov.in/
+R140,C038,state,state,==,Karnataka,Applicant must be from Karnataka,1,https://socialwelfare.karnataka.gov.in/
+R141,C039,category,category,==,ST,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+R142,C039,education,education_level,!=,School,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+R143,C039,income,annual_income,<=,250000,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+R144,C040,education,class_level,IN,9|10,Applicant must be studying in Class IX or X,1,https://tribal.nic.in/ScholarshiP.aspx
+R145,C040,category,category,==,ST,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+R146,C040,income,annual_income,<=,250000,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+R147,C041,state,state,==,Karnataka,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+R148,C041,education,education_level,!=,School,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+R149,C042,state,state,==,Karnataka,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+R150,C042,education,education_level,!=,School,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+R151,C043,education,class_level,IN,9|10,Applicant must be studying in Class IX or X,1,https://scholarships.gov.in/All-Scholarships
+R152,C043,citizenship,citizenship,==,Indian,Applicant must be an Indian national,1,https://scholarships.gov.in/All-Scholarships
+R153,C043,disability,disability_percentage,>=,40,Disability must be at least 40% (benchmark disability),1,https://scholarships.gov.in/All-Scholarships
+R154,C043,income,annual_income,<=,250000,Family income must not exceed ?2.5 lakh per year,1,https://scholarships.gov.in/All-Scholarships
+R155,C043,scholarship_status,receives_other_scholarship,==,No,Applicant must not be receiving another scholarship/stipend under the stated rules,1,https://scholarships.gov.in/All-Scholarships
+R156,C044,education,education_level,IN,Higher Secondary|Diploma|Undergraduate|Postgraduate,"Applicant must be in Class XI/XII, diploma, degree or postgraduate study",1,https://scholarships.gov.in/All-Scholarships
+R157,C044,citizenship,citizenship,==,Indian,Applicant must be an Indian national,1,https://scholarships.gov.in/All-Scholarships
+R158,C044,disability,disability_percentage,>=,40,Disability must be at least 40% (benchmark disability),1,https://scholarships.gov.in/All-Scholarships
+R159,C044,income,annual_income,<=,250000,Family income must not exceed ?2.5 lakh per year,1,https://scholarships.gov.in/All-Scholarships
+R160,C044,scholarship_status,receives_other_scholarship,==,No,Applicant must not be receiving another post-matric scholarship/stipend under the stated rules,1,https://scholarships.gov.in/All-Scholarships
+R161,C045,education,education_level,==,PhD,Applicant must be registered for a Ph.D.,1,https://ksteps.karnataka.gov.in/
+R162,C045,course,course_stream,IN,Science|Engineering,Ph.D. must be in Science or Engineering,1,https://ksteps.karnataka.gov.in/
+R163,C046,state,state,==,Karnataka,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+R164,C046,marks,percentage,>,90,Applicant must score more than 90% in SSLC/PUC/Bachelor's/Master's,1,https://bcwd.karnataka.gov.in/
+R165,C047,religion,religion,IN,Muslim|Christian|Sikh|Buddhist|Jain|Parsi,Applicant must belong to a notified minority community,1,https://dom.karnataka.gov.in/
+R166,C047,course,course_type,IN,Professional|Technical,Applicant must be pursuing a professional/technical course,1,https://dom.karnataka.gov.in/
+R167,C047,marks,percentage,>=,50,Fresh applicants must have at least 50% marks,1,https://dom.karnataka.gov.in/
+R168,C047,income,annual_income,<=,250000,Parental/guardian income must not exceed ?2.5 lakh,1,https://dom.karnataka.gov.in/
+R169,C050,religion,religion,IN,Muslim|Christian|Sikh|Buddhist|Jain|Parsi,Applicant must belong to a notified minority community,1,https://dom.karnataka.gov.in/
+R170,C050,education,education_level,!=,School,Applicant must be pursuing post-matric (Class XI or above) education,1,https://dom.karnataka.gov.in/
+R171,C050,marks,percentage,>=,50,Fresh applicants must have at least 50% marks,1,https://dom.karnataka.gov.in/
+R172,C050,income,annual_income,<=,200000,Parental/guardian income must not exceed ?2 lakh,1,https://dom.karnataka.gov.in/
+R173,C051,religion,religion,IN,Muslim|Christian|Sikh|Buddhist|Jain|Parsi,Applicant must belong to a notified minority community,1,https://dom.karnataka.gov.in/
+R174,C051,education,class_level,<=,10,Applicant must be studying in Classes I-X,1,https://dom.karnataka.gov.in/
+R175,C051,income,annual_income,<=,100000,Parental/guardian income must not exceed ?1 lakh,1,https://dom.karnataka.gov.in/

@@ -1,0 +1,132 @@
+query_id,query,rank,scheme_id,relevance,observation
+Q001,Scholarships for undergraduate students,Not retrieved,C005,1.0,Relevant scheme was not retrieved within Top-10
+Q001,Scholarships for undergraduate students,Not retrieved,C023,1.0,Relevant scheme was not retrieved within Top-10
+Q002,Post-matric scholarship for SC students,Not retrieved,C022,1.0,Relevant scheme was not retrieved within Top-10
+Q004,PM-YASASVI scholarship for OBC students,Not retrieved,C010,2.0,Relevant scheme was not retrieved within Top-10
+Q004,PM-YASASVI scholarship for OBC students,Not retrieved,C012,2.0,Relevant scheme was not retrieved within Top-10
+Q027,I'm studying engineering and need some financial help for college,Not retrieved,C024,1.0,Relevant scheme was not retrieved within Top-10
+Q028,hey any scholarships for a poor family kid going to college?,Not retrieved,C006,1.0,Relevant scheme was not retrieved within Top-10
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",Not retrieved,C004,2.0,Relevant scheme was not retrieved within Top-10
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",Not retrieved,C020,2.0,Relevant scheme was not retrieved within Top-10
+Q034,is there anything for disabled students who want to study abroad,Not retrieved,C013,1.0,Relevant scheme was not retrieved within Top-10
+Q035,"my son's dad was in CRPF, are there any scholarships for us",Not retrieved,C033,2.0,Relevant scheme was not retrieved within Top-10
+Q035,"my son's dad was in CRPF, are there any scholarships for us",Not retrieved,C034,1.0,Relevant scheme was not retrieved within Top-10
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",Not retrieved,C049,2.0,Relevant scheme was not retrieved within Top-10
+Q037,can obc students get scholarship money for hostel and fees after 10th,Not retrieved,C009,2.0,Relevant scheme was not retrieved within Top-10
+Q038,"i want to do research after my PhD, is there any fellowship for that",Not retrieved,C018,2.0,Relevant scheme was not retrieved within Top-10
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",Not retrieved,C010,2.0,Relevant scheme was not retrieved within Top-10
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",Not retrieved,C009,1.0,Relevant scheme was not retrieved within Top-10
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,Not retrieved,C040,2.0,Relevant scheme was not retrieved within Top-10
+Q044,"looking for scholarship money to study science after 12th, i study hard",Not retrieved,C001,1.0,Relevant scheme was not retrieved within Top-10
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",Not retrieved,C013,1.0,Relevant scheme was not retrieved within Top-10
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,Not retrieved,C001,2.0,Relevant scheme was not retrieved within Top-10
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,Not retrieved,C037,2.0,Relevant scheme was not retrieved within Top-10
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,Not retrieved,C049,2.0,Relevant scheme was not retrieved within Top-10
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,Not retrieved,C043,2.0,Relevant scheme was not retrieved within Top-10
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,Not retrieved,C013,1.0,Relevant scheme was not retrieved within Top-10
+Q067,I need help paying for my education,Not retrieved,C001,1.0,Relevant scheme was not retrieved within Top-10
+Q067,I need help paying for my education,Not retrieved,C002,1.0,Relevant scheme was not retrieved within Top-10
+Q068,Any scholarships for students?,Not retrieved,C001,1.0,Relevant scheme was not retrieved within Top-10
+Q069,I want financial help for higher studies,Not retrieved,C001,1.0,Relevant scheme was not retrieved within Top-10
+Q071,Scholarship for research students,Not retrieved,C020,1.0,Relevant scheme was not retrieved within Top-10
+Q071,Scholarship for research students,Not retrieved,C016,1.0,Relevant scheme was not retrieved within Top-10
+Q071,Scholarship for research students,Not retrieved,C017,1.0,Relevant scheme was not retrieved within Top-10
+Q075,What scholarships exist for disabled students?,Not retrieved,C043,2.0,Relevant scheme was not retrieved within Top-10
+Q075,What scholarships exist for disabled students?,Not retrieved,C044,2.0,Relevant scheme was not retrieved within Top-10
+Q075,What scholarships exist for disabled students?,Not retrieved,C014,1.0,Relevant scheme was not retrieved within Top-10
+Q076,Support for students from poor families,Not retrieved,C006,1.0,Relevant scheme was not retrieved within Top-10
+Q077,Scholarships for girls,Not retrieved,C004,2.0,Relevant scheme was not retrieved within Top-10
+Q077,Scholarships for girls,Not retrieved,C027,1.0,Relevant scheme was not retrieved within Top-10
+Q078,Scheme for reserved category students,Not retrieved,C009,1.0,Relevant scheme was not retrieved within Top-10
+Q078,Scheme for reserved category students,Not retrieved,C036,1.0,Relevant scheme was not retrieved within Top-10
+Q078,Scheme for reserved category students,Not retrieved,C039,1.0,Relevant scheme was not retrieved within Top-10
+Q081,Scholarships in Karnataka,Not retrieved,C041,1.0,Relevant scheme was not retrieved within Top-10
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,Not retrieved,C047,1.0,Relevant scheme was not retrieved within Top-10
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,Not retrieved,C049,1.0,Relevant scheme was not retrieved within Top-10
+Q083,I belong to a backward community and want help with my studies,Not retrieved,C009,1.0,Relevant scheme was not retrieved within Top-10
+Q084,Scholarship for students with special needs,Not retrieved,C043,1.0,Relevant scheme was not retrieved within Top-10
+Q084,Scholarship for students with special needs,Not retrieved,C044,1.0,Relevant scheme was not retrieved within Top-10
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",Not retrieved,C009,1.0,Relevant scheme was not retrieved within Top-10
+Q086,Is there a scholarship for merit students or is it only for poor students?,Not retrieved,C046,1.0,Relevant scheme was not retrieved within Top-10
+Q086,Is there a scholarship for merit students or is it only for poor students?,Not retrieved,C006,1.0,Relevant scheme was not retrieved within Top-10
+Q087,"My family works for the government, is there something for us?",Not retrieved,C032,1.0,Relevant scheme was not retrieved within Top-10
+Q087,"My family works for the government, is there something for us?",Not retrieved,C033,1.0,Relevant scheme was not retrieved within Top-10
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",Not retrieved,C020,1.0,Relevant scheme was not retrieved within Top-10
+Q089,Scheme for students in the northeast or hill states,Not retrieved,C003,2.0,Relevant scheme was not retrieved within Top-10
+Q090,"I want to study abroad, are there any government scholarships for that",Not retrieved,C015,2.0,Relevant scheme was not retrieved within Top-10
+Q090,"I want to study abroad, are there any government scholarships for that",Not retrieved,C038,1.0,Relevant scheme was not retrieved within Top-10
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",Not retrieved,C037,1.0,Relevant scheme was not retrieved within Top-10
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",Not retrieved,C036,1.0,Relevant scheme was not retrieved within Top-10
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",Not retrieved,C043,1.0,Relevant scheme was not retrieved within Top-10
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",Not retrieved,C050,1.0,Relevant scheme was not retrieved within Top-10
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",Not retrieved,C044,1.0,Relevant scheme was not retrieved within Top-10
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",Not retrieved,C001,1.0,Relevant scheme was not retrieved within Top-10
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",Not retrieved,C036,1.0,Relevant scheme was not retrieved within Top-10
+Q001,Scholarships for undergraduate students,1,C003,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q004,PM-YASASVI scholarship for OBC students,1,C017,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,1,C034,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,1,C023,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q027,I'm studying engineering and need some financial help for college,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",1,C027,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",1,C045,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q032,"i work in a beedi factory, can my kids get any help for school fees",1,C027,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q034,is there anything for disabled students who want to study abroad,1,C032,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q035,"my son's dad was in CRPF, are there any scholarships for us",1,C025,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",1,C025,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q037,can obc students get scholarship money for hostel and fees after 10th,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q039,"we're from the northeast, is there any special scholarship for us in college",1,C026,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q040,"any help for girls doing btech, my income is really low",1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",1,C017,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q044,"looking for scholarship money to study science after 12th, i study hard",1,C039,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q045,any postdoc fellowship going right now for unemployed PhD holders,1,C045,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,1,C003,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",1,C026,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,1,C045,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,1,C035,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,1,C008,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q067,I need help paying for my education,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q068,Any scholarships for students?,1,C025,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q070,Looking for a scholarship,1,C023,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q071,Scholarship for research students,1,C019,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q072,Is there support for school students?,1,C027,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q073,Need money for college fees,1,C029,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q075,What scholarships exist for disabled students?,1,C033,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q077,Scholarships for girls,1,C033,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q078,Scheme for reserved category students,1,C032,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q079,Fellowship opportunities for PhD scholars,1,C045,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,1,C042,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q083,I belong to a backward community and want help with my studies,1,C007,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q084,Scholarship for students with special needs,1,C029,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",1,C042,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q086,Is there a scholarship for merit students or is it only for poor students?,1,C024,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q087,"My family works for the government, is there something for us?",1,C027,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",1,C035,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q089,Scheme for students in the northeast or hill states,1,C023,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q090,"I want to study abroad, are there any government scholarships for that",1,C033,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q091,"Something for minorities or backward classes, I qualify for both maybe",1,C046,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",1,C037,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",1,C027,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q097,Scholarship for private international school fees for a general category student in Delhi,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,1,C022,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q099,Business loan scheme for starting a small shop,1,C021,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q100,Free laptop distribution scheme for all citizens regardless of student status,1,C010,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q101,Pension scheme for senior citizens above 60 years,1,C021,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,1,C032,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q103,Sports quota admission scheme for national-level athletes,1,C025,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q104,How do I apply for an Indian passport online,1,C016,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q105,Subsidy scheme for buying an electric vehicle,1,C023,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q106,Scholarship for studying culinary arts in France with full funding,1,C028,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q107,Loan waiver scheme for farmers in Punjab,1,C006,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q108,Today's weather forecast for Bengaluru,1,C046,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,1,C003,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q110,Health insurance scheme for unemployed graduates,1,C009,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q111,Scholarship for children of private company employees with no income restriction,1,C031,0.0,Irrelevant scheme ranked first despite lexical overlap
+Q034,is there anything for disabled students who want to study abroad,9,C015,2.0,Relevant scheme was retrieved but ranked too low
+Q037,can obc students get scholarship money for hostel and fees after 10th,9,C042,1.0,Relevant scheme was retrieved but ranked too low
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,9,C027,2.0,Relevant scheme was retrieved but ranked too low
+Q072,Is there support for school students?,10,C037,1.0,Relevant scheme was retrieved but ranked too low

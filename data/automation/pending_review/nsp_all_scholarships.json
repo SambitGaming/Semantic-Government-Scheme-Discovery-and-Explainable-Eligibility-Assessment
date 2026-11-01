@@ -1,0 +1,26 @@
+{
+  "scheme_name_candidate": "NSP : National Scholarship Portal",
+  "description_candidate": "Dark Contrast Light Contrast Invert Saturation Text Size Increase Text Size Decrease Highlight Links Unhighlight Links Hide Images Show Images Default Cursor Increased Cursor Size Schemes On NSP",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://scholarships.gov.in/All-Scholarships",
+  "source_sections": [
+    {
+      "heading": "Please Select Language",
+      "text": "Dark Contrast Light Contrast Invert Saturation Text Size Increase Text Size Decrease Highlight Links Unhighlight Links Hide Images Show Images Default Cursor Increased Cursor Size Schemes On NSP"
+    }
+  ],
+  "source_id": "nsp_all_scholarships",
+  "source_name": "National Scholarship Portal - All Scholarships",
+  "page_type": "scheme_listing",
+  "extracted_at_utc": "2026-10-19T12:46:00.225626+00:00",
+  "validation_status": "discovery_only",
+  "validation_issues": [
+    "Discovery source: individual scholarship pages must be extracted and verified before approval."
+  ],
+  "verification_status": "pending_review",
+  "duplicate_status": "no_match_found",
+  "duplicate_note": null
+}

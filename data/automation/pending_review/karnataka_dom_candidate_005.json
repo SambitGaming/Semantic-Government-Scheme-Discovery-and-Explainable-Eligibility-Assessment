@@ -1,0 +1,18 @@
+{
+  "source_id": "karnataka_dom_candidate_005",
+  "source_name": "ಜಿಲ್ಲಾ ಮಟ್ಟದ ಯೋಜನೆಗಳು",
+  "official_url": "https://dom.karnataka.gov.in/new-page/District Level Schemes/kn",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-23T13:22:57.078040+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The server redirected the request. Redirect target: https://dom.karnataka.gov.in/234/%E0%B2%9C%E0%B2%BF%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BE%20%E0%B2%AE%E0%B2%9F%E0%B3%8D%E0%B2%9F%E0%B2%A6%20%E0%B2%AF%E0%B3%8B%E0%B2%9C%E0%B2%A8%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81/kn. Verify the target host before fetching it."
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null,
+  "candidate_url": "https://dom.karnataka.gov.in/new-page/District Level Schemes/kn",
+  "discovered_from": "https://dom.karnataka.gov.in/",
+  "parent_source_id": "karnataka_dom",
+  "discovery_candidate_text": "ಜಿಲ್ಲಾ ಮಟ್ಟದ ಯೋಜನೆಗಳು"
+}

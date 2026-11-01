@@ -1,0 +1,13 @@
+# Python virtual environments
+venv/
+venv312/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Database backups
+data/*backup*.db

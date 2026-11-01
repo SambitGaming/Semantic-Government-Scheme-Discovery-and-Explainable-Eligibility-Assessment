@@ -1,0 +1,18 @@
+{
+  "source_id": "karnataka_dom_candidate_003",
+  "source_name": "ಕಾಲೋನಿ ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ",
+  "official_url": "https://dom.karnataka.gov.in/new-page/Colony Development Scheme/kn",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-23T13:22:54.025332+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The server redirected the request. Redirect target: https://dom.karnataka.gov.in/232/%E0%B2%95%E0%B2%BE%E0%B2%B2%E0%B3%8A%E0%B2%A8%E0%B3%80%20%E0%B2%85%E0%B2%AD%E0%B2%BF%E0%B2%B5%E0%B3%83%E0%B2%A6%E0%B3%8D%E0%B2%A7%E0%B2%BF/kn. Verify the target host before fetching it."
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null,
+  "candidate_url": "https://dom.karnataka.gov.in/new-page/Colony Development Scheme/kn",
+  "discovered_from": "https://dom.karnataka.gov.in/",
+  "parent_source_id": "karnataka_dom",
+  "discovery_candidate_text": "ಕಾಲೋನಿ ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ"
+}

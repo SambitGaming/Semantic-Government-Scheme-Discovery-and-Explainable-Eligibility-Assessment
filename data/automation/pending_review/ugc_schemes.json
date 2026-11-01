@@ -1,0 +1,14 @@
+{
+  "source_id": "ugc_schemes",
+  "source_name": "UGC Schemes",
+  "official_url": "https://www.ugc.ac.in/ugc_schemes/",
+  "page_type": "scheme_listing",
+  "extracted_at_utc": "2026-10-18T12:37:25.664828+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The server returned an error page despite HTTP 200: access denied"
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null
+}

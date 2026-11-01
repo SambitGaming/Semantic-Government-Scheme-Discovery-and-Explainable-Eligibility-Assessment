@@ -1,0 +1,33 @@
+{
+  "scheme_name_candidate": "Welcome to Non-Tax Receipt Portal",
+  "description_candidate": "Donate to Swachh Bharat Kosh Online Donation to Swachh Bharat Kosh Payment to GoI",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://bharatkosh.gov.in/NTRPHome/DonateToNDRF?Cid=Lc6h5%2Bdr8dw%3D&Pid=9ULJVQojTik%3D&RPT=HeIU6RtSZMg%3D&PD=pUrWJA4yoFN3yqwUOamx2j8tAyNM2zubxbE9iDQi8Dg%3D",
+  "source_sections": [
+    {
+      "heading": "Make payments to Government of India using Credit Card/ Debit Card/ UPI/150+ Netbanking options/ NEFT/RTGS",
+      "text": "Donate to Swachh Bharat Kosh Online Donation to Swachh Bharat Kosh Payment to GoI"
+    },
+    {
+      "heading": "Total Transaction Amt",
+      "text": "This is an Online Donation to Swachh Bharat Kosh. Do you want to proceed? Select the mode of payment to use while making the transaction"
+    }
+  ],
+  "source_id": "bharatkosh_candidate_001",
+  "source_name": "Contribution/Grant To NDRF",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-19T12:49:21.742042+00:00",
+  "validation_issues": [
+    "Eligibility section not detected",
+    "Benefits section not detected"
+  ],
+  "validation_status": "needs_review",
+  "verification_status": "pending_review",
+  "duplicate_status": "possible_duplicate",
+  "duplicate_note": "Matching normalized scheme name in bharatkosh.json",
+  "discovered_from": "https://bharatkosh.gov.in/",
+  "discovery_candidate_text": "Contribution/Grant To NDRF"
+}

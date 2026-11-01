@@ -1,0 +1,51 @@
+profile_id,age,state,annual_income,category,education_level,expected_scheme_id,expected_result,expected_reason
+GP001,22,Jammu and Kashmir,500000,General,Undergraduate,C025,Eligible,Meets all mandatory eligibility conditions
+GP002,22,Ladakh,500000,General,Undergraduate,C025,Eligible,IN operator secondary match passed (Ladakh)
+GP003,22,Jammu and Kashmir,799999,General,Undergraduate,C025,Eligible,Income upper boundary passed
+GP004,22,Jammu and Kashmir,800000,General,Undergraduate,C025,Eligible,Income exact limit passed
+GP005,22,Jammu and Kashmir,800001,General,Undergraduate,C025,Not Eligible,Income exact limit exceeded
+GP006,22,Jammu and Kashmir,1200000,General,Undergraduate,C025,Not Eligible,Annual income exceeds the scheme limit
+GP007,22,Karnataka,500000,General,Undergraduate,C025,Not Eligible,Applicant does not satisfy the state requirement
+GP008,22,Karnataka,1200000,General,Undergraduate,C025,Not Eligible,Multiple conditions failed (state and income)
+GP009,24,Jammu and Kashmir,500000,SC,Postgraduate,C025,Eligible,Category and education level are not conditions for this scheme
+GP010,22,Karnataka,200000,SC,Undergraduate,C036,Eligible,Meets all mandatory eligibility conditions
+GP011,17,Karnataka,200000,SC,Higher Secondary,C036,Eligible,Post-matric education level passed (Higher Secondary)
+GP012,24,Karnataka,200000,SC,Postgraduate,C036,Eligible,Post-matric education level passed (Postgraduate)
+GP013,15,Karnataka,200000,SC,School,C036,Not Eligible,Applicant is not at post-matric education level
+GP014,22,Maharashtra,200000,SC,Undergraduate,C036,Not Eligible,Applicant does not satisfy the state requirement
+GP015,22,Karnataka,200000,ST,Undergraduate,C036,Not Eligible,Applicant does not satisfy the category requirement (ST not accepted)
+GP016,22,Karnataka,200000,General,Undergraduate,C036,Not Eligible,Applicant does not satisfy the category requirement
+GP017,22,Karnataka,900000,SC,Undergraduate,C036,Eligible,Income is not a structured condition for this scheme
+GP018,15,Maharashtra,200000,General,School,C036,Not Eligible,"Multiple conditions failed (state, category, education level)"
+GP019,22,Karnataka,200000,SC,Undergraduate,C038,Eligible,Meets all mandatory eligibility conditions
+GP020,22,Karnataka,200000,ST,Undergraduate,C038,Eligible,IN operator secondary match passed (ST)
+GP021,22,Karnataka,200000,General,Undergraduate,C038,Not Eligible,Applicant does not satisfy the category requirement
+GP022,22,Karnataka,200000,OBC,Undergraduate,C038,Not Eligible,Applicant does not satisfy the category requirement
+GP023,22,Maharashtra,200000,SC,Undergraduate,C038,Not Eligible,Applicant does not satisfy the state requirement
+GP024,22,Maharashtra,200000,General,Undergraduate,C038,Not Eligible,Multiple conditions failed (state and category)
+GP025,22,Karnataka,200000,ST,Undergraduate,C039,Eligible,Meets all mandatory eligibility conditions
+GP026,22,Karnataka,249999,ST,Undergraduate,C039,Eligible,Income upper boundary passed
+GP027,22,Karnataka,250000,ST,Undergraduate,C039,Eligible,Income exact limit passed
+GP028,22,Karnataka,250001,ST,Undergraduate,C039,Not Eligible,Income exact limit exceeded
+GP029,22,Karnataka,500000,ST,Undergraduate,C039,Not Eligible,Annual income exceeds the scheme limit
+GP030,22,Karnataka,200000,SC,Undergraduate,C039,Not Eligible,Applicant does not satisfy the category requirement (SC not accepted)
+GP031,22,Karnataka,200000,General,Undergraduate,C039,Not Eligible,Applicant does not satisfy the category requirement
+GP032,15,Karnataka,200000,ST,School,C039,Not Eligible,Applicant is not at post-matric education level
+GP033,17,Karnataka,200000,ST,Higher Secondary,C039,Eligible,Post-matric education level passed (Higher Secondary)
+GP034,27,Karnataka,200000,ST,PhD,C039,Eligible,Post-matric education level passed (PhD)
+GP035,22,Maharashtra,200000,ST,Undergraduate,C039,Eligible,State is not a condition for this scheme
+GP036,15,Maharashtra,600000,General,School,C039,Not Eligible,"Multiple conditions failed (category, income, education level)"
+GP037,22,Karnataka,200000,OBC,Undergraduate,C041,Eligible,Meets all mandatory eligibility conditions
+GP038,17,Karnataka,200000,OBC,Higher Secondary,C041,Eligible,Post-matric education level passed (Higher Secondary)
+GP039,24,Karnataka,200000,OBC,Postgraduate,C041,Eligible,Post-matric education level passed (Postgraduate)
+GP040,22,Maharashtra,200000,OBC,Undergraduate,C041,Not Eligible,Applicant does not satisfy the state requirement
+GP041,15,Karnataka,200000,OBC,School,C041,Not Eligible,Applicant is not at post-matric education level
+GP042,15,Maharashtra,200000,OBC,School,C041,Not Eligible,Multiple conditions failed (state and education level)
+GP043,22,Karnataka,900000,General,Undergraduate,C041,Eligible,Income and category are not structured conditions (verified manually)
+GP044,22,Karnataka,200000,OBC,Undergraduate,C042,Eligible,Meets all mandatory eligibility conditions
+GP045,17,Karnataka,200000,OBC,Higher Secondary,C042,Eligible,Post-matric education level passed (Higher Secondary)
+GP046,24,Karnataka,200000,OBC,Postgraduate,C042,Eligible,Post-matric education level passed (Postgraduate)
+GP047,22,Maharashtra,200000,OBC,Undergraduate,C042,Not Eligible,Applicant does not satisfy the state requirement
+GP048,15,Karnataka,200000,OBC,School,C042,Not Eligible,Applicant is not at post-matric education level
+GP049,15,Maharashtra,200000,OBC,School,C042,Not Eligible,Multiple conditions failed (state and education level)
+GP050,22,Karnataka,900000,General,Undergraduate,C042,Eligible,Income and category are not structured conditions (verified manually)

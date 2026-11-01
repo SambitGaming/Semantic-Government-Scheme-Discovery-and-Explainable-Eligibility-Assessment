@@ -1,0 +1,14 @@
+{
+  "source_id": "tribal_overseas_registration",
+  "source_name": "Ministry of Tribal Affairs - Overseas Scholarship Registration",
+  "official_url": "https://overseas.tribal.gov.in/StudentsRegistrationForm.aspx",
+  "page_type": "portal",
+  "extracted_at_utc": "2026-10-19T12:46:03.965634+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The HTML page contains no extractable text content."
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "inspire_online_candidate_002",
+  "source_name": "List of applicants Not Recommended in the Level-2 evaluation of INSPIRE Fellowship-Results-September 2026",
+  "official_url": "https://www.online-inspire.gov.in/Account/OpenDocument?documentId=5114482",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-23T13:22:27.872705+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The server redirected the request. Redirect target: https://www.online-inspire.gov.in/. Verify the target host before fetching it."
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null,
+  "candidate_url": "https://www.online-inspire.gov.in/Account/OpenDocument?documentId=5114482",
+  "discovered_from": "https://www.online-inspire.gov.in/",
+  "parent_source_id": "inspire_online",
+  "discovery_candidate_text": "List of applicants Not Recommended in the Level-2 evaluation of INSPIRE Fellowship-Results-September 2026"
+}

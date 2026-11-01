@@ -1,0 +1,21 @@
+{
+  "scheme_name_candidate": "Ministry of Tribal Affairs - Government of India",
+  "description_candidate": "The Ministry was set up in 1999 after the bifurcation of Ministry of Social Justice and Empowerment with the objective of providing more focused approach on the integrated socio-economic development of the Scheduled Tribes (STs), the most underprivileged of the Indian Society, in a coordinated and planned manner. Before the formation of the Ministry, tribal affairs were handled by different Ministries at different points in time",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://tribal.nic.in/Scholarship.aspx",
+  "source_sections": [],
+  "source_id": "tribal_scholarship",
+  "source_name": "Ministry of Tribal Affairs - Scholarship Schemes",
+  "page_type": "scheme_listing",
+  "extracted_at_utc": "2026-10-19T12:46:05.873153+00:00",
+  "validation_status": "discovery_only",
+  "validation_issues": [
+    "Discovery source: individual scholarship pages must be extracted and verified before approval."
+  ],
+  "verification_status": "pending_review",
+  "duplicate_status": "no_match_found",
+  "duplicate_note": null
+}

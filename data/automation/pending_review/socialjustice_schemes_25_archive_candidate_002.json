@@ -1,0 +1,29 @@
+{
+  "scheme_name_candidate": "Schemes | Department of Social Justice and Empowerment - Government of India",
+  "description_candidate": "Schemes, Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, GOI",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://socialjustice.gov.in/schemes",
+  "source_sections": [
+    {
+      "heading": "Schemes",
+      "text": "NGOs Scheme Educational Schemes Schemes for Economic Development Schemes for Social Empowerment"
+    }
+  ],
+  "source_id": "socialjustice_schemes_25_archive_candidate_002",
+  "source_name": "Schemes",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-19T12:50:54.467610+00:00",
+  "validation_issues": [
+    "Eligibility section not detected",
+    "Benefits section not detected"
+  ],
+  "validation_status": "needs_review",
+  "verification_status": "pending_review",
+  "duplicate_status": "possible_duplicate",
+  "duplicate_note": "Matching official URL in socialjustice_schemes_23_candidate_002.json",
+  "discovered_from": "https://socialjustice.gov.in/schemes/25/archive",
+  "discovery_candidate_text": "Schemes"
+}

@@ -1,0 +1,5 @@
+field,total_rules,passed,failed,pass_rate
+annual_income,21,15,6,0.7142857142857143
+category,27,18,9,0.6666666666666666
+education_level,35,27,8,0.7714285714285715
+state,38,28,10,0.7368421052631579

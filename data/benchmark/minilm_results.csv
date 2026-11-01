@@ -1,0 +1,1111 @@
+query_id,rank,scheme_id,scheme_name,similarity_score
+Q001,1,C002,National Scholarship For Post Graduate Studies,0.5181518793106079
+Q001,2,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4979664087295532
+Q001,3,C040,Pre-Matric Scholarship for ST Students,0.496472030878067
+Q001,4,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.48938727378845215
+Q001,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4832514822483063
+Q001,6,C039,Post-Matric Scholarship for ST Students,0.4801938533782959
+Q001,7,C037,Pre-Matric Scholarship for SC Students,0.47757482528686523
+Q001,8,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.4720030128955841
+Q001,9,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.468891441822052
+Q001,10,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.46850141882896423
+Q002,1,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.7206035256385803
+Q002,2,C037,Pre-Matric Scholarship for SC Students,0.7165848016738892
+Q002,3,C040,Pre-Matric Scholarship for ST Students,0.6859188079833984
+Q002,4,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6674417853355408
+Q002,5,C039,Post-Matric Scholarship for ST Students,0.6668968796730042
+Q002,6,C050,Post-Matric Scholarship for Minorities,0.6431214809417725
+Q002,7,C002,National Scholarship For Post Graduate Studies,0.626072108745575
+Q002,8,C006,National Means-cum-Merit Scholarship Scheme,0.6218194365501404
+Q002,9,C044,Post-Matric Scholarship for Students with Disabilities,0.6061313152313232
+Q002,10,C043,Pre-Matric Scholarship for Students with Disabilities,0.6046426296234131
+Q003,1,C040,Pre-Matric Scholarship for ST Students,0.8395582437515259
+Q003,2,C037,Pre-Matric Scholarship for SC Students,0.7244529128074646
+Q003,3,C039,Post-Matric Scholarship for ST Students,0.7098512053489685
+Q003,4,C051,Pre-Matric Scholarship for Minorities,0.6571071147918701
+Q003,5,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6520891189575195
+Q003,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.6514495611190796
+Q003,7,C050,Post-Matric Scholarship for Minorities,0.6260321736335754
+Q003,8,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6217039227485657
+Q003,9,C002,National Scholarship For Post Graduate Studies,0.5958489179611206
+Q003,10,C006,National Means-cum-Merit Scholarship Scheme,0.5935105085372925
+Q004,1,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.7411283254623413
+Q004,2,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.7203595638275146
+Q004,3,C009,"PM-YASASVI: Post-Matric Scholarship for OBC, EBC and DNT Students",0.6915005445480347
+Q004,4,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.6875981092453003
+Q004,5,C002,National Scholarship For Post Graduate Studies,0.5644055008888245
+Q004,6,C030,National Fellowship For OBC Students,0.5568432807922363
+Q004,7,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.5534404516220093
+Q004,8,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.545114278793335
+Q004,9,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5407359600067139
+Q004,10,C043,Pre-Matric Scholarship for Students with Disabilities,0.5400279760360718
+Q005,1,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.6604114770889282
+Q005,2,C002,National Scholarship For Post Graduate Studies,0.580764889717102
+Q005,3,C040,Pre-Matric Scholarship for ST Students,0.5702555179595947
+Q005,4,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5608518123626709
+Q005,5,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.5435113906860352
+Q005,6,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.5414472222328186
+Q005,7,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5401508808135986
+Q005,8,C039,Post-Matric Scholarship for ST Students,0.539806604385376
+Q005,9,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5364959239959717
+Q005,10,C043,Pre-Matric Scholarship for Students with Disabilities,0.5158136487007141
+Q006,1,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.6971768140792847
+Q006,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.6876620054244995
+Q006,3,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.6429501175880432
+Q006,4,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6245529651641846
+Q006,5,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6032260060310364
+Q006,6,C002,National Scholarship For Post Graduate Studies,0.603217363357544
+Q006,7,C006,National Means-cum-Merit Scholarship Scheme,0.5981889963150024
+Q006,8,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.5871263146400452
+Q006,9,C037,Pre-Matric Scholarship for SC Students,0.5800596475601196
+Q006,10,C024,Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students-AICTE,0.5763341188430786
+Q007,1,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.8163307905197144
+Q007,2,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.8110520839691162
+Q007,3,C024,Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students-AICTE,0.6547057628631592
+Q007,4,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6439292430877686
+Q007,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6253547668457031
+Q007,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.6228197813034058
+Q007,7,C002,National Scholarship For Post Graduate Studies,0.6197417378425598
+Q007,8,C037,Pre-Matric Scholarship for SC Students,0.6186956167221069
+Q007,9,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6045064926147461
+Q007,10,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.5990166068077087
+Q008,1,C006,National Means-cum-Merit Scholarship Scheme,0.7190821766853333
+Q008,2,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.6813682913780212
+Q008,3,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.585456132888794
+Q008,4,C002,National Scholarship For Post Graduate Studies,0.5787286758422852
+Q008,5,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.5712620615959167
+Q008,6,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.5708342790603638
+Q008,7,C030,National Fellowship For OBC Students,0.5685351490974426
+Q008,8,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5590996146202087
+Q008,9,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5581260919570923
+Q008,10,C007,Haryana Merit Cum Means Scheme For Minority,0.5524680018424988
+Q009,1,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.8048490285873413
+Q009,2,C017,National Fellowship For OBC Students,0.6067829132080078
+Q009,3,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.5942365527153015
+Q009,4,C027,National Post Doctoral Fellowship,0.5486501455307007
+Q009,5,C030,National Fellowship For OBC Students,0.5459499359130859
+Q009,6,C045,Karnataka DST-Ph.D. Fellowship,0.5428867936134338
+Q009,7,C014,National Fellowship for Students with Disabilities,0.5415590405464172
+Q009,8,C002,National Scholarship For Post Graduate Studies,0.5371437072753906
+Q009,9,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.526199460029602
+Q009,10,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5184464454650879
+Q010,1,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.6981559991836548
+Q010,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.49798518419265747
+Q010,3,C002,National Scholarship For Post Graduate Studies,0.4831736087799072
+Q010,4,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.4756620228290558
+Q010,5,C037,Pre-Matric Scholarship for SC Students,0.4549698233604431
+Q010,6,C040,Pre-Matric Scholarship for ST Students,0.45010191202163696
+Q010,7,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4494699239730835
+Q010,8,C043,Pre-Matric Scholarship for Students with Disabilities,0.4365761876106262
+Q010,9,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.43552666902542114
+Q010,10,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4346308410167694
+Q011,1,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.8045414686203003
+Q011,2,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.6476845741271973
+Q011,3,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5609496831893921
+Q011,4,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5553652048110962
+Q011,5,C027,National Post Doctoral Fellowship,0.551583468914032
+Q011,6,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.5319865942001343
+Q011,7,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.5015206933021545
+Q011,8,C045,Karnataka DST-Ph.D. Fellowship,0.49672314524650574
+Q011,9,C007,Haryana Merit Cum Means Scheme For Minority,0.4618545472621918
+Q011,10,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.45687827467918396
+Q012,1,C014,National Fellowship for Students with Disabilities,0.8259073495864868
+Q012,2,C043,Pre-Matric Scholarship for Students with Disabilities,0.5981118679046631
+Q012,3,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5579282641410828
+Q012,4,C030,National Fellowship For OBC Students,0.5538482666015625
+Q012,5,C044,Post-Matric Scholarship for Students with Disabilities,0.5513193607330322
+Q012,6,C027,National Post Doctoral Fellowship,0.5309995412826538
+Q012,7,C017,National Fellowship For OBC Students,0.524122953414917
+Q012,8,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.517196536064148
+Q012,9,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.5060076117515564
+Q012,10,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.4683550000190735
+Q013,1,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.8073883652687073
+Q013,2,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.6357263326644897
+Q013,3,C032,Prime Minister's Scholarship Scheme for Railway Protection Force,0.6210929155349731
+Q013,4,C006,National Means-cum-Merit Scholarship Scheme,0.47530192136764526
+Q013,5,C002,National Scholarship For Post Graduate Studies,0.45782190561294556
+Q013,6,C030,National Fellowship For OBC Students,0.45645034313201904
+Q013,7,C040,Pre-Matric Scholarship for ST Students,0.44509994983673096
+Q013,8,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.4449416995048523
+Q013,9,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4284108877182007
+Q013,10,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.4253557324409485
+Q014,1,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.7569077014923096
+Q014,2,C050,Post-Matric Scholarship for Minorities,0.7477596402168274
+Q014,3,C051,Pre-Matric Scholarship for Minorities,0.7046433687210083
+Q014,4,C007,Haryana Merit Cum Means Scheme For Minority,0.632358968257904
+Q014,5,C042,Post-Matric Scholarship for Backward Classes (OBC),0.6127731800079346
+Q014,6,C046,D. Devaraj Urs Prathibha Puraskara,0.6042255163192749
+Q014,7,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.5834603309631348
+Q014,8,C039,Post-Matric Scholarship for ST Students,0.574637770652771
+Q014,9,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.5741544365882874
+Q014,10,C038,Prabuddha Overseas Scholarship Scheme,0.5586874485015869
+Q015,1,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.7927930355072021
+Q015,2,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.5625289678573608
+Q015,3,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4997420310974121
+Q015,4,C040,Pre-Matric Scholarship for ST Students,0.48474639654159546
+Q015,5,C037,Pre-Matric Scholarship for SC Students,0.47514575719833374
+Q015,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.4732687473297119
+Q015,7,C002,National Scholarship For Post Graduate Studies,0.46864908933639526
+Q015,8,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.46521541476249695
+Q015,9,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.45796114206314087
+Q015,10,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.4505152404308319
+Q016,1,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.7443053126335144
+Q016,2,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.45705199241638184
+Q016,3,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.4100852310657501
+Q016,4,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.38720542192459106
+Q016,5,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.38254398107528687
+Q016,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.3764054775238037
+Q016,7,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.3744828402996063
+Q016,8,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.3721258342266083
+Q016,9,C007,Haryana Merit Cum Means Scheme For Minority,0.37100061774253845
+Q016,10,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.3696156442165375
+Q017,1,C038,Prabuddha Overseas Scholarship Scheme,0.9203079342842102
+Q017,2,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.709247350692749
+Q017,3,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.6671414375305176
+Q017,4,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6525761485099792
+Q017,5,C042,Post-Matric Scholarship for Backward Classes (OBC),0.6518175601959229
+Q017,6,C050,Post-Matric Scholarship for Minorities,0.6512265801429749
+Q017,7,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6500384211540222
+Q017,8,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.6376379728317261
+Q017,9,C039,Post-Matric Scholarship for ST Students,0.6345082521438599
+Q017,10,C046,D. Devaraj Urs Prathibha Puraskara,0.6161535978317261
+Q018,1,C046,D. Devaraj Urs Prathibha Puraskara,0.6892764568328857
+Q018,2,C038,Prabuddha Overseas Scholarship Scheme,0.5661638975143433
+Q018,3,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5605078935623169
+Q018,4,C008,Pre Matric Scholarship for SC students- DNH & DD,0.5560724139213562
+Q018,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5416483879089355
+Q018,6,C044,Post-Matric Scholarship for Students with Disabilities,0.5342933535575867
+Q018,7,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.5293511152267456
+Q018,8,C002,National Scholarship For Post Graduate Studies,0.5270994901657104
+Q018,9,C043,Pre-Matric Scholarship for Students with Disabilities,0.5187273621559143
+Q018,10,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5171758532524109
+Q019,1,C045,Karnataka DST-Ph.D. Fellowship,0.8406656980514526
+Q019,2,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.6179695129394531
+Q019,3,C027,National Post Doctoral Fellowship,0.5732590556144714
+Q019,4,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.5580605864524841
+Q019,5,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.5539114475250244
+Q019,6,C042,Post-Matric Scholarship for Backward Classes (OBC),0.5254008769989014
+Q019,7,C030,National Fellowship For OBC Students,0.5048712491989136
+Q019,8,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.4941420555114746
+Q019,9,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4908461570739746
+Q019,10,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.48515307903289795
+Q020,1,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.7214359641075134
+Q020,2,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.48654621839523315
+Q020,3,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.4127683639526367
+Q020,4,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.4056297242641449
+Q020,5,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4043123722076416
+Q020,6,C039,Post-Matric Scholarship for ST Students,0.3833564519882202
+Q020,7,C044,Post-Matric Scholarship for Students with Disabilities,0.3818853795528412
+Q020,8,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.38046762347221375
+Q020,9,C037,Pre-Matric Scholarship for SC Students,0.37558895349502563
+Q020,10,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.3717796802520752
+Q021,1,C024,Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students-AICTE,0.733300507068634
+Q021,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.6042237877845764
+Q021,3,C002,National Scholarship For Post Graduate Studies,0.6033626198768616
+Q021,4,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.6022400856018066
+Q021,5,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.6012094616889954
+Q021,6,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5844635963439941
+Q021,7,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5737861394882202
+Q021,8,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5737209916114807
+Q021,9,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.5656872987747192
+Q021,10,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5502711534500122
+Q022,1,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.8408688902854919
+Q022,2,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.604769229888916
+Q022,3,C043,Pre-Matric Scholarship for Students with Disabilities,0.5869040489196777
+Q022,4,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5727993845939636
+Q022,5,C002,National Scholarship For Post Graduate Studies,0.5691059827804565
+Q022,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5688743591308594
+Q022,7,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5652002692222595
+Q022,8,C044,Post-Matric Scholarship for Students with Disabilities,0.5596234798431396
+Q022,9,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5546151399612427
+Q022,10,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.5520275831222534
+Q023,1,C006,National Means-cum-Merit Scholarship Scheme,0.6192851066589355
+Q023,2,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6007599830627441
+Q023,3,C002,National Scholarship For Post Graduate Studies,0.5835070013999939
+Q023,4,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5811753273010254
+Q023,5,C040,Pre-Matric Scholarship for ST Students,0.5781645774841309
+Q023,6,C032,Prime Minister's Scholarship Scheme for Railway Protection Force,0.5775593519210815
+Q023,7,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5728868246078491
+Q023,8,C030,National Fellowship For OBC Students,0.5685184001922607
+Q023,9,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.5665565729141235
+Q023,10,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.5614215731620789
+Q024,1,C030,National Fellowship For OBC Students,0.770118236541748
+Q024,2,C017,National Fellowship For OBC Students,0.7037789821624756
+Q024,3,C027,National Post Doctoral Fellowship,0.6007306575775146
+Q024,4,C014,National Fellowship for Students with Disabilities,0.5800096392631531
+Q024,5,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.5256637334823608
+Q024,6,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.4951556622982025
+Q024,7,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.47823840379714966
+Q024,8,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.4593193233013153
+Q024,9,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.45589423179626465
+Q024,10,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.445867121219635
+Q025,1,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.7160911560058594
+Q025,2,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6569842100143433
+Q025,3,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6497867107391357
+Q025,4,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.6407303810119629
+Q025,5,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.6363112926483154
+Q025,6,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.611711859703064
+Q025,7,C050,Post-Matric Scholarship for Minorities,0.608913779258728
+Q025,8,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6047253608703613
+Q025,9,C002,National Scholarship For Post Graduate Studies,0.6045289039611816
+Q025,10,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.6009213328361511
+Q026,1,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.8380804061889648
+Q026,2,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.5193099975585938
+Q026,3,C046,D. Devaraj Urs Prathibha Puraskara,0.5117185115814209
+Q026,4,C042,Post-Matric Scholarship for Backward Classes (OBC),0.4961373209953308
+Q026,5,C038,Prabuddha Overseas Scholarship Scheme,0.4897365868091583
+Q026,6,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.4895668625831604
+Q026,7,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.48927444219589233
+Q026,8,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.48888587951660156
+Q026,9,C050,Post-Matric Scholarship for Minorities,0.47203773260116577
+Q026,10,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.4529252052307129
+Q027,1,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3830606937408447
+Q027,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.3655482530593872
+Q027,3,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.36242949962615967
+Q027,4,C043,Pre-Matric Scholarship for Students with Disabilities,0.3615717887878418
+Q027,5,C037,Pre-Matric Scholarship for SC Students,0.35866600275039673
+Q027,6,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.35305672883987427
+Q027,7,C006,National Means-cum-Merit Scholarship Scheme,0.3481046259403229
+Q027,8,C002,National Scholarship For Post Graduate Studies,0.34180885553359985
+Q027,9,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.3370817303657532
+Q027,10,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.33450257778167725
+Q028,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.5220023393630981
+Q028,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5151509642601013
+Q028,3,C040,Pre-Matric Scholarship for ST Students,0.4921764135360718
+Q028,4,C037,Pre-Matric Scholarship for SC Students,0.4893325865268707
+Q028,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4794277548789978
+Q028,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.47607311606407166
+Q028,7,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.4556090831756592
+Q028,8,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.45142361521720886
+Q028,9,C002,National Scholarship For Post Graduate Studies,0.44730937480926514
+Q028,10,C044,Post-Matric Scholarship for Students with Disabilities,0.4425424337387085
+Q029,1,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.5109819173812866
+Q029,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.4997780919075012
+Q029,3,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4526708126068115
+Q029,4,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.42748814821243286
+Q029,5,C037,Pre-Matric Scholarship for SC Students,0.40658217668533325
+Q029,6,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.4009758234024048
+Q029,7,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.3970409631729126
+Q029,8,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.39181217551231384
+Q029,9,C040,Pre-Matric Scholarship for ST Students,0.3824017345905304
+Q029,10,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.3815010190010071
+Q030,1,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.34522145986557007
+Q030,2,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.32831329107284546
+Q030,3,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.31096071004867554
+Q030,4,C044,Post-Matric Scholarship for Students with Disabilities,0.3105534017086029
+Q030,5,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.30908524990081787
+Q030,6,C039,Post-Matric Scholarship for ST Students,0.30549392104148865
+Q030,7,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.30032777786254883
+Q030,8,C043,Pre-Matric Scholarship for Students with Disabilities,0.2971512973308563
+Q030,9,C002,National Scholarship For Post Graduate Studies,0.28878405690193176
+Q030,10,C027,National Post Doctoral Fellowship,0.2865179479122162
+Q031,1,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6410126090049744
+Q031,2,C037,Pre-Matric Scholarship for SC Students,0.6380002498626709
+Q031,3,C006,National Means-cum-Merit Scholarship Scheme,0.6220740079879761
+Q031,4,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5980037450790405
+Q031,5,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.5881601572036743
+Q031,6,C002,National Scholarship For Post Graduate Studies,0.5810950994491577
+Q031,7,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5735945701599121
+Q031,8,C008,Pre Matric Scholarship for SC students- DNH & DD,0.5578112006187439
+Q031,9,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.5557586550712585
+Q031,10,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.5548473000526428
+Q032,1,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.5226194858551025
+Q032,2,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.34660935401916504
+Q032,3,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3305447995662689
+Q032,4,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.29745519161224365
+Q032,5,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.29159456491470337
+Q032,6,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.28830206394195557
+Q032,7,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.26914912462234497
+Q032,8,C043,Pre-Matric Scholarship for Students with Disabilities,0.2632523477077484
+Q032,9,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.2542835772037506
+Q032,10,C044,Post-Matric Scholarship for Students with Disabilities,0.2533072531223297
+Q033,1,C050,Post-Matric Scholarship for Minorities,0.44425103068351746
+Q033,2,C051,Pre-Matric Scholarship for Minorities,0.43515288829803467
+Q033,3,C037,Pre-Matric Scholarship for SC Students,0.414996862411499
+Q033,4,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.40214279294013977
+Q033,5,C040,Pre-Matric Scholarship for ST Students,0.39788275957107544
+Q033,6,C007,Haryana Merit Cum Means Scheme For Minority,0.3949216604232788
+Q033,7,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.3942604064941406
+Q033,8,C006,National Means-cum-Merit Scholarship Scheme,0.3938530683517456
+Q033,9,C039,Post-Matric Scholarship for ST Students,0.38070687651634216
+Q033,10,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.38043415546417236
+Q034,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.5812457799911499
+Q034,2,C044,Post-Matric Scholarship for Students with Disabilities,0.5571727156639099
+Q034,3,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5485306978225708
+Q034,4,C014,National Fellowship for Students with Disabilities,0.5327353477478027
+Q034,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5294737815856934
+Q034,6,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.4960513710975647
+Q034,7,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.46236652135849
+Q034,8,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.46192967891693115
+Q034,9,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.41132014989852905
+Q034,10,C002,National Scholarship For Post Graduate Studies,0.40343090891838074
+Q035,1,C032,Prime Minister's Scholarship Scheme for Railway Protection Force,0.4916416108608246
+Q035,2,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.4756285548210144
+Q035,3,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.46504566073417664
+Q035,4,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.4555560052394867
+Q035,5,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.4337838292121887
+Q035,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.42974966764450073
+Q035,7,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.42080456018447876
+Q035,8,C037,Pre-Matric Scholarship for SC Students,0.42060238122940063
+Q035,9,C040,Pre-Matric Scholarship for ST Students,0.4143255352973938
+Q035,10,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.40621644258499146
+Q036,1,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.512005627155304
+Q036,2,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.48770999908447266
+Q036,3,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.4854397773742676
+Q036,4,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.47943568229675293
+Q036,5,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.46858933568000793
+Q036,6,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.4627777636051178
+Q036,7,C039,Post-Matric Scholarship for ST Students,0.4616619348526001
+Q036,8,C038,Prabuddha Overseas Scholarship Scheme,0.4612862169742584
+Q036,9,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.45623138546943665
+Q036,10,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.4514741003513336
+Q037,1,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.6037841439247131
+Q037,2,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5984063744544983
+Q037,3,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.5855856537818909
+Q037,4,C040,Pre-Matric Scholarship for ST Students,0.5763760209083557
+Q037,5,C009,"PM-YASASVI: Post-Matric Scholarship for OBC, EBC and DNT Students",0.5745455026626587
+Q037,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.5715891718864441
+Q037,7,C037,Pre-Matric Scholarship for SC Students,0.569048285484314
+Q037,8,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5681620836257935
+Q037,9,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.5590990781784058
+Q037,10,C042,Post-Matric Scholarship for Backward Classes (OBC),0.5569252967834473
+Q038,1,C027,National Post Doctoral Fellowship,0.5464637875556946
+Q038,2,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.5228365659713745
+Q038,3,C030,National Fellowship For OBC Students,0.5075967907905579
+Q038,4,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.49942123889923096
+Q038,5,C014,National Fellowship for Students with Disabilities,0.4971378445625305
+Q038,6,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.47602301836013794
+Q038,7,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.4513204097747803
+Q038,8,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.43588730692863464
+Q038,9,C045,Karnataka DST-Ph.D. Fellowship,0.40481632947921753
+Q038,10,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.40080153942108154
+Q039,1,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5711331367492676
+Q039,2,C002,National Scholarship For Post Graduate Studies,0.46761229634284973
+Q039,3,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.46039652824401855
+Q039,4,C043,Pre-Matric Scholarship for Students with Disabilities,0.45964479446411133
+Q039,5,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.44508489966392517
+Q039,6,C017,National Fellowship For OBC Students,0.4363354444503784
+Q039,7,C040,Pre-Matric Scholarship for ST Students,0.43460994958877563
+Q039,8,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.4292261004447937
+Q039,9,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.4283939003944397
+Q039,10,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.42786455154418945
+Q040,1,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3783152103424072
+Q040,2,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.364240437746048
+Q040,3,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.3569325804710388
+Q040,4,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.35658538341522217
+Q040,5,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.34253621101379395
+Q040,6,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.3258707821369171
+Q040,7,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.32046204805374146
+Q040,8,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.31909608840942383
+Q040,9,C043,Pre-Matric Scholarship for Students with Disabilities,0.31205955147743225
+Q040,10,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.30706825852394104
+Q041,1,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.551859974861145
+Q041,2,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5365015864372253
+Q041,3,C043,Pre-Matric Scholarship for Students with Disabilities,0.5248256921768188
+Q041,4,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.51985764503479
+Q041,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4935825765132904
+Q041,6,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.4890132546424866
+Q041,7,C044,Post-Matric Scholarship for Students with Disabilities,0.4884931445121765
+Q041,8,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.48267072439193726
+Q041,9,C006,National Means-cum-Merit Scholarship Scheme,0.47897031903266907
+Q041,10,C042,Post-Matric Scholarship for Backward Classes (OBC),0.47204357385635376
+Q042,1,C051,Pre-Matric Scholarship for Minorities,0.42490142583847046
+Q042,2,C040,Pre-Matric Scholarship for ST Students,0.40966618061065674
+Q042,3,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.4044116139411926
+Q042,4,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.39879870414733887
+Q042,5,C008,Pre Matric Scholarship for SC students- DNH & DD,0.39041972160339355
+Q042,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.3810027837753296
+Q042,7,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.3798317313194275
+Q042,8,C037,Pre-Matric Scholarship for SC Students,0.3765712380409241
+Q042,9,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.36952900886535645
+Q042,10,C043,Pre-Matric Scholarship for Students with Disabilities,0.3683260679244995
+Q043,1,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.48197367787361145
+Q043,2,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.444338858127594
+Q043,3,C002,National Scholarship For Post Graduate Studies,0.44025352597236633
+Q043,4,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.44012123346328735
+Q043,5,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.41941526532173157
+Q043,6,C006,National Means-cum-Merit Scholarship Scheme,0.41561150550842285
+Q043,7,C008,Pre Matric Scholarship for SC students- DNH & DD,0.41164886951446533
+Q043,8,C032,Prime Minister's Scholarship Scheme for Railway Protection Force,0.41042906045913696
+Q043,9,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.40925049781799316
+Q043,10,C040,Pre-Matric Scholarship for ST Students,0.4091964662075043
+Q044,1,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.5817424654960632
+Q044,2,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5202888250350952
+Q044,3,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.514255940914154
+Q044,4,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5140583515167236
+Q044,5,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5060009956359863
+Q044,6,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5033404231071472
+Q044,7,C006,National Means-cum-Merit Scholarship Scheme,0.5001543760299683
+Q044,8,C002,National Scholarship For Post Graduate Studies,0.49866124987602234
+Q044,9,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.4942677617073059
+Q044,10,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.49242109060287476
+Q045,1,C027,National Post Doctoral Fellowship,0.5071081519126892
+Q045,2,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.4629187285900116
+Q045,3,C014,National Fellowship for Students with Disabilities,0.4539632201194763
+Q045,4,C030,National Fellowship For OBC Students,0.4535132050514221
+Q045,5,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.4486197829246521
+Q045,6,C017,National Fellowship For OBC Students,0.4126022756099701
+Q045,7,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.40877747535705566
+Q045,8,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.37726157903671265
+Q045,9,C045,Karnataka DST-Ph.D. Fellowship,0.33574172854423523
+Q045,10,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.3245677947998047
+Q046,1,C008,Pre Matric Scholarship for SC students- DNH & DD,0.6169940233230591
+Q046,2,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.5616303086280823
+Q046,3,C037,Pre-Matric Scholarship for SC Students,0.5518719553947449
+Q046,4,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5471876859664917
+Q046,5,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5237681269645691
+Q046,6,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.520723819732666
+Q046,7,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.5162379741668701
+Q046,8,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.5004843473434448
+Q046,9,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.49944770336151123
+Q046,10,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.48946017026901245
+Q047,1,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4822919964790344
+Q047,2,C043,Pre-Matric Scholarship for Students with Disabilities,0.44727593660354614
+Q047,3,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.44282034039497375
+Q047,4,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.42795127630233765
+Q047,5,C002,National Scholarship For Post Graduate Studies,0.4271315336227417
+Q047,6,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.4158492684364319
+Q047,7,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.40959087014198303
+Q047,8,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.405437707901001
+Q047,9,C040,Pre-Matric Scholarship for ST Students,0.4051293730735779
+Q047,10,C037,Pre-Matric Scholarship for SC Students,0.4046701192855835
+Q048,1,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.8088756799697876
+Q048,2,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.7079743146896362
+Q048,3,C037,Pre-Matric Scholarship for SC Students,0.7035007476806641
+Q048,4,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6897730827331543
+Q048,5,C008,Pre Matric Scholarship for SC students- DNH & DD,0.6863300204277039
+Q048,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.6813005208969116
+Q048,7,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.6585187911987305
+Q048,8,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.6577543616294861
+Q048,9,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6546316146850586
+Q048,10,C039,Post-Matric Scholarship for ST Students,0.6518232226371765
+Q049,1,C030,National Fellowship For OBC Students,0.6254581212997437
+Q049,2,C017,National Fellowship For OBC Students,0.5942955613136292
+Q049,3,C043,Pre-Matric Scholarship for Students with Disabilities,0.5107487440109253
+Q049,4,C014,National Fellowship for Students with Disabilities,0.4985954761505127
+Q049,5,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.49644652009010315
+Q049,6,C044,Post-Matric Scholarship for Students with Disabilities,0.4939332902431488
+Q049,7,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.49279850721359253
+Q049,8,C002,National Scholarship For Post Graduate Studies,0.4893820285797119
+Q049,9,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.4697338044643402
+Q049,10,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.46182364225387573
+Q050,1,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.6567715406417847
+Q050,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.651146650314331
+Q050,3,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.651067316532135
+Q050,4,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.6362071633338928
+Q050,5,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.634441077709198
+Q050,6,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.6227771043777466
+Q050,7,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6209784746170044
+Q050,8,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.6114498376846313
+Q050,9,C044,Post-Matric Scholarship for Students with Disabilities,0.6067053079605103
+Q050,10,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6042585372924805
+Q051,1,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.8139855861663818
+Q051,2,C039,Post-Matric Scholarship for ST Students,0.7688536643981934
+Q051,3,C050,Post-Matric Scholarship for Minorities,0.7637201547622681
+Q051,4,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.7377842664718628
+Q051,5,C042,Post-Matric Scholarship for Backward Classes (OBC),0.7341457605361938
+Q051,6,C037,Pre-Matric Scholarship for SC Students,0.7162591218948364
+Q051,7,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6925817131996155
+Q051,8,C002,National Scholarship For Post Graduate Studies,0.6626805067062378
+Q051,9,C038,Prabuddha Overseas Scholarship Scheme,0.6599962115287781
+Q051,10,C051,Pre-Matric Scholarship for Minorities,0.6503013968467712
+Q052,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.7252833843231201
+Q052,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.720016360282898
+Q052,3,C044,Post-Matric Scholarship for Students with Disabilities,0.7078921794891357
+Q052,4,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.6552174091339111
+Q052,5,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.6280573606491089
+Q052,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6047760248184204
+Q052,7,C006,National Means-cum-Merit Scholarship Scheme,0.595512866973877
+Q052,8,C014,National Fellowship for Students with Disabilities,0.5683102607727051
+Q052,9,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5624563694000244
+Q052,10,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5618968605995178
+Q053,1,C027,National Post Doctoral Fellowship,0.4977244734764099
+Q053,2,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.4411207437515259
+Q053,3,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.42509889602661133
+Q053,4,C030,National Fellowship For OBC Students,0.42412132024765015
+Q053,5,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.4192904233932495
+Q053,6,C014,National Fellowship for Students with Disabilities,0.4088314175605774
+Q053,7,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.4052853286266327
+Q053,8,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.38946396112442017
+Q053,9,C045,Karnataka DST-Ph.D. Fellowship,0.3584064245223999
+Q053,10,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.34450769424438477
+Q054,1,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.6884721517562866
+Q054,2,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6712207794189453
+Q054,3,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6704066395759583
+Q054,4,C039,Post-Matric Scholarship for ST Students,0.6647058725357056
+Q054,5,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6610074043273926
+Q054,6,C040,Pre-Matric Scholarship for ST Students,0.6589257717132568
+Q054,7,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6516473889350891
+Q054,8,C044,Post-Matric Scholarship for Students with Disabilities,0.6375452876091003
+Q054,9,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.6371518969535828
+Q054,10,C002,National Scholarship For Post Graduate Studies,0.6356216073036194
+Q055,1,C007,Haryana Merit Cum Means Scheme For Minority,0.7455111742019653
+Q055,2,C050,Post-Matric Scholarship for Minorities,0.6554980874061584
+Q055,3,C051,Pre-Matric Scholarship for Minorities,0.6384357810020447
+Q055,4,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5942596793174744
+Q055,5,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5870681405067444
+Q055,6,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5690569877624512
+Q055,7,C037,Pre-Matric Scholarship for SC Students,0.5684395432472229
+Q055,8,C042,Post-Matric Scholarship for Backward Classes (OBC),0.5621156692504883
+Q055,9,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.557640790939331
+Q055,10,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.5575078725814819
+Q056,1,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.7316354513168335
+Q056,2,C002,National Scholarship For Post Graduate Studies,0.7205382585525513
+Q056,3,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.7159284353256226
+Q056,4,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.7058357000350952
+Q056,5,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.7021693587303162
+Q056,6,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6855044364929199
+Q056,7,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.6846572756767273
+Q056,8,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.6731898784637451
+Q056,9,C037,Pre-Matric Scholarship for SC Students,0.6726595759391785
+Q056,10,C006,National Means-cum-Merit Scholarship Scheme,0.6685131788253784
+Q057,1,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.6280142068862915
+Q057,2,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.5729818344116211
+Q057,3,C038,Prabuddha Overseas Scholarship Scheme,0.5631663799285889
+Q057,4,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.5410330891609192
+Q057,5,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5059746503829956
+Q057,6,C042,Post-Matric Scholarship for Backward Classes (OBC),0.5035688877105713
+Q057,7,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.4965338408946991
+Q057,8,C051,Pre-Matric Scholarship for Minorities,0.49450188875198364
+Q057,9,C046,D. Devaraj Urs Prathibha Puraskara,0.4847198724746704
+Q057,10,C050,Post-Matric Scholarship for Minorities,0.48158523440361023
+Q058,1,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.634679913520813
+Q058,2,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.5333587527275085
+Q058,3,C002,National Scholarship For Post Graduate Studies,0.5263607501983643
+Q058,4,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.4908994734287262
+Q058,5,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.4881221354007721
+Q058,6,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.4871983528137207
+Q058,7,C006,National Means-cum-Merit Scholarship Scheme,0.48555755615234375
+Q058,8,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4847841262817383
+Q058,9,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4844076931476593
+Q058,10,C043,Pre-Matric Scholarship for Students with Disabilities,0.4779812693595886
+Q059,1,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.6696586012840271
+Q059,2,C002,National Scholarship For Post Graduate Studies,0.5936192274093628
+Q059,3,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.557848334312439
+Q059,4,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5367150902748108
+Q059,5,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5254150629043579
+Q059,6,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.5153611898422241
+Q059,7,C040,Pre-Matric Scholarship for ST Students,0.5131931304931641
+Q059,8,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5131672620773315
+Q059,9,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.511622428894043
+Q059,10,C039,Post-Matric Scholarship for ST Students,0.5007976293563843
+Q060,1,C027,National Post Doctoral Fellowship,0.46499019861221313
+Q060,2,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.408544659614563
+Q060,3,C030,National Fellowship For OBC Students,0.3940654993057251
+Q060,4,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.37321674823760986
+Q060,5,C002,National Scholarship For Post Graduate Studies,0.37156417965888977
+Q060,6,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.3684998154640198
+Q060,7,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.36547422409057617
+Q060,8,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.35609015822410583
+Q060,9,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.34928813576698303
+Q060,10,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.3479953706264496
+Q061,1,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5489919185638428
+Q061,2,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5220305919647217
+Q061,3,C006,National Means-cum-Merit Scholarship Scheme,0.5134924054145813
+Q061,4,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.5046992897987366
+Q061,5,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.49257707595825195
+Q061,6,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4922996759414673
+Q061,7,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.48974528908729553
+Q061,8,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.47835633158683777
+Q061,9,C037,Pre-Matric Scholarship for SC Students,0.4665793776512146
+Q061,10,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.4649694263935089
+Q062,1,C042,Post-Matric Scholarship for Backward Classes (OBC),0.7196574211120605
+Q062,2,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6908212900161743
+Q062,3,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.6890676617622375
+Q062,4,C050,Post-Matric Scholarship for Minorities,0.6551195979118347
+Q062,5,C039,Post-Matric Scholarship for ST Students,0.653356671333313
+Q062,6,C037,Pre-Matric Scholarship for SC Students,0.6385924816131592
+Q062,7,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.600176215171814
+Q062,8,C051,Pre-Matric Scholarship for Minorities,0.5937639474868774
+Q062,9,C038,Prabuddha Overseas Scholarship Scheme,0.5932196974754333
+Q062,10,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5900981426239014
+Q063,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.694131076335907
+Q063,2,C008,Pre Matric Scholarship for SC students- DNH & DD,0.66059410572052
+Q063,3,C044,Post-Matric Scholarship for Students with Disabilities,0.6605531573295593
+Q063,4,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6221679449081421
+Q063,5,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.6047632694244385
+Q063,6,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5986704230308533
+Q063,7,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5901301503181458
+Q063,8,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5579909086227417
+Q063,9,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.5508319139480591
+Q063,10,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5473434329032898
+Q064,1,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.6661152243614197
+Q064,2,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.646826982498169
+Q064,3,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.6427564024925232
+Q064,4,C030,National Fellowship For OBC Students,0.6149718761444092
+Q064,5,C014,National Fellowship for Students with Disabilities,0.5730616450309753
+Q064,6,C027,National Post Doctoral Fellowship,0.5033697485923767
+Q064,7,C017,National Fellowship For OBC Students,0.49927788972854614
+Q064,8,C040,Pre-Matric Scholarship for ST Students,0.4813976287841797
+Q064,9,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.46507593989372253
+Q064,10,C002,National Scholarship For Post Graduate Studies,0.4620004892349243
+Q065,1,C006,National Means-cum-Merit Scholarship Scheme,0.5887278914451599
+Q065,2,C043,Pre-Matric Scholarship for Students with Disabilities,0.559374213218689
+Q065,3,C037,Pre-Matric Scholarship for SC Students,0.5441772937774658
+Q065,4,C051,Pre-Matric Scholarship for Minorities,0.5364260077476501
+Q065,5,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5284872055053711
+Q065,6,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5215969681739807
+Q065,7,C040,Pre-Matric Scholarship for ST Students,0.518657922744751
+Q065,8,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5070919990539551
+Q065,9,C050,Post-Matric Scholarship for Minorities,0.5067726969718933
+Q065,10,C008,Pre Matric Scholarship for SC students- DNH & DD,0.5003480911254883
+Q066,1,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5492644906044006
+Q066,2,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.5310922265052795
+Q066,3,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.5203730463981628
+Q066,4,C032,Prime Minister's Scholarship Scheme for Railway Protection Force,0.5200470685958862
+Q066,5,C037,Pre-Matric Scholarship for SC Students,0.4898083806037903
+Q066,6,C039,Post-Matric Scholarship for ST Students,0.4889129102230072
+Q066,7,C043,Pre-Matric Scholarship for Students with Disabilities,0.48439258337020874
+Q066,8,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.48058921098709106
+Q066,9,C040,Pre-Matric Scholarship for ST Students,0.4782649874687195
+Q066,10,C002,National Scholarship For Post Graduate Studies,0.4677044749259949
+Q067,1,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.43559181690216064
+Q067,2,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4180759787559509
+Q067,3,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.408988893032074
+Q067,4,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4085260331630707
+Q067,5,C044,Post-Matric Scholarship for Students with Disabilities,0.3943434953689575
+Q067,6,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.39136070013046265
+Q067,7,C039,Post-Matric Scholarship for ST Students,0.3860396146774292
+Q067,8,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.38029319047927856
+Q067,9,C002,National Scholarship For Post Graduate Studies,0.3799319565296173
+Q067,10,C043,Pre-Matric Scholarship for Students with Disabilities,0.3776291608810425
+Q068,1,C002,National Scholarship For Post Graduate Studies,0.5280289649963379
+Q068,2,C043,Pre-Matric Scholarship for Students with Disabilities,0.5217779874801636
+Q068,3,C040,Pre-Matric Scholarship for ST Students,0.5201117396354675
+Q068,4,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5168590545654297
+Q068,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5110867023468018
+Q068,6,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5107669830322266
+Q068,7,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5067006349563599
+Q068,8,C037,Pre-Matric Scholarship for SC Students,0.4888197183609009
+Q068,9,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.4872523844242096
+Q068,10,C039,Post-Matric Scholarship for ST Students,0.4815882742404938
+Q069,1,C002,National Scholarship For Post Graduate Studies,0.5682408809661865
+Q069,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5633097290992737
+Q069,3,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5426797866821289
+Q069,4,C043,Pre-Matric Scholarship for Students with Disabilities,0.5351192355155945
+Q069,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5334520936012268
+Q069,6,C044,Post-Matric Scholarship for Students with Disabilities,0.5242208242416382
+Q069,7,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5197384357452393
+Q069,8,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.4953934848308563
+Q069,9,C037,Pre-Matric Scholarship for SC Students,0.4929659962654114
+Q069,10,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4887492060661316
+Q070,1,C002,National Scholarship For Post Graduate Studies,0.5304793119430542
+Q070,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5197535157203674
+Q070,3,C040,Pre-Matric Scholarship for ST Students,0.518905758857727
+Q070,4,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5081013441085815
+Q070,5,C043,Pre-Matric Scholarship for Students with Disabilities,0.5078945159912109
+Q070,6,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.4967520833015442
+Q070,7,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.4955797791481018
+Q070,8,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.47972196340560913
+Q070,9,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.47961193323135376
+Q070,10,C037,Pre-Matric Scholarship for SC Students,0.4781506061553955
+Q071,1,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.5837105512619019
+Q071,2,C002,National Scholarship For Post Graduate Studies,0.5665324926376343
+Q071,3,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5303440093994141
+Q071,4,C040,Pre-Matric Scholarship for ST Students,0.5257473587989807
+Q071,5,C030,National Fellowship For OBC Students,0.5032298564910889
+Q071,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.4992671012878418
+Q071,7,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.49273425340652466
+Q071,8,C037,Pre-Matric Scholarship for SC Students,0.4873432517051697
+Q071,9,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.48572832345962524
+Q071,10,C050,Post-Matric Scholarship for Minorities,0.48055991530418396
+Q072,1,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.36084216833114624
+Q072,2,C043,Pre-Matric Scholarship for Students with Disabilities,0.3168724775314331
+Q072,3,C037,Pre-Matric Scholarship for SC Students,0.3137539029121399
+Q072,4,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.2933896780014038
+Q072,5,C044,Post-Matric Scholarship for Students with Disabilities,0.2907785177230835
+Q072,6,C039,Post-Matric Scholarship for ST Students,0.28679242730140686
+Q072,7,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.2852850556373596
+Q072,8,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.2848977744579315
+Q072,9,C051,Pre-Matric Scholarship for Minorities,0.2835184335708618
+Q072,10,C050,Post-Matric Scholarship for Minorities,0.2761296033859253
+Q073,1,C039,Post-Matric Scholarship for ST Students,0.4221770763397217
+Q073,2,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4167429804801941
+Q073,3,C037,Pre-Matric Scholarship for SC Students,0.3995508551597595
+Q073,4,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.39689522981643677
+Q073,5,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.3940783441066742
+Q073,6,C040,Pre-Matric Scholarship for ST Students,0.3919578194618225
+Q073,7,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.38570451736450195
+Q073,8,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.37282535433769226
+Q073,9,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.3659418225288391
+Q073,10,C006,National Means-cum-Merit Scholarship Scheme,0.3655676245689392
+Q074,1,C050,Post-Matric Scholarship for Minorities,0.6098638772964478
+Q074,2,C051,Pre-Matric Scholarship for Minorities,0.5916001796722412
+Q074,3,C040,Pre-Matric Scholarship for ST Students,0.504730224609375
+Q074,4,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.48629432916641235
+Q074,5,C037,Pre-Matric Scholarship for SC Students,0.48321279883384705
+Q074,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.4810681641101837
+Q074,7,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.48025864362716675
+Q074,8,C002,National Scholarship For Post Graduate Studies,0.4798017144203186
+Q074,9,C043,Pre-Matric Scholarship for Students with Disabilities,0.4686139225959778
+Q074,10,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.4678301215171814
+Q075,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.6682464480400085
+Q075,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.6230850219726562
+Q075,3,C044,Post-Matric Scholarship for Students with Disabilities,0.6018155813217163
+Q075,4,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5733859539031982
+Q075,5,C014,National Fellowship for Students with Disabilities,0.5479460954666138
+Q075,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5345901250839233
+Q075,7,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.5156732797622681
+Q075,8,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.49143362045288086
+Q075,9,C040,Pre-Matric Scholarship for ST Students,0.4741334617137909
+Q075,10,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4665427803993225
+Q076,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.4654901921749115
+Q076,2,C037,Pre-Matric Scholarship for SC Students,0.4522969126701355
+Q076,3,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.41576021909713745
+Q076,4,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4126480221748352
+Q076,5,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.4124177098274231
+Q076,6,C040,Pre-Matric Scholarship for ST Students,0.4101637601852417
+Q076,7,C051,Pre-Matric Scholarship for Minorities,0.40700626373291016
+Q076,8,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.4036485552787781
+Q076,9,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.3995547890663147
+Q076,10,C044,Post-Matric Scholarship for Students with Disabilities,0.3989943265914917
+Q077,1,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.545071005821228
+Q077,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5342448949813843
+Q077,3,C002,National Scholarship For Post Graduate Studies,0.4936170279979706
+Q077,4,C040,Pre-Matric Scholarship for ST Students,0.48389965295791626
+Q077,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.4722827672958374
+Q077,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.4714774191379547
+Q077,7,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.4690250754356384
+Q077,8,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4686388671398163
+Q077,9,C037,Pre-Matric Scholarship for SC Students,0.4582778513431549
+Q077,10,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.45793694257736206
+Q078,1,C042,Post-Matric Scholarship for Backward Classes (OBC),0.4132002890110016
+Q078,2,C030,National Fellowship For OBC Students,0.3966216444969177
+Q078,3,C051,Pre-Matric Scholarship for Minorities,0.39465954899787903
+Q078,4,C037,Pre-Matric Scholarship for SC Students,0.39231765270233154
+Q078,5,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.3882710337638855
+Q078,6,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.38397717475891113
+Q078,7,C046,D. Devaraj Urs Prathibha Puraskara,0.37985044717788696
+Q078,8,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.37462663650512695
+Q078,9,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.3714010715484619
+Q078,10,C040,Pre-Matric Scholarship for ST Students,0.3647080659866333
+Q079,1,C030,National Fellowship For OBC Students,0.5938127636909485
+Q079,2,C027,National Post Doctoral Fellowship,0.5919592380523682
+Q079,3,C014,National Fellowship for Students with Disabilities,0.5754695534706116
+Q079,4,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.5581856966018677
+Q079,5,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.5110553503036499
+Q079,6,C017,National Fellowship For OBC Students,0.47209256887435913
+Q079,7,C045,Karnataka DST-Ph.D. Fellowship,0.46847832202911377
+Q079,8,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.4638689160346985
+Q079,9,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.46153292059898376
+Q079,10,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.4608049690723419
+Q080,1,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.46000993251800537
+Q080,2,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.436702698469162
+Q080,3,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3934730887413025
+Q080,4,C043,Pre-Matric Scholarship for Students with Disabilities,0.3712322413921356
+Q080,5,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.3619103729724884
+Q080,6,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.34926968812942505
+Q080,7,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.33789050579071045
+Q080,8,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.3241278827190399
+Q080,9,C044,Post-Matric Scholarship for Students with Disabilities,0.3208649754524231
+Q080,10,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.3195531368255615
+Q081,1,C050,Post-Matric Scholarship for Minorities,0.7264858484268188
+Q081,2,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6921145915985107
+Q081,3,C042,Post-Matric Scholarship for Backward Classes (OBC),0.6863385438919067
+Q081,4,C038,Prabuddha Overseas Scholarship Scheme,0.679782509803772
+Q081,5,C039,Post-Matric Scholarship for ST Students,0.6687521934509277
+Q081,6,C051,Pre-Matric Scholarship for Minorities,0.6568934321403503
+Q081,7,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6566600799560547
+Q081,8,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6463074684143066
+Q081,9,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.617626428604126
+Q081,10,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.6137915849685669
+Q082,1,C050,Post-Matric Scholarship for Minorities,0.6839320659637451
+Q082,2,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.6561648845672607
+Q082,3,C039,Post-Matric Scholarship for ST Students,0.6481302976608276
+Q082,4,C042,Post-Matric Scholarship for Backward Classes (OBC),0.6426584124565125
+Q082,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.62907874584198
+Q082,6,C038,Prabuddha Overseas Scholarship Scheme,0.6266399025917053
+Q082,7,C051,Pre-Matric Scholarship for Minorities,0.6022111177444458
+Q082,8,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5984227657318115
+Q082,9,C002,National Scholarship For Post Graduate Studies,0.597876787185669
+Q082,10,C037,Pre-Matric Scholarship for SC Students,0.5872578620910645
+Q083,1,C042,Post-Matric Scholarship for Backward Classes (OBC),0.43320325016975403
+Q083,2,C050,Post-Matric Scholarship for Minorities,0.3972364068031311
+Q083,3,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3585813641548157
+Q083,4,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.35303640365600586
+Q083,5,C043,Pre-Matric Scholarship for Students with Disabilities,0.35028886795043945
+Q083,6,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.35007092356681824
+Q083,7,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.3463231027126312
+Q083,8,C051,Pre-Matric Scholarship for Minorities,0.341036856174469
+Q083,9,C044,Post-Matric Scholarship for Students with Disabilities,0.33820852637290955
+Q083,10,C008,Pre Matric Scholarship for SC students- DNH & DD,0.3373281955718994
+Q084,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.6578325033187866
+Q084,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5809057354927063
+Q084,3,C044,Post-Matric Scholarship for Students with Disabilities,0.5751950740814209
+Q084,4,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5693248510360718
+Q084,5,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5632947683334351
+Q084,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5528765916824341
+Q084,7,C014,National Fellowship for Students with Disabilities,0.535860538482666
+Q084,8,C040,Pre-Matric Scholarship for ST Students,0.5241620540618896
+Q084,9,C037,Pre-Matric Scholarship for SC Students,0.5171436667442322
+Q084,10,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.5063604712486267
+Q085,1,C039,Post-Matric Scholarship for ST Students,0.4087008237838745
+Q085,2,C043,Pre-Matric Scholarship for Students with Disabilities,0.39949339628219604
+Q085,3,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.39721447229385376
+Q085,4,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3947460651397705
+Q085,5,C037,Pre-Matric Scholarship for SC Students,0.3937319219112396
+Q085,6,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.37959200143814087
+Q085,7,C042,Post-Matric Scholarship for Backward Classes (OBC),0.37780725955963135
+Q085,8,C044,Post-Matric Scholarship for Students with Disabilities,0.3775063753128052
+Q085,9,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.36415180563926697
+Q085,10,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.3626217246055603
+Q086,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.5740137696266174
+Q086,2,C002,National Scholarship For Post Graduate Studies,0.5564395189285278
+Q086,3,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.5510070323944092
+Q086,4,C006,National Means-cum-Merit Scholarship Scheme,0.542876124382019
+Q086,5,C050,Post-Matric Scholarship for Minorities,0.5295324325561523
+Q086,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5248973965644836
+Q086,7,C051,Pre-Matric Scholarship for Minorities,0.5154508948326111
+Q086,8,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.5128238201141357
+Q086,9,C037,Pre-Matric Scholarship for SC Students,0.5089043378829956
+Q086,10,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5082619190216064
+Q087,1,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.1906694620847702
+Q087,2,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.18990713357925415
+Q087,3,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.1579817533493042
+Q087,4,C027,National Post Doctoral Fellowship,0.12619440257549286
+Q087,5,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.12594465911388397
+Q087,6,C017,National Fellowship For OBC Students,0.12517152726650238
+Q087,7,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.10524044185876846
+Q087,8,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.09907309710979462
+Q087,9,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.09318092465400696
+Q087,10,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.08968208730220795
+Q088,1,C027,National Post Doctoral Fellowship,0.5793695449829102
+Q088,2,C002,National Scholarship For Post Graduate Studies,0.5639920234680176
+Q088,3,C030,National Fellowship For OBC Students,0.5557183623313904
+Q088,4,C014,National Fellowship for Students with Disabilities,0.5446070432662964
+Q088,5,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.5203927755355835
+Q088,6,C020,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship,0.5108959674835205
+Q088,7,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.5074706673622131
+Q088,8,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.47968852519989014
+Q088,9,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.47752460837364197
+Q088,10,C021,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship,0.47692787647247314
+Q089,1,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.3750973343849182
+Q089,2,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.374332994222641
+Q089,3,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.3741905689239502
+Q089,4,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.3497354984283447
+Q089,5,C030,National Fellowship For OBC Students,0.34604543447494507
+Q089,6,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.3452409505844116
+Q089,7,C006,National Means-cum-Merit Scholarship Scheme,0.3447343111038208
+Q089,8,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.3360339403152466
+Q089,9,C038,Prabuddha Overseas Scholarship Scheme,0.3358061611652374
+Q089,10,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.3310948610305786
+Q090,1,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.5811315178871155
+Q090,2,C002,National Scholarship For Post Graduate Studies,0.5750806331634521
+Q090,3,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5218220353126526
+Q090,4,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5209095478057861
+Q090,5,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.510771632194519
+Q090,6,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5002363324165344
+Q090,7,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.48053351044654846
+Q090,8,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.4752066433429718
+Q090,9,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.47443172335624695
+Q090,10,C043,Pre-Matric Scholarship for Students with Disabilities,0.47180163860321045
+Q091,1,C051,Pre-Matric Scholarship for Minorities,0.44282281398773193
+Q091,2,C042,Post-Matric Scholarship for Backward Classes (OBC),0.4179733395576477
+Q091,3,C050,Post-Matric Scholarship for Minorities,0.40190809965133667
+Q091,4,C046,D. Devaraj Urs Prathibha Puraskara,0.36606600880622864
+Q091,5,C007,Haryana Merit Cum Means Scheme For Minority,0.3344014883041382
+Q091,6,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.3067699074745178
+Q091,7,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.30596455931663513
+Q091,8,C043,Pre-Matric Scholarship for Students with Disabilities,0.30136966705322266
+Q091,9,C047,The Karnataka Merit-Cum-Means (MCM) Scholarship,0.30017542839050293
+Q091,10,C037,Pre-Matric Scholarship for SC Students,0.2993130683898926
+Q092,1,C050,Post-Matric Scholarship for Minorities,0.7453051209449768
+Q092,2,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.7438119649887085
+Q092,3,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.7361632585525513
+Q092,4,C039,Post-Matric Scholarship for ST Students,0.7251556515693665
+Q092,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.6910411715507507
+Q092,6,C002,National Scholarship For Post Graduate Studies,0.6881285905838013
+Q092,7,C037,Pre-Matric Scholarship for SC Students,0.6761353015899658
+Q092,8,C042,Post-Matric Scholarship for Backward Classes (OBC),0.6703965663909912
+Q092,9,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.6620621085166931
+Q092,10,C051,Pre-Matric Scholarship for Minorities,0.6613552570343018
+Q093,1,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.40500131249427795
+Q093,2,C037,Pre-Matric Scholarship for SC Students,0.35961616039276123
+Q093,3,C038,Prabuddha Overseas Scholarship Scheme,0.3419322669506073
+Q093,4,C051,Pre-Matric Scholarship for Minorities,0.340823233127594
+Q093,5,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.3398769497871399
+Q093,6,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.33517587184906006
+Q093,7,C030,National Fellowship For OBC Students,0.3350444436073303
+Q093,8,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.33454033732414246
+Q093,9,C040,Pre-Matric Scholarship for ST Students,0.3327900767326355
+Q093,10,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.3285263180732727
+Q094,1,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.5590490102767944
+Q094,2,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.43836653232574463
+Q094,3,C032,Prime Minister's Scholarship Scheme for Railway Protection Force,0.41706860065460205
+Q094,4,C043,Pre-Matric Scholarship for Students with Disabilities,0.3999027609825134
+Q094,5,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3936954140663147
+Q094,6,C044,Post-Matric Scholarship for Students with Disabilities,0.37517160177230835
+Q094,7,C002,National Scholarship For Post Graduate Studies,0.3564572036266327
+Q094,8,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.3517059087753296
+Q094,9,C006,National Means-cum-Merit Scholarship Scheme,0.35070860385894775
+Q094,10,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.35036981105804443
+Q095,1,C043,Pre-Matric Scholarship for Students with Disabilities,0.5735912322998047
+Q095,2,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.548385739326477
+Q095,3,C044,Post-Matric Scholarship for Students with Disabilities,0.5283859968185425
+Q095,4,C050,Post-Matric Scholarship for Minorities,0.5001980066299438
+Q095,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.47510114312171936
+Q095,6,C051,Pre-Matric Scholarship for Minorities,0.4662948548793793
+Q095,7,C014,National Fellowship for Students with Disabilities,0.46279531717300415
+Q095,8,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.45495378971099854
+Q095,9,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.4161189794540405
+Q095,10,C002,National Scholarship For Post Graduate Studies,0.4069332778453827
+Q096,1,C006,National Means-cum-Merit Scholarship Scheme,0.5422372221946716
+Q096,2,C037,Pre-Matric Scholarship for SC Students,0.5059769749641418
+Q096,3,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.49768632650375366
+Q096,4,C002,National Scholarship For Post Graduate Studies,0.4926312565803528
+Q096,5,C050,Post-Matric Scholarship for Minorities,0.4919290542602539
+Q096,6,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.4890598654747009
+Q096,7,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4872336983680725
+Q096,8,C030,National Fellowship For OBC Students,0.48512357473373413
+Q096,9,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.4806247353553772
+Q096,10,C051,Pre-Matric Scholarship for Minorities,0.4795186519622803
+Q097,1,C002,National Scholarship For Post Graduate Studies,0.6952351927757263
+Q097,2,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.674015998840332
+Q097,3,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6656073331832886
+Q097,4,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.6427223682403564
+Q097,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.642197847366333
+Q097,6,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.6346666812896729
+Q097,7,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.623820424079895
+Q097,8,C043,Pre-Matric Scholarship for Students with Disabilities,0.6142531633377075
+Q097,9,C040,Pre-Matric Scholarship for ST Students,0.6130961179733276
+Q097,10,C044,Post-Matric Scholarship for Students with Disabilities,0.6122326254844666
+Q098,1,C002,National Scholarship For Post Graduate Studies,0.6217926740646362
+Q098,2,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.6177108287811279
+Q098,3,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5887341499328613
+Q098,4,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.578531801700592
+Q098,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5671353936195374
+Q098,6,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5641124844551086
+Q098,7,C009,"PM-YASASVI: Post-Matric Scholarship for OBC, EBC and DNT Students",0.5590640306472778
+Q098,8,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5506155490875244
+Q098,9,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5410550832748413
+Q098,10,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.5378643274307251
+Q099,1,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.22297272086143494
+Q099,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.22120247781276703
+Q099,3,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.20265641808509827
+Q099,4,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.18349534273147583
+Q099,5,C040,Pre-Matric Scholarship for ST Students,0.17905309796333313
+Q099,6,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.16899794340133667
+Q099,7,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.1645745038986206
+Q099,8,C037,Pre-Matric Scholarship for SC Students,0.16095715761184692
+Q099,9,C038,Prabuddha Overseas Scholarship Scheme,0.15904618799686432
+Q099,10,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.15804192423820496
+Q100,1,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.42008233070373535
+Q100,2,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.41197168827056885
+Q100,3,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.40960392355918884
+Q100,4,C037,Pre-Matric Scholarship for SC Students,0.401020884513855
+Q100,5,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.39794039726257324
+Q100,6,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.38881322741508484
+Q100,7,C007,Haryana Merit Cum Means Scheme For Minority,0.38422656059265137
+Q100,8,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.3804904818534851
+Q100,9,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.38030946254730225
+Q100,10,C038,Prabuddha Overseas Scholarship Scheme,0.37988436222076416
+Q101,1,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.39843881130218506
+Q101,2,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.33110207319259644
+Q101,3,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.331036776304245
+Q101,4,C032,Prime Minister's Scholarship Scheme for Railway Protection Force,0.3217281699180603
+Q101,5,C038,Prabuddha Overseas Scholarship Scheme,0.31954193115234375
+Q101,6,C018,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship,0.31787267327308655
+Q101,7,C044,Post-Matric Scholarship for Students with Disabilities,0.31601184606552124
+Q101,8,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.311906099319458
+Q101,9,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.3118055760860443
+Q101,10,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.30607858300209045
+Q102,1,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.6078713536262512
+Q102,2,C002,National Scholarship For Post Graduate Studies,0.6003361940383911
+Q102,3,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5656999349594116
+Q102,4,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5512049198150635
+Q102,5,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.5455160140991211
+Q102,6,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.543340802192688
+Q102,7,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.5381532907485962
+Q102,8,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.5324490070343018
+Q102,9,C043,Pre-Matric Scholarship for Students with Disabilities,0.520968496799469
+Q102,10,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5198541879653931
+Q103,1,C006,National Means-cum-Merit Scholarship Scheme,0.4161364436149597
+Q103,2,C033,Prime Minister's Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles,0.36398330330848694
+Q103,3,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.34711766242980957
+Q103,4,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.344410240650177
+Q103,5,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.33891236782073975
+Q103,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.33509355783462524
+Q103,7,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.3349761962890625
+Q103,8,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.33131879568099976
+Q103,9,C051,Pre-Matric Scholarship for Minorities,0.33093419671058655
+Q103,10,C003,Ishan Uday Special Scholarship Scheme for North Eastern Region,0.3304053544998169
+Q104,1,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.42049941420555115
+Q104,2,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.39265644550323486
+Q104,3,C016,Rajiv Gandhi National Fellowship For Scheduled Caste Candidates,0.3819415271282196
+Q104,4,C002,National Scholarship For Post Graduate Studies,0.3713250756263733
+Q104,5,C044,Post-Matric Scholarship for Students with Disabilities,0.3563246726989746
+Q104,6,C038,Prabuddha Overseas Scholarship Scheme,0.35456597805023193
+Q104,7,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.3487723171710968
+Q104,8,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.34599608182907104
+Q104,9,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.33885830640792847
+Q104,10,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.33739620447158813
+Q105,1,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.28420209884643555
+Q105,2,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.2755157947540283
+Q105,3,C038,Prabuddha Overseas Scholarship Scheme,0.2533780038356781
+Q105,4,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.2531736493110657
+Q105,5,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.25008976459503174
+Q105,6,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.24105273187160492
+Q105,7,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.23587298393249512
+Q105,8,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.23496074974536896
+Q105,9,C039,Post-Matric Scholarship for ST Students,0.23402883112430573
+Q105,10,C036,Post-Matric Scholarship for Scheduled Caste (SC) Students,0.23263946175575256
+Q106,1,C040,Pre-Matric Scholarship for ST Students,0.4743565320968628
+Q106,2,C037,Pre-Matric Scholarship for SC Students,0.4659351110458374
+Q106,3,C002,National Scholarship For Post Graduate Studies,0.46077901124954224
+Q106,4,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.4582799971103668
+Q106,5,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.43236231803894043
+Q106,6,C039,Post-Matric Scholarship for ST Students,0.4311635494232178
+Q106,7,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.4300177991390228
+Q106,8,C019,Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE),0.42157411575317383
+Q106,9,C022,Post-Graduate Scholarships for Professional Courses for SC/ST Candidates,0.41887784004211426
+Q106,10,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.41274333000183105
+Q107,1,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.47813916206359863
+Q107,2,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.43404924869537354
+Q107,3,C005,AICTE Â– Saksham Scholarship Scheme For Specially-Abled Student (Degree),0.4271603226661682
+Q107,4,C009,"PM-YASASVI: Post-Matric Scholarship for OBC, EBC and DNT Students",0.4112394154071808
+Q107,5,C001,Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students,0.41086244583129883
+Q107,6,C043,Pre-Matric Scholarship for Students with Disabilities,0.39993929862976074
+Q107,7,C025,Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh,0.3980293869972229
+Q107,8,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.3960318863391876
+Q107,9,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.39400801062583923
+Q107,10,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.3925940990447998
+Q108,1,C048,Karnataka Building and Other Construction Workers Welfare Board (Educational Assistance),0.29025864601135254
+Q108,2,C049,Chief Minister Raitha Vidya Nidhi Scheme,0.22360539436340332
+Q108,3,C045,Karnataka DST-Ph.D. Fellowship,0.18890352547168732
+Q108,4,C038,Prabuddha Overseas Scholarship Scheme,0.17862597107887268
+Q108,5,C035,Research Fellowship Scheme for Scheduled Tribe Candidates,0.17192542552947998
+Q108,6,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.1702055186033249
+Q108,7,C042,Post-Matric Scholarship for Backward Classes (OBC),0.16940048336982727
+Q108,8,C046,D. Devaraj Urs Prathibha Puraskara,0.14819835126399994
+Q108,9,C010,"PM-YASASVI: Top Class College Education for OBC, EBC and DNT Students",0.14704203605651855
+Q108,10,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.14333131909370422
+Q109,1,C037,Pre-Matric Scholarship for SC Students,0.5867871046066284
+Q109,2,C006,National Means-cum-Merit Scholarship Scheme,0.5855336785316467
+Q109,3,C043,Pre-Matric Scholarship for Students with Disabilities,0.5825157165527344
+Q109,4,C040,Pre-Matric Scholarship for ST Students,0.5635664463043213
+Q109,5,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.5524215698242188
+Q109,6,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5513782501220703
+Q109,7,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.5448821783065796
+Q109,8,C026,AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma),0.5385439991950989
+Q109,9,C051,Pre-Matric Scholarship for Minorities,0.5383324027061462
+Q109,10,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5372711420059204
+Q110,1,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.3390800952911377
+Q110,2,C038,Prabuddha Overseas Scholarship Scheme,0.31277525424957275
+Q110,3,C011,"PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",0.31157344579696655
+Q110,4,C012,"PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",0.30135053396224976
+Q110,5,C009,"PM-YASASVI: Post-Matric Scholarship for OBC, EBC and DNT Students",0.2921551764011383
+Q110,6,C044,Post-Matric Scholarship for Students with Disabilities,0.28938281536102295
+Q110,7,C041,Vidyasiri Food and Accommodation Scholarship Scheme,0.28864216804504395
+Q110,8,C043,Pre-Matric Scholarship for Students with Disabilities,0.2825140058994293
+Q110,9,C031,Financial Assistance for Education to the Wards of Beedi/Cine/IOMC/LSDM Workers Â– Pre & Post-Matric,0.2813282012939453
+Q110,10,C034,Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel,0.2802060842514038
+Q111,1,C023,Pragati Scholarship Scheme For Girl Students (Technical Degree),0.5550675988197327
+Q111,2,C043,Pre-Matric Scholarship for Students with Disabilities,0.553970456123352
+Q111,3,C028,Pre-Matric Scholarship for Scheduled Caste Students,0.551934540271759
+Q111,4,C004,Pragati Scholarship Scheme For Girl Students (Technical Diploma),0.5399923324584961
+Q111,5,C029,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5279920101165771
+Q111,6,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,0.5271576642990112
+Q111,7,C002,National Scholarship For Post Graduate Studies,0.5269078016281128
+Q111,8,C013,"Scholarships for Top Class Education for students with Disabilities, DNH & DD",0.5239497423171997
+Q111,9,C037,Pre-Matric Scholarship for SC Students,0.5126778483390808
+Q111,10,C040,Pre-Matric Scholarship for ST Students,0.5100722312927246

@@ -1,0 +1,16 @@
+query_id,BM25_top1,MINILM_top1,MPNET_top1,query_text,query_type
+Q082,C042,C050,C037,I'm from Karnataka and need support for college. What scholarships are available?,Ambiguous
+Q083,C007,C042,C013,I belong to a backward community and want help with my studies,Ambiguous
+Q084,C029,C043,C044,Scholarship for students with special needs,Ambiguous
+Q085,C042,C039,C044,"I'm doing a professional course and need financial support, not sure what category I fall under",Ambiguous
+Q086,C024,C043,C047,Is there a scholarship for merit students or is it only for poor students?,Ambiguous
+Q087,C027,C048,C034,"My family works for the government, is there something for us?",Ambiguous
+Q088,C035,C027,C002,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",Ambiguous
+Q089,C023,C041,C003,Scheme for students in the northeast or hill states,Ambiguous
+Q090,C033,C015,C002,"I want to study abroad, are there any government scholarships for that",Ambiguous
+Q091,C046,C051,C051,"Something for minorities or backward classes, I qualify for both maybe",Ambiguous
+Q092,C037,C050,C039,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",Ambiguous
+Q093,C028,C023,C022,"Is this scheme for school students or college students, I'm not sure which stage I'm in",Ambiguous
+Q094,C034,C034,C034,"My father was in the police force, does that make me eligible for a defense scholarship",Ambiguous
+Q095,C027,C043,C044,"I have a disability but I'm also from a minority community, which scholarship should I look at",Ambiguous
+Q096,C028,C006,C003,"Scholarship for state-level or central-level schemes, I don't know the difference",Ambiguous

@@ -1,0 +1,14 @@
+{
+  "source_id": "ugc_home",
+  "source_url": "https://www.ugc.gov.in/",
+  "candidate_count": 1,
+  "candidates": [
+    {
+      "text": "Fellowships",
+      "url": "https://www.ugc.gov.in/Home/student_Corner",
+      "discovery_source_url": "https://www.ugc.gov.in/",
+      "verification_status": "pending_review"
+    }
+  ],
+  "verification_status": "pending_review"
+}

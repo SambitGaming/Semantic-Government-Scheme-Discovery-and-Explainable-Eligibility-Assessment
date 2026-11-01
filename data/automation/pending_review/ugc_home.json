@@ -1,0 +1,46 @@
+{
+  "scheme_name_candidate": "Welcome to UGC, New Delhi, India",
+  "description_candidate": "University Grants Commission (UGC) - Statutory body of the Government of India for coordination, determination and maintenance of standards of higher education in India.",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://www.ugc.gov.in/",
+  "source_sections": [
+    {
+      "heading": "Page content",
+      "text": "Follow Us on Twitter Follow Us on Twitter Like Us on Facebook Like Us on Facebook Follow Us on LinkedIn Follow Us on LinkedIn Follow Us on Instagram Follow Us on Instagram Subscribe on YouYube Subscribe on YouYube Follow Us on WhatsApp group Follow Us on WhatsApp group"
+    },
+    {
+      "heading": "About University Grants Commission",
+      "text": "The University Grants Commission (UGC) came into existence on 28th December,\r\n                                1953 and became a\r\n                                statutory Organization of the Government of India by an Act of Parliament in 1956, for the\r\n                                coordination,determination and maintenance of standards of teaching, examination and research in\r\n                                university education."
+    },
+    {
+      "heading": "Message from Chairperson UGC",
+      "text": "The University Grants Commission (UGC) was established by an Act of Parliament in 1956 to coordinate, determine, and maintain standards of teaching, examination, and research in university education. Now, UGC has become an important pillar of higher education. e-Governance @UGC e-Governance @UGC Key Initiatives Key Initiatives Student Corner Student Corner Faculty Corner/ Non-Teaching Staff Faculty Corner/ Non-Teaching Staff Details of HEIs Details of HEIs UGC Green Initiatives UGC Green Initiatives"
+    },
+    {
+      "heading": "Key Initiatives",
+      "text": "Women Leaders: Shaping Academic Excellence for Viksit Bharat @ 2047 Compendium of UGC Regulations 1957-2023 List of Eligible Indian institutions to collaborate as per Regulations on Academic Collaboration between Indian and Foreign HEIs to offer Twinning, Joint Degree and Dual Degree Programmes in 2022 with foreign institutions. Guidelines on Mulya Pravah 2.0 National Higher Education Qualifications Framework (NHEQF) Guidelines for Promotion at HEI Guidelines for Training/Orientation of Faculty on Indian Knowledge System (IKS) National Credit Framework (NCrF) Fostering Social Responsibility & Community Engagement 2.0"
+    },
+    {
+      "heading": "RTIs",
+      "text": "Right to Information Act Consolidated Quarterly Return from CPIOs of University\r\n                                            Grants\r\n                                            Commission, New Delhi Information to be published in pursuance of section 4(1)(b)\r\n                                            of\r\n                                            Right to Information Act, 2005 (BEING UPDATED) Central Public Information Officer & Appellate Authority as\r\n                                            on\r\n                                            22.11.2022"
+    },
+    {
+      "heading": "Digital Initiatives",
+      "text": "Copyright © 2023 University Grants Commission New Delhi, India Website last updated on:\r\n                    \r\n                    19-10-2026 Disclaimer | Privacy Policy | Contact Us"
+    }
+  ],
+  "source_id": "ugc_home",
+  "source_name": "University Grants Commission",
+  "page_type": "portal",
+  "extracted_at_utc": "2026-10-19T12:46:07.164383+00:00",
+  "validation_status": "discovery_only",
+  "validation_issues": [
+    "Discovery source: individual scholarship pages must be extracted and verified before approval."
+  ],
+  "verification_status": "pending_review",
+  "duplicate_status": "no_match_found",
+  "duplicate_note": null
+}

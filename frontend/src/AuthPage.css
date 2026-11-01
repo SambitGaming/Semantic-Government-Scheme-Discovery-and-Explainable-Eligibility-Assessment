@@ -1,0 +1,406 @@
+
+/* =========================================
+   AUTHENTICATION AND SCHOLARSHIP PAGES
+========================================= */
+
+.auth-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 40px 20px;
+    background:
+        radial-gradient(
+            ellipse at 10% 10%,
+            rgba(129, 140, 248, 0.16),
+            transparent 38%
+        ),
+        radial-gradient(
+            ellipse at 90% 90%,
+            rgba(56, 189, 248, 0.11),
+            transparent 35%
+        ),
+        #f4f6fc;
+}
+
+.auth-card,
+.results-container {
+    width: 100%;
+    max-width: 490px;
+    padding: clamp(25px, 5vw, 42px);
+    background: rgba(255, 255, 255, 0.97);
+    border: 1px solid #e5eaf5;
+    border-radius: 24px;
+    box-shadow:
+        0 24px 70px rgba(30, 41, 90, 0.09),
+        0 3px 10px rgba(30, 41, 90, 0.025);
+    animation: authEnter 0.45s ease both;
+}
+
+@keyframes authEnter {
+    from {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 30px;
+    color: #4f46e5;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.auth-card h1,
+.results-container h1 {
+    margin: 0 0 12px;
+    color: #172554;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: clamp(27px, 4vw, 34px);
+    font-weight: 800;
+    letter-spacing: -1px;
+    line-height: 1.3;
+}
+
+.auth-card > p,
+.results-container > p {
+    color: #64748b;
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+.auth-card form {
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    margin-top: 28px;
+}
+
+.auth-card label,
+.question-grid label {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    color: #334155;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.auth-card input,
+.auth-card select,
+.question-grid input,
+.question-grid select {
+    width: 100%;
+    min-height: 49px;
+    padding: 12px 14px;
+    color: #17213b;
+    background: #fbfcff;
+    border: 1px solid #dbe2ef;
+    border-radius: 11px;
+    outline: none;
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+}
+
+.auth-card input::placeholder,
+.question-grid input::placeholder {
+    color: #94a3b8;
+}
+
+.auth-card input:focus,
+.auth-card select:focus,
+.question-grid input:focus,
+.question-grid select:focus {
+    background: #ffffff;
+    border-color: #818cf8;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.11);
+}
+
+.auth-card form > button,
+.questionnaire-card form > button,
+.results-container > button,
+.results-heading > button,
+.secondary-button {
+    min-height: 49px;
+    padding: 13px 19px;
+    color: #ffffff;
+    background: linear-gradient(115deg, #4f46e5, #4338ca);
+    border: none;
+    border-radius: 11px;
+    font-size: 14px;
+    font-weight: 700;
+    box-shadow: 0 6px 15px rgba(79, 70, 229, 0.17);
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.auth-card form > button:hover,
+.questionnaire-card form > button:hover,
+.results-container > button:hover,
+.results-heading > button:hover,
+.secondary-button:hover {
+    box-shadow: 0 9px 22px rgba(79, 70, 229, 0.25);
+    transform: translateY(-2px);
+}
+
+.auth-card button:disabled,
+.questionnaire-card button:disabled {
+    opacity: 0.65;
+    cursor: not-allowed;
+}
+
+.auth-switch {
+    margin-top: 26px;
+    color: #64748b;
+    font-size: 13px;
+    text-align: center;
+}
+
+.text-button {
+    padding: 0;
+    color: #4f46e5;
+    background: transparent;
+    border: none;
+    font-size: inherit;
+    font-weight: 800;
+}
+
+.text-button:hover {
+    color: #312e81;
+    text-decoration: underline;
+}
+
+.auth-error {
+    margin: 18px 0;
+}
+
+
+/* =========================================
+   QUESTIONNAIRE
+========================================= */
+
+.questionnaire-card {
+    max-width: 860px;
+}
+
+.questionnaire-card h1 {
+    font-size: clamp(28px, 4vw, 37px);
+}
+
+.questionnaire-card > p {
+    margin-bottom: 25px;
+}
+
+.question-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px;
+}
+
+.questionnaire-card form {
+    margin-top: 24px;
+}
+
+.questionnaire-card form > button {
+    width: 100%;
+    margin-top: 8px;
+}
+
+.questionnaire-card .secondary-button {
+    width: 100%;
+    margin-top: 14px;
+    color: #475569;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    box-shadow: none;
+}
+
+.questionnaire-card .secondary-button:hover {
+    color: #1e293b;
+    background: #e8edf5;
+    box-shadow: none;
+}
+
+
+/* =========================================
+   RECOMMENDATION RESULTS
+========================================= */
+
+.results-container {
+    max-width: 1120px;
+}
+
+.results-heading {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 28px;
+}
+
+.results-heading > div {
+    min-width: 0;
+}
+
+.results-heading h1 {
+    font-size: clamp(27px, 4vw, 36px);
+}
+
+.results-heading > button {
+    flex-shrink: 0;
+}
+
+.results-container > p {
+    margin: 12px 0 22px;
+}
+
+.recommendation-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+    margin: 24px 0;
+}
+
+.recommendation-card {
+    min-width: 0;
+    padding: 24px;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 17px;
+    box-shadow: 0 5px 18px rgba(30, 41, 90, 0.035);
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.recommendation-card:hover {
+    border-color: #c7d2fe;
+    box-shadow: 0 14px 30px rgba(30, 41, 90, 0.08);
+    transform: translateY(-3px);
+}
+
+.recommendation-card h2 {
+    margin-top: 0;
+    color: #172554;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 19px;
+    line-height: 1.5;
+}
+
+.recommendation-card p {
+    color: #64748b;
+    font-size: 14px;
+    line-height: 1.8;
+    overflow-wrap: anywhere;
+}
+
+.recommendation-card a {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.recommendation-card details {
+    margin-top: 14px;
+    padding: 13px;
+    background: #f8faff;
+    border: 1px solid #e8edf8;
+    border-radius: 10px;
+}
+
+.recommendation-card summary {
+    color: #4338ca;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.recommendation-card pre {
+    max-width: 100%;
+    overflow-x: auto;
+    color: #475569;
+    font-size: 12px;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+
+.review-section {
+    margin: 28px 0;
+    padding: 22px;
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+    border-radius: 15px;
+}
+
+.review-section h2 {
+    margin-top: 0;
+    color: #92400e;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 19px;
+}
+
+.review-section p {
+    color: #78350f;
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+
+/* =========================================
+   RESPONSIVE DESIGN
+========================================= */
+
+@media (max-width: 650px) {
+    .auth-page {
+        align-items: flex-start;
+        padding: 24px 14px;
+    }
+
+    .auth-card,
+    .results-container {
+        padding: 25px 20px;
+        border-radius: 19px;
+    }
+
+    .question-grid,
+    .recommendation-grid {
+        grid-template-columns: 1fr;
+        gap: 18px;
+    }
+
+    .results-heading {
+        flex-direction: column;
+    }
+
+    .results-heading > button {
+        width: 100%;
+    }
+
+    .back-link {
+        margin-bottom: 24px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .auth-card,
+    .results-container {
+        animation: none;
+    }
+
+    *,
+    *::before,
+    *::after {
+        transition-duration: 0.01ms !important;
+    }
+}

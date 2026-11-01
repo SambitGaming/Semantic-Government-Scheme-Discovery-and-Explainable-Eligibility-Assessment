@@ -1,0 +1,32 @@
+{
+  "source_id": "serb_home",
+  "source_url": "https://serb.gov.in/",
+  "candidate_count": 4,
+  "candidates": [
+    {
+      "text": "Research Grants",
+      "url": "https://serb.gov.in/page/english/research_grants",
+      "discovery_source_url": "https://serb.gov.in/",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "Awards & Fellowships",
+      "url": "https://serb.gov.in/page/english/awards_fellowship",
+      "discovery_source_url": "https://serb.gov.in/",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "SERB SUPRA SERB has developed a scheme SERB-SUPRA (Scientific and Useful Profound \nResearch Advancement) that seeks to explore new scientific breakthroughs, with long-term impact on our fundamental scientific understanding, and offer disruptive technologies at the cutting edge.",
+      "url": "https://serb.gov.in/page/supra",
+      "discovery_source_url": "https://serb.gov.in/",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "SERB TETRA SERB-TETRA (Technology Translation Award) is a new scheme for catalizing technology translation in academic setting. TETRA Support will help entities having successful ideas to kickstart new venture processes.",
+      "url": "https://serb.gov.in/page/tetra",
+      "discovery_source_url": "https://serb.gov.in/",
+      "verification_status": "pending_review"
+    }
+  ],
+  "verification_status": "pending_review"
+}

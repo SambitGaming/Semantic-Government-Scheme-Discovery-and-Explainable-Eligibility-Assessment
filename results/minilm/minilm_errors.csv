@@ -1,0 +1,1003 @@
+query_id,query,rank,scheme_id,relevance,similarity_score,observation
+Q001,Scholarships for undergraduate students,1,C002,0,0.5181518793106079,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,2,C022,0,0.4979664087295532,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,3,C040,0,0.496472030878067,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,4,C003,0,0.48938727378845215,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,5,C029,0,0.4832514822483063,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,6,C039,0,0.4801938533782959,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,7,C037,0,0.47757482528686523,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,8,C001,2,0.4720030128955841,Relevant result ranked below position 5
+Q001,Scholarships for undergraduate students,9,C028,0,0.468891441822052,Potentially irrelevant result; verify judgment
+Q001,Scholarships for undergraduate students,10,C013,0,0.46850141882896423,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,2,C037,0,0.7165848016738892,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,3,C040,0,0.6859188079833984,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,5,C039,0,0.6668968796730042,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,6,C050,0,0.6431214809417725,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,7,C002,0,0.626072108745575,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,8,C006,0,0.6218194365501404,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,9,C044,0,0.6061313152313232,Potentially irrelevant result; verify judgment
+Q002,Post-matric scholarship for SC students,10,C043,0,0.6046426296234131,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,2,C037,0,0.7244529128074646,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,3,C039,0,0.7098512053489685,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,4,C051,0,0.6571071147918701,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,5,C036,0,0.6520891189575195,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,6,C043,0,0.6514495611190796,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,7,C050,0,0.6260321736335754,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,8,C022,0,0.6217039227485657,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,9,C002,0,0.5958489179611206,Potentially irrelevant result; verify judgment
+Q003,Pre-matric scholarship for ST students,10,C006,0,0.5935105085372925,Potentially irrelevant result; verify judgment
+Q004,PM-YASASVI scholarship for OBC students,5,C002,0,0.5644055008888245,Potentially irrelevant result; verify judgment
+Q004,PM-YASASVI scholarship for OBC students,6,C030,0,0.5568432807922363,Potentially irrelevant result; verify judgment
+Q004,PM-YASASVI scholarship for OBC students,7,C015,0,0.5534404516220093,Potentially irrelevant result; verify judgment
+Q004,PM-YASASVI scholarship for OBC students,8,C001,0,0.545114278793335,Potentially irrelevant result; verify judgment
+Q004,PM-YASASVI scholarship for OBC students,9,C023,0,0.5407359600067139,Potentially irrelevant result; verify judgment
+Q004,PM-YASASVI scholarship for OBC students,10,C043,0,0.5400279760360718,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,2,C002,0,0.580764889717102,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,3,C040,0,0.5702555179595947,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,4,C022,0,0.5608518123626709,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,5,C035,0,0.5435113906860352,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,6,C004,0,0.5414472222328186,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,7,C003,0,0.5401508808135986,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,8,C039,0,0.539806604385376,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,9,C028,0,0.5364959239959717,Potentially irrelevant result; verify judgment
+Q005,National Overseas Scholarship for Scheduled Tribe students,10,C043,0,0.5158136487007141,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,3,C026,0,0.6429501175880432,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,4,C022,0,0.6245529651641846,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,5,C001,0,0.6032260060310364,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,6,C002,0,0.603217363357544,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,7,C006,0,0.5981889963150024,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,8,C019,0,0.5871263146400452,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,9,C037,0,0.5800596475601196,Potentially irrelevant result; verify judgment
+Q006,Scholarship scheme for girl students in technical diploma courses,10,C024,0,0.5763341188430786,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,3,C024,0,0.6547057628631592,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,4,C001,0,0.6439292430877686,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,5,C028,0,0.6253547668457031,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,6,C043,0,0.6228197813034058,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,7,C002,0,0.6197417378425598,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,8,C037,0,0.6186956167221069,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,9,C022,0,0.6045064926147461,Potentially irrelevant result; verify judgment
+Q007,AICTE Saksham Scholarship for specially-abled students,10,C025,0,0.5990166068077087,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,2,C047,0,0.6813682913780212,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,3,C026,0,0.585456132888794,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,4,C002,0,0.5787286758422852,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,5,C019,0,0.5712620615959167,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,6,C033,0,0.5708342790603638,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,7,C030,0,0.5685351490974426,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,8,C023,0,0.5590996146202087,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,9,C012,0,0.5581260919570923,Potentially irrelevant result; verify judgment
+Q008,National Means-cum-Merit Scholarship Scheme details,10,C007,0,0.5524680018424988,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,2,C017,0,0.6067829132080078,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,3,C016,0,0.5942365527153015,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,4,C027,0,0.5486501455307007,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,5,C030,0,0.5459499359130859,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,6,C045,0,0.5428867936134338,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,7,C014,0,0.5415590405464172,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,8,C002,0,0.5371437072753906,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,9,C020,0,0.526199460029602,Potentially irrelevant result; verify judgment
+Q009,Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship eligibility,10,C022,0,0.5184464454650879,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),2,C023,0,0.49798518419265747,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),3,C002,0,0.4831736087799072,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),4,C004,0,0.4756620228290558,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),5,C037,0,0.4549698233604431,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),6,C040,0,0.45010191202163696,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),7,C026,0,0.4494699239730835,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),8,C043,0,0.4365761876106262,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),9,C020,0,0.43552666902542114,Potentially irrelevant result; verify judgment
+Q010,INSPIRE Scholarship for Higher Education (SHE),10,C022,0,0.4346308410167694,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,2,C035,0,0.6476845741271973,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,3,C028,0,0.5609496831893921,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,4,C022,0,0.5553652048110962,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,5,C027,0,0.551583468914032,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,6,C018,0,0.5319865942001343,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,7,C036,0,0.5015206933021545,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,8,C045,0,0.49672314524650574,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,9,C007,0,0.4618545472621918,Potentially irrelevant result; verify judgment
+Q011,Rajiv Gandhi National Fellowship for Scheduled Caste candidates,10,C049,0,0.45687827467918396,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,2,C043,0,0.5981118679046631,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,3,C013,0,0.5579282641410828,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,4,C030,0,0.5538482666015625,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,5,C044,0,0.5513193607330322,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,6,C027,0,0.5309995412826538,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,7,C017,0,0.524122953414917,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,8,C029,0,0.517196536064148,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,9,C016,0,0.5060076117515564,Potentially irrelevant result; verify judgment
+Q012,National Fellowship for Students with Disabilities,10,C018,0,0.4683550000190735,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,1,C034,0,0.8073883652687073,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,3,C032,0,0.6210929155349731,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,4,C006,0,0.47530192136764526,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,5,C002,0,0.45782190561294556,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,6,C030,0,0.45645034313201904,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,7,C040,0,0.44509994983673096,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,8,C028,0,0.4449416995048523,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,9,C022,0,0.4284108877182007,Potentially irrelevant result; verify judgment
+Q013,Prime Minister's Scholarship Scheme for Central Armed Police Forces wards,10,C012,0,0.4253557324409485,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,2,C050,0,0.7477596402168274,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,3,C051,0,0.7046433687210083,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,4,C007,0,0.632358968257904,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,5,C042,0,0.6127731800079346,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,6,C046,0,0.6042255163192749,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,7,C036,0,0.5834603309631348,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,8,C039,0,0.574637770652771,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,9,C049,0,0.5741544365882874,Potentially irrelevant result; verify judgment
+Q014,Karnataka Merit-Cum-Means Scholarship for minorities,10,C038,0,0.5586874485015869,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,2,C049,0,0.5625289678573608,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,3,C026,0,0.4997420310974121,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,4,C040,0,0.48474639654159546,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,5,C037,0,0.47514575719833374,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,6,C028,0,0.4732687473297119,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,7,C002,0,0.46864908933639526,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,8,C005,0,0.46521541476249695,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,9,C004,0,0.45796114206314087,Potentially irrelevant result; verify judgment
+Q015,Vidyasiri Food and Accommodation Scholarship Scheme,10,C023,0,0.4505152404308319,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,2,C041,0,0.45705199241638184,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,3,C004,0,0.4100852310657501,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,4,C025,0,0.38720542192459106,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,5,C026,0,0.38254398107528687,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,6,C028,0,0.3764054775238037,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,7,C012,0,0.3744828402996063,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,8,C001,0,0.3721258342266083,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,9,C007,0,0.37100061774253845,Potentially irrelevant result; verify judgment
+Q016,Chief Minister Raitha Vidya Nidhi Scheme for farmers' children,10,C011,0,0.3696156442165375,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,2,C001,0,0.709247350692749,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,3,C004,0,0.6671414375305176,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,4,C036,0,0.6525761485099792,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,5,C042,0,0.6518175601959229,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,6,C050,0,0.6512265801429749,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,7,C028,0,0.6500384211540222,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,8,C025,0,0.6376379728317261,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,9,C039,0,0.6345082521438599,Potentially irrelevant result; verify judgment
+Q017,Prabuddha Overseas Scholarship Scheme for Karnataka students,10,C046,0,0.6161535978317261,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,2,C038,0,0.5661638975143433,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,3,C001,0,0.5605078935623169,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,4,C008,0,0.5560724139213562,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,5,C028,0,0.5416483879089355,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,6,C044,0,0.5342933535575867,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,7,C004,0,0.5293511152267456,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,8,C002,0,0.5270994901657104,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,9,C043,0,0.5187273621559143,Potentially irrelevant result; verify judgment
+Q018,D. Devaraj Urs Prathibha Puraskara scholarship,10,C022,0,0.5171758532524109,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,2,C018,0,0.6179695129394531,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,3,C027,0,0.5732590556144714,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,4,C020,0,0.5580605864524841,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,5,C035,0,0.5539114475250244,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,6,C042,0,0.5254008769989014,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,7,C030,0,0.5048712491989136,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,8,C016,0,0.4941420555114746,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,9,C022,0,0.4908461570739746,Potentially irrelevant result; verify judgment
+Q019,Karnataka DST-PhD Fellowship for science and engineering scholars,10,C019,0,0.48515307903289795,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,2,C034,0,0.48654621839523315,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,3,C049,0,0.4127683639526367,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,4,C048,0,0.4056297242641449,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,5,C013,0,0.4043123722076416,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,6,C039,0,0.3833564519882202,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,7,C044,0,0.3818853795528412,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,8,C029,0,0.38046762347221375,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,9,C037,0,0.37558895349502563,Potentially irrelevant result; verify judgment
+Q020,Financial assistance for wards of Beedi and Cine workers,10,C036,0,0.3717796802520752,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,2,C023,0,0.6042237877845764,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,3,C002,0,0.6033626198768616,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,4,C005,0,0.6022400856018066,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,5,C015,0,0.6012094616889954,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,6,C022,0,0.5844635963439941,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,7,C026,0,0.5737861394882202,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,8,C003,0,0.5737209916114807,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,9,C004,0,0.5656872987747192,Potentially irrelevant result; verify judgment
+Q021,Post Graduate Scholarship for GATE/GPAT qualified students AICTE,10,C001,0,0.5502711534500122,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,2,C001,0,0.604769229888916,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,3,C043,0,0.5869040489196777,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,4,C029,0,0.5727993845939636,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,5,C002,0,0.5691059827804565,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,6,C028,0,0.5688743591308594,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,7,C026,0,0.5652002692222595,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,8,C044,0,0.5596234798431396,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,9,C012,0,0.5546151399612427,Potentially irrelevant result; verify judgment
+Q022,Ishan Uday Special Scholarship Scheme for North Eastern Region,10,C025,0,0.5520275831222534,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,1,C006,0,0.6192851066589355,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,3,C002,0,0.5835070013999939,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,4,C023,0,0.5811753273010254,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,5,C040,0,0.5781645774841309,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,6,C032,0,0.5775593519210815,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,7,C022,0,0.5728868246078491,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,8,C030,0,0.5685184001922607,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,9,C034,0,0.5665565729141235,Potentially irrelevant result; verify judgment
+Q023,PM-USP Central Sector Scheme of Scholarship for college students,10,C047,0,0.5614215731620789,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,3,C027,0,0.6007306575775146,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,4,C014,0,0.5800096392631531,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,5,C020,0,0.5256637334823608,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,6,C018,0,0.4951556622982025,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,7,C003,0,0.47823840379714966,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,8,C021,0,0.4593193233013153,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,9,C015,0,0.45589423179626465,Potentially irrelevant result; verify judgment
+Q024,National Fellowship for OBC students pursuing PhD,10,C035,0,0.445867121219635,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,2,C028,0,0.6569842100143433,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,3,C001,0,0.6497867107391357,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,4,C004,0,0.6407303810119629,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,5,C026,0,0.6363112926483154,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,6,C022,0,0.611711859703064,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,7,C050,0,0.608913779258728,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,8,C036,0,0.6047253608703613,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,9,C002,0,0.6045289039611816,Potentially irrelevant result; verify judgment
+Q025,Scholarship scheme for Jammu and Kashmir and Ladakh students,10,C012,0,0.6009213328361511,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,2,C041,0,0.5193099975585938,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,3,C046,0,0.5117185115814209,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,4,C042,0,0.4961373209953308,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,5,C038,0,0.4897365868091583,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,6,C049,0,0.4895668625831604,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,7,C031,0,0.48927444219589233,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,8,C036,0,0.48888587951660156,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,9,C050,0,0.47203773260116577,Potentially irrelevant result; verify judgment
+Q026,Karnataka Building and Other Construction Workers Welfare Board educational assistance,10,C047,0,0.4529252052307129,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,1,C013,0,0.3830606937408447,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,2,C023,0,0.3655482530593872,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,3,C029,0,0.36242949962615967,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,4,C043,0,0.3615717887878418,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,5,C037,0,0.35866600275039673,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,6,C019,0,0.35305672883987427,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,7,C006,0,0.3481046259403229,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,8,C002,0,0.34180885553359985,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,9,C003,0,0.3370817303657532,Potentially irrelevant result; verify judgment
+Q027,I'm studying engineering and need some financial help for college,10,C001,2,0.33450257778167725,Relevant result ranked below position 5
+Q028,hey any scholarships for a poor family kid going to college?,1,C043,0,0.5220023393630981,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,2,C013,0,0.5151509642601013,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,3,C040,0,0.4921764135360718,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,4,C037,0,0.4893325865268707,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,5,C029,0,0.4794277548789978,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,6,C028,0,0.47607311606407166,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,7,C023,0,0.4556090831756592,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,8,C003,0,0.45142361521720886,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,9,C002,0,0.44730937480926514,Potentially irrelevant result; verify judgment
+Q028,hey any scholarships for a poor family kid going to college?,10,C044,0,0.4425424337387085,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",3,C026,0,0.4526708126068115,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",4,C029,0,0.42748814821243286,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",5,C037,0,0.40658217668533325,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",6,C012,0,0.4009758234024048,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",7,C011,0,0.3970409631729126,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",8,C005,0,0.39181217551231384,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",9,C040,0,0.3824017345905304,Potentially irrelevant result; verify judgment
+Q029,"my daughter is doing a diploma, is there any money scheme for girls like her",10,C010,0,0.3815010190010071,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",1,C019,0,0.34522145986557007,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",2,C029,0,0.32831329107284546,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",3,C003,0,0.31096071004867554,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",4,C044,0,0.3105534017086029,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",5,C013,0,0.30908524990081787,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",6,C039,0,0.30549392104148865,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",7,C015,0,0.30032777786254883,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",8,C043,0,0.2971512973308563,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",9,C002,0,0.28878405690193176,Potentially irrelevant result; verify judgment
+Q030,"looking for something to help pay fees, I'm doing my PhD in physics",10,C027,0,0.2865179479122162,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,1,C022,0,0.6410126090049744,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,3,C006,0,0.6220740079879761,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,4,C028,0,0.5980037450790405,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,6,C002,0,0.5810950994491577,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,7,C026,0,0.5735945701599121,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,8,C008,0,0.5578112006187439,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,9,C019,0,0.5557586550712585,Potentially irrelevant result; verify judgment
+Q031,bro any scholarship for SC students after 10th?,10,C005,0,0.5548473000526428,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",2,C048,0,0.34660935401916504,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",3,C029,0,0.3305447995662689,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",4,C013,0,0.29745519161224365,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",5,C036,0,0.29159456491470337,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",6,C011,0,0.28830206394195557,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",7,C004,0,0.26914912462234497,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",8,C043,0,0.2632523477077484,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",9,C010,0,0.2542835772037506,Potentially irrelevant result; verify judgment
+Q032,"i work in a beedi factory, can my kids get any help for school fees",10,C044,0,0.2533072531223297,Potentially irrelevant result; verify judgment
+Q033,"just finished 12th, from a minority community, need money for college",3,C037,0,0.414996862411499,Potentially irrelevant result; verify judgment
+Q033,"just finished 12th, from a minority community, need money for college",4,C003,0,0.40214279294013977,Potentially irrelevant result; verify judgment
+Q033,"just finished 12th, from a minority community, need money for college",5,C040,0,0.39788275957107544,Potentially irrelevant result; verify judgment
+Q033,"just finished 12th, from a minority community, need money for college",6,C007,1,0.3949216604232788,Relevant result ranked below position 5
+Q033,"just finished 12th, from a minority community, need money for college",7,C047,0,0.3942604064941406,Potentially irrelevant result; verify judgment
+Q033,"just finished 12th, from a minority community, need money for college",8,C006,0,0.3938530683517456,Potentially irrelevant result; verify judgment
+Q033,"just finished 12th, from a minority community, need money for college",9,C039,0,0.38070687651634216,Potentially irrelevant result; verify judgment
+Q033,"just finished 12th, from a minority community, need money for college",10,C001,0,0.38043415546417236,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,1,C043,0,0.5812457799911499,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,2,C044,0,0.5571727156639099,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,4,C014,0,0.5327353477478027,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,5,C029,0,0.5294737815856934,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,6,C005,0,0.4960513710975647,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,7,C015,2,0.46236652135849,Relevant result ranked below position 5
+Q034,is there anything for disabled students who want to study abroad,8,C028,0,0.46192967891693115,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,9,C026,0,0.41132014989852905,Potentially irrelevant result; verify judgment
+Q034,is there anything for disabled students who want to study abroad,10,C002,0,0.40343090891838074,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",1,C032,0,0.4916416108608246,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",3,C013,0,0.46504566073417664,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",5,C003,0,0.4337838292121887,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",6,C043,0,0.42974966764450073,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",7,C029,0,0.42080456018447876,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",8,C037,0,0.42060238122940063,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",9,C040,0,0.4143255352973938,Potentially irrelevant result; verify judgment
+Q035,"my son's dad was in CRPF, are there any scholarships for us",10,C028,0,0.40621644258499146,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",2,C001,0,0.48770999908447266,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",3,C028,0,0.4854397773742676,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",4,C015,0,0.47943568229675293,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",5,C036,0,0.46858933568000793,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",6,C035,0,0.4627777636051178,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",7,C039,0,0.4616619348526001,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",8,C038,0,0.4612862169742584,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",9,C010,0,0.45623138546943665,Potentially irrelevant result; verify judgment
+Q036,"i stay in bangalore and my parents are farmers, any scheme for my fees",10,C012,0,0.4514741003513336,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,1,C012,0,0.6037841439247131,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,2,C028,0,0.5984063744544983,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,3,C010,0,0.5855856537818909,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,4,C040,0,0.5763760209083557,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,6,C043,0,0.5715891718864441,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,7,C037,0,0.569048285484314,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,8,C029,0,0.5681620836257935,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,9,C011,0,0.5590990781784058,Potentially irrelevant result; verify judgment
+Q037,can obc students get scholarship money for hostel and fees after 10th,10,C042,1,0.5569252967834473,Relevant result ranked below position 5
+Q038,"i want to do research after my PhD, is there any fellowship for that",2,C020,0,0.5228365659713745,Potentially irrelevant result; verify judgment
+Q038,"i want to do research after my PhD, is there any fellowship for that",3,C030,0,0.5075967907905579,Potentially irrelevant result; verify judgment
+Q038,"i want to do research after my PhD, is there any fellowship for that",4,C035,0,0.49942123889923096,Potentially irrelevant result; verify judgment
+Q038,"i want to do research after my PhD, is there any fellowship for that",5,C014,0,0.4971378445625305,Potentially irrelevant result; verify judgment
+Q038,"i want to do research after my PhD, is there any fellowship for that",6,C021,0,0.47602301836013794,Potentially irrelevant result; verify judgment
+Q038,"i want to do research after my PhD, is there any fellowship for that",7,C018,2,0.4513204097747803,Relevant result ranked below position 5
+Q038,"i want to do research after my PhD, is there any fellowship for that",8,C016,0,0.43588730692863464,Potentially irrelevant result; verify judgment
+Q038,"i want to do research after my PhD, is there any fellowship for that",9,C045,0,0.40481632947921753,Potentially irrelevant result; verify judgment
+Q038,"i want to do research after my PhD, is there any fellowship for that",10,C019,0,0.40080153942108154,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",2,C002,0,0.46761229634284973,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",3,C013,0,0.46039652824401855,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",4,C043,0,0.45964479446411133,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",5,C015,0,0.44508489966392517,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",6,C017,0,0.4363354444503784,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",7,C040,0,0.43460994958877563,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",8,C004,0,0.4292261004447937,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",9,C019,0,0.4283939003944397,Potentially irrelevant result; verify judgment
+Q039,"we're from the northeast, is there any special scholarship for us in college",10,C029,0,0.42786455154418945,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",1,C029,0,0.3783152103424072,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",2,C004,0,0.364240437746048,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",3,C031,0,0.3569325804710388,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",5,C013,0,0.34253621101379395,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",6,C010,0,0.3258707821369171,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",7,C012,0,0.32046204805374146,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",8,C015,0,0.31909608840942383,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",9,C043,0,0.31205955147743225,Potentially irrelevant result; verify judgment
+Q040,"any help for girls doing btech, my income is really low",10,C001,0,0.30706825852394104,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",1,C003,0,0.551859974861145,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",2,C012,0,0.5365015864372253,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",3,C043,0,0.5248256921768188,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",4,C013,0,0.51985764503479,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",5,C029,0,0.4935825765132904,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",6,C005,0,0.4890132546424866,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",7,C044,0,0.4884931445121765,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",8,C010,2,0.48267072439193726,Relevant result ranked below position 5
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",9,C006,0,0.47897031903266907,Potentially irrelevant result; verify judgment
+Q041,"i got into IIT but can't afford it, what scholarships can help since I'm OBC",10,C042,0,0.47204357385635376,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,1,C051,0,0.42490142583847046,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,3,C035,0,0.4044116139411926,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,4,C036,0,0.39879870414733887,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,5,C008,0,0.39041972160339355,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,6,C028,0,0.3810027837753296,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,7,C012,0,0.3798317313194275,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,8,C037,0,0.3765712380409241,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,9,C011,0,0.36952900886535645,Potentially irrelevant result; verify judgment
+Q042,is there some scheme for scheduled tribe kids going to school in 9th standard,10,C043,0,0.3683260679244995,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",2,C003,0,0.444338858127594,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",3,C002,0,0.44025352597236633,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",4,C015,0,0.44012123346328735,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",5,C033,0,0.41941526532173157,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",6,C006,0,0.41561150550842285,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",7,C008,0,0.41164886951446533,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",8,C032,0,0.41042906045913696,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",9,C001,0,0.40925049781799316,Potentially irrelevant result; verify judgment
+Q043,"my dad works in the mines, is there any scholarship scheme for us",10,C040,0,0.4091964662075043,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",2,C022,0,0.5202888250350952,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",3,C029,0,0.514255940914154,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",4,C028,0,0.5140583515167236,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",5,C003,0,0.5060009956359863,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",6,C013,0,0.5033404231071472,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",7,C006,0,0.5001543760299683,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",8,C002,0,0.49866124987602234,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",9,C015,0,0.4942677617073059,Potentially irrelevant result; verify judgment
+Q044,"looking for scholarship money to study science after 12th, i study hard",10,C001,1,0.49242109060287476,Relevant result ranked below position 5
+Q045,any postdoc fellowship going right now for unemployed PhD holders,1,C027,0,0.5071081519126892,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,3,C014,0,0.4539632201194763,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,4,C030,0,0.4535132050514221,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,5,C021,0,0.4486197829246521,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,6,C017,0,0.4126022756099701,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,7,C020,0,0.40877747535705566,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,8,C016,0,0.37726157903671265,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,9,C045,0,0.33574172854423523,Potentially irrelevant result; verify judgment
+Q045,any postdoc fellowship going right now for unemployed PhD holders,10,C034,0,0.3245677947998047,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",2,C036,0,0.5616303086280823,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",3,C037,0,0.5518719553947449,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",4,C028,0,0.5471876859664917,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",5,C012,0,0.5237681269645691,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",6,C022,0,0.520723819732666,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",7,C010,0,0.5162379741668701,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",8,C035,0,0.5004843473434448,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",9,C001,0,0.49944770336151123,Potentially irrelevant result; verify judgment
+Q046,"i live in Dadra and Nagar Haveli, is there anything for SC students here",10,C026,0,0.48946017026901245,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,1,C013,0,0.4822919964790344,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,2,C043,0,0.44727593660354614,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,3,C029,0,0.44282034039497375,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,4,C019,0,0.42795127630233765,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,5,C002,0,0.4271315336227417,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,6,C015,0,0.4158492684364319,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,7,C003,0,0.40959087014198303,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,8,C028,0,0.405437707901001,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,9,C040,0,0.4051293730735779,Potentially irrelevant result; verify judgment
+Q047,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?,10,C037,0,0.4046701192855835,Potentially irrelevant result; verify judgment
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,2,C022,0,0.7079743146896362,Potentially irrelevant result; verify judgment
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,4,C036,0,0.6897730827331543,Potentially irrelevant result; verify judgment
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,6,C043,0,0.6813005208969116,Potentially irrelevant result; verify judgment
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,7,C029,0,0.6585187911987305,Potentially irrelevant result; verify judgment
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,8,C013,0,0.6577543616294861,Potentially irrelevant result; verify judgment
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,9,C001,0,0.6546316146850586,Potentially irrelevant result; verify judgment
+Q048,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh,10,C039,0,0.6518232226371765,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,3,C043,0,0.5107487440109253,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,4,C014,0,0.4985954761505127,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,5,C022,0,0.49644652009010315,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,6,C044,0,0.4939332902431488,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,7,C003,0,0.49279850721359253,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,8,C002,0,0.4893820285797119,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,9,C015,0,0.4697338044643402,Potentially irrelevant result; verify judgment
+Q049,Which scholarships are available for OBC students pursuing M.Phil or PhD with no other stipend?,10,C013,0,0.46182364225387573,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",1,C012,0,0.6567715406417847,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",2,C013,0,0.651146650314331,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",3,C023,0,0.651067316532135,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",4,C026,0,0.6362071633338928,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",6,C010,0,0.6227771043777466,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",7,C001,0,0.6209784746170044,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",8,C029,0,0.6114498376846313,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",9,C044,0,0.6067053079605103,Potentially irrelevant result; verify judgment
+Q050,"Financial aid for a girl student in second year diploma through lateral entry, family income under Rs 8 lakh",10,C028,0,0.6042585372924805,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,2,C039,0,0.7688536643981934,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,3,C050,0,0.7637201547622681,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,4,C022,0,0.7377842664718628,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,5,C042,0,0.7341457605361938,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,6,C037,0,0.7162591218948364,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,7,C028,0,0.6925817131996155,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,8,C002,0,0.6626805067062378,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,9,C038,0,0.6599962115287781,Potentially irrelevant result; verify judgment
+Q051,Scholarships for Karnataka-domiciled SC students who want to study post-matric courses,10,C051,0,0.6503013968467712,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",1,C043,0,0.7252833843231201,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",2,C013,0,0.720016360282898,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",3,C044,0,0.7078921794891357,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",4,C029,0,0.6552174091339111,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",6,C028,0,0.6047760248184204,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",7,C006,0,0.595512866973877,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",8,C014,0,0.5683102607727051,Potentially irrelevant result; verify judgment
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",9,C026,1,0.5624563694000244,Relevant result ranked below position 5
+Q052,"I am a specially-abled student with 40% disability admitted to a degree course, what scholarship applies",10,C003,0,0.5618968605995178,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,2,C016,0,0.4411207437515259,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,3,C021,0,0.42509889602661133,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,4,C030,0,0.42412132024765015,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,6,C014,0,0.4088314175605774,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,7,C020,0,0.4052853286266327,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,8,C035,0,0.38946396112442017,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,9,C045,0,0.3584064245223999,Potentially irrelevant result; verify judgment
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,10,C015,0,0.34450769424438477,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,2,C028,0,0.6712207794189453,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,3,C022,0,0.6704066395759583,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,4,C039,0,0.6647058725357056,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,5,C001,0,0.6610074043273926,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,6,C040,0,0.6589257717132568,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,7,C036,0,0.6516473889350891,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,8,C044,0,0.6375452876091003,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,9,C015,0,0.6371518969535828,Potentially irrelevant result; verify judgment
+Q054,Scholarship for ST student pursuing PhD in a Scheduled Area of Rajasthan,10,C002,0,0.6356216073036194,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,2,C050,0,0.6554980874061584,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,3,C051,0,0.6384357810020447,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,4,C001,0,0.5942596793174744,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,5,C012,0,0.5870681405067444,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,6,C026,0,0.5690569877624512,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,7,C037,0,0.5684395432472229,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,8,C042,0,0.5621156692504883,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,9,C025,0,0.557640790939331,Potentially irrelevant result; verify judgment
+Q055,Scheme for minority community student from Haryana studying a professional course with 50% marks,10,C047,0,0.5575078725814819,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",1,C015,0,0.7316354513168335,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",2,C002,0,0.7205382585525513,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",4,C028,0,0.7058357000350952,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",5,C026,0,0.7021693587303162,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",6,C022,0,0.6855044364929199,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",7,C013,0,0.6846572756767273,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",8,C023,0,0.6731898784637451,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",9,C037,0,0.6726595759391785,Potentially irrelevant result; verify judgment
+Q056,"Scholarship for domicile of North Eastern Region admitted to first year technical degree, family income below Rs 4.5 lakh",10,C006,0,0.6685131788253784,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,2,C041,0,0.5729818344116211,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,3,C038,0,0.5631663799285889,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,4,C048,0,0.5410330891609192,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,5,C026,0,0.5059746503829956,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,6,C042,0,0.5035688877105713,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,7,C036,0,0.4965338408946991,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,8,C051,0,0.49450188875198364,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,9,C046,0,0.4847198724746704,Potentially irrelevant result; verify judgment
+Q057,Which scheme helps a Karnataka farmer's child currently studying in school,10,C050,0,0.48158523440361023,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,3,C002,0,0.5263607501983643,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,4,C012,0,0.4908994734287262,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,5,C015,0,0.4881221354007721,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,6,C003,0,0.4871983528137207,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,7,C006,0,0.48555755615234375,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,8,C022,0,0.4847841262817383,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,9,C013,0,0.4844076931476593,Potentially irrelevant result; verify judgment
+Q058,Scholarship for son of a Central Armed Police Force jawan below officer rank,10,C043,0,0.4779812693595886,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,2,C002,0,0.5936192274093628,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,3,C022,0,0.557848334312439,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,4,C003,0,0.5367150902748108,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,5,C023,0,0.5254150629043579,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,6,C004,0,0.5153611898422241,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,7,C040,0,0.5131931304931641,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,8,C001,0,0.5131672620773315,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,9,C028,0,0.511622428894043,Potentially irrelevant result; verify judgment
+Q059,Overseas scholarship for a Scheduled Tribe student wanting to pursue a Master's degree abroad,10,C039,0,0.5007976293563843,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,1,C027,0,0.46499019861221313,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,2,C021,0,0.408544659614563,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,3,C030,0,0.3940654993057251,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,4,C020,0,0.37321674823760986,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,5,C002,0,0.37156417965888977,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,6,C018,2,0.3684998154640198,Relevant result ranked below position 5
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,7,C019,0,0.36547422409057617,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,8,C035,0,0.35609015822410583,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,9,C022,0,0.34928813576698303,Potentially irrelevant result; verify judgment
+Q060,Scheme for unemployed PhD holder from a science background wanting post-doctoral research funding,10,C015,0,0.3479953706264496,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,1,C012,0,0.5489919185638428,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,2,C003,0,0.5220305919647217,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,3,C006,0,0.5134924054145813,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,4,C047,0,0.5046992897987366,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,5,C005,0,0.49257707595825195,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,6,C026,0,0.4922996759414673,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,7,C019,0,0.48974528908729553,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,8,C001,0,0.47835633158683777,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,9,C037,0,0.4665793776512146,Potentially irrelevant result; verify judgment
+Q061,Scholarship for EBC or DNT student admitted to a notified Top Class institution like an IIT or IIM,10,C011,0,0.4649694263935089,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,1,C042,0,0.7196574211120605,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,2,C036,0,0.6908212900161743,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,4,C050,0,0.6551195979118347,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,5,C039,0,0.653356671333313,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,6,C037,0,0.6385924816131592,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,7,C028,0,0.600176215171814,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,8,C051,0,0.5937639474868774,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,9,C038,0,0.5932196974754333,Potentially irrelevant result; verify judgment
+Q062,Financial support for backward class students in Karnataka needing food and accommodation during post-matric studies,10,C012,0,0.5900981426239014,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,2,C008,0,0.66059410572052,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,3,C044,0,0.6605531573295593,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,4,C028,0,0.6221679449081421,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,5,C012,0,0.6047632694244385,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,6,C029,0,0.5986704230308533,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,7,C013,1,0.5901301503181458,Relevant result ranked below position 5
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,8,C026,0,0.5579909086227417,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,9,C005,0,0.5508319139480591,Potentially irrelevant result; verify judgment
+Q063,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu,10,C001,0,0.5473434329032898,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,1,C019,0,0.6661152243614197,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,2,C021,0,0.646826982498169,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,4,C030,0,0.6149718761444092,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,5,C014,0,0.5730616450309753,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,6,C027,0,0.5033697485923767,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,7,C017,0,0.49927788972854614,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,8,C040,0,0.4813976287841797,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,9,C003,0,0.46507593989372253,Potentially irrelevant result; verify judgment
+Q064,Scholarship for a doctoral student in basic sciences under the INSPIRE fellowship program,10,C002,0,0.4620004892349243,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,1,C006,0,0.5887278914451599,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,2,C043,0,0.559374213218689,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,3,C037,0,0.5441772937774658,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,4,C051,0,0.5364260077476501,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,6,C023,0,0.5215969681739807,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,7,C040,0,0.518657922744751,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,8,C028,0,0.5070919990539551,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,9,C050,0,0.5067726969718933,Potentially irrelevant result; verify judgment
+Q065,Which scholarship suits a meritorious Class 12 student in the 80th percentile from a poor family entering a regular degree course,10,C008,0,0.5003480911254883,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,1,C023,0,0.5492644906044006,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,2,C034,0,0.5310922265052795,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,3,C004,0,0.5203730463981628,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,5,C037,0,0.4898083806037903,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,6,C039,0,0.4889129102230072,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,7,C043,0,0.48439258337020874,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,8,C033,0,0.48058921098709106,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,9,C040,0,0.4782649874687195,Potentially irrelevant result; verify judgment
+Q066,Scholarship for a widow of a Railway Protection Force personnel with a dependent child in college,10,C002,0,0.4677044749259949,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,1,C013,0,0.43559181690216064,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,2,C029,0,0.4180759787559509,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,3,C036,0,0.408988893032074,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,4,C026,0,0.4085260331630707,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,5,C044,0,0.3943434953689575,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,6,C005,0,0.39136070013046265,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,7,C039,0,0.3860396146774292,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,8,C028,0,0.38029319047927856,Potentially irrelevant result; verify judgment
+Q067,I need help paying for my education,9,C002,1,0.3799319565296173,Relevant result ranked below position 5
+Q067,I need help paying for my education,10,C043,0,0.3776291608810425,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,1,C002,0,0.5280289649963379,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,2,C043,0,0.5217779874801636,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,3,C040,0,0.5201117396354675,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,4,C013,0,0.5168590545654297,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,5,C028,0,0.5110867023468018,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,6,C029,0,0.5107669830322266,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,7,C022,0,0.5067006349563599,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,8,C037,0,0.4888197183609009,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,9,C003,0,0.4872523844242096,Potentially irrelevant result; verify judgment
+Q068,Any scholarships for students?,10,C039,0,0.4815882742404938,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,2,C013,0,0.5633097290992737,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,4,C043,0,0.5351192355155945,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,5,C029,0,0.5334520936012268,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,6,C044,0,0.5242208242416382,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,7,C012,0,0.5197384357452393,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,8,C015,0,0.4953934848308563,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,9,C037,0,0.4929659962654114,Potentially irrelevant result; verify judgment
+Q069,I want financial help for higher studies,10,C026,0,0.4887492060661316,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,1,C002,0,0.5304793119430542,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,2,C013,0,0.5197535157203674,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,3,C040,0,0.518905758857727,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,4,C022,0,0.5081013441085815,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,5,C043,0,0.5078945159912109,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,6,C003,0,0.4967520833015442,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,7,C023,0,0.4955797791481018,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,8,C019,0,0.47972196340560913,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,9,C029,0,0.47961193323135376,Potentially irrelevant result; verify judgment
+Q070,Looking for a scholarship,10,C037,0,0.4781506061553955,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,1,C019,0,0.5837105512619019,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,2,C002,0,0.5665324926376343,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,3,C022,0,0.5303440093994141,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,4,C040,0,0.5257473587989807,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,5,C030,0,0.5032298564910889,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,6,C028,0,0.4992671012878418,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,7,C015,0,0.49273425340652466,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,8,C037,0,0.4873432517051697,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,9,C023,0,0.48572832345962524,Potentially irrelevant result; verify judgment
+Q071,Scholarship for research students,10,C050,0,0.48055991530418396,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,1,C036,0,0.36084216833114624,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,2,C043,0,0.3168724775314331,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,4,C029,0,0.2933896780014038,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,5,C044,0,0.2907785177230835,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,6,C039,0,0.28679242730140686,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,7,C012,0,0.2852850556373596,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,8,C048,0,0.2848977744579315,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,9,C051,0,0.2835184335708618,Potentially irrelevant result; verify judgment
+Q072,Is there support for school students?,10,C050,0,0.2761296033859253,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,1,C039,0,0.4221770763397217,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,2,C029,0,0.4167429804801941,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,3,C037,0,0.3995508551597595,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,4,C013,0,0.39689522981643677,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,5,C036,0,0.3940783441066742,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,6,C040,0,0.3919578194618225,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,7,C003,0,0.38570451736450195,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,8,C023,0,0.37282535433769226,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,9,C028,0,0.3659418225288391,Potentially irrelevant result; verify judgment
+Q073,Need money for college fees,10,C006,0,0.3655676245689392,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,3,C040,0,0.504730224609375,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,4,C022,0,0.48629432916641235,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,5,C037,0,0.48321279883384705,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,6,C028,0,0.4810681641101837,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,7,C047,0,0.48025864362716675,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,8,C002,0,0.4798017144203186,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,9,C043,0,0.4686139225959778,Potentially irrelevant result; verify judgment
+Q074,Scholarships for minority students,10,C003,0,0.4678301215171814,Potentially irrelevant result; verify judgment
+Q075,What scholarships exist for disabled students?,2,C013,0,0.6230850219726562,Potentially irrelevant result; verify judgment
+Q075,What scholarships exist for disabled students?,4,C029,0,0.5733859539031982,Potentially irrelevant result; verify judgment
+Q075,What scholarships exist for disabled students?,6,C028,0,0.5345901250839233,Potentially irrelevant result; verify judgment
+Q075,What scholarships exist for disabled students?,7,C005,0,0.5156732797622681,Potentially irrelevant result; verify judgment
+Q075,What scholarships exist for disabled students?,8,C003,0,0.49143362045288086,Potentially irrelevant result; verify judgment
+Q075,What scholarships exist for disabled students?,9,C040,0,0.4741334617137909,Potentially irrelevant result; verify judgment
+Q075,What scholarships exist for disabled students?,10,C022,0,0.4665427803993225,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,1,C043,0,0.4654901921749115,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,2,C037,0,0.4522969126701355,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,3,C036,0,0.41576021909713745,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,4,C029,0,0.4126480221748352,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,5,C013,0,0.4124177098274231,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,6,C040,0,0.4101637601852417,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,7,C051,0,0.40700626373291016,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,8,C028,0,0.4036485552787781,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,9,C012,0,0.3995547890663147,Potentially irrelevant result; verify judgment
+Q076,Support for students from poor families,10,C044,0,0.3989943265914917,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,3,C002,0,0.4936170279979706,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,4,C040,0,0.48389965295791626,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,5,C028,0,0.4722827672958374,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,6,C043,0,0.4714774191379547,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,7,C019,0,0.4690250754356384,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,8,C022,0,0.4686388671398163,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,9,C037,0,0.4582778513431549,Potentially irrelevant result; verify judgment
+Q077,Scholarships for girls,10,C029,0,0.45793694257736206,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,1,C042,0,0.4132002890110016,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,2,C030,0,0.3966216444969177,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,3,C051,0,0.39465954899787903,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,4,C037,0,0.39231765270233154,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,5,C011,0,0.3882710337638855,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,6,C012,0,0.38397717475891113,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,7,C046,0,0.37985044717788696,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,8,C041,0,0.37462663650512695,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,9,C025,0,0.3714010715484619,Potentially irrelevant result; verify judgment
+Q078,Scheme for reserved category students,10,C040,0,0.3647080659866333,Potentially irrelevant result; verify judgment
+Q079,Fellowship opportunities for PhD scholars,1,C030,0,0.5938127636909485,Potentially irrelevant result; verify judgment
+Q079,Fellowship opportunities for PhD scholars,2,C027,0,0.5919592380523682,Potentially irrelevant result; verify judgment
+Q079,Fellowship opportunities for PhD scholars,3,C014,0,0.5754695534706116,Potentially irrelevant result; verify judgment
+Q079,Fellowship opportunities for PhD scholars,4,C021,0,0.5581856966018677,Potentially irrelevant result; verify judgment
+Q079,Fellowship opportunities for PhD scholars,6,C017,1,0.47209256887435913,Relevant result ranked below position 5
+Q079,Fellowship opportunities for PhD scholars,7,C045,0,0.46847832202911377,Potentially irrelevant result; verify judgment
+Q079,Fellowship opportunities for PhD scholars,8,C016,1,0.4638689160346985,Relevant result ranked below position 5
+Q079,Fellowship opportunities for PhD scholars,9,C018,0,0.46153292059898376,Potentially irrelevant result; verify judgment
+Q079,Fellowship opportunities for PhD scholars,10,C035,0,0.4608049690723419,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,3,C013,0,0.3934730887413025,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,4,C043,0,0.3712322413921356,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,5,C034,0,0.3619103729724884,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,6,C029,0,0.34926968812942505,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,7,C012,0,0.33789050579071045,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,8,C011,0,0.3241278827190399,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,9,C044,0,0.3208649754524231,Potentially irrelevant result; verify judgment
+Q080,Financial assistance for workers' children,10,C010,0,0.3195531368255615,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,1,C050,0,0.7264858484268188,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,3,C042,0,0.6863385438919067,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,4,C038,0,0.679782509803772,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,5,C039,0,0.6687521934509277,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,6,C051,0,0.6568934321403503,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,7,C028,0,0.6566600799560547,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,8,C022,0,0.6463074684143066,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,9,C049,0,0.617626428604126,Potentially irrelevant result; verify judgment
+Q081,Scholarships in Karnataka,10,C047,0,0.6137915849685669,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,1,C050,0,0.6839320659637451,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,3,C039,0,0.6481302976608276,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,4,C042,0,0.6426584124565125,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,5,C028,0,0.62907874584198,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,6,C038,0,0.6266399025917053,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,7,C051,0,0.6022111177444458,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,8,C022,0,0.5984227657318115,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,9,C002,0,0.597876787185669,Potentially irrelevant result; verify judgment
+Q082,I'm from Karnataka and need support for college. What scholarships are available?,10,C037,0,0.5872578620910645,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,2,C050,0,0.3972364068031311,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,3,C013,0,0.3585813641548157,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,4,C028,0,0.35303640365600586,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,5,C043,0,0.35028886795043945,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,6,C035,0,0.35007092356681824,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,7,C019,0,0.3463231027126312,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,8,C051,0,0.341036856174469,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,9,C044,0,0.33820852637290955,Potentially irrelevant result; verify judgment
+Q083,I belong to a backward community and want help with my studies,10,C008,0,0.3373281955718994,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,2,C013,0,0.5809057354927063,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,4,C029,0,0.5693248510360718,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,5,C003,0,0.5632947683334351,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,6,C028,0,0.5528765916824341,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,7,C014,0,0.535860538482666,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,8,C040,0,0.5241620540618896,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,9,C037,0,0.5171436667442322,Potentially irrelevant result; verify judgment
+Q084,Scholarship for students with special needs,10,C005,0,0.5063604712486267,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",1,C039,0,0.4087008237838745,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",2,C043,0,0.39949339628219604,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",3,C012,0,0.39721447229385376,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",4,C013,0,0.3947460651397705,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",5,C037,0,0.3937319219112396,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",6,C036,0,0.37959200143814087,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",7,C042,0,0.37780725955963135,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",8,C044,0,0.3775063753128052,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",9,C005,0,0.36415180563926697,Potentially irrelevant result; verify judgment
+Q085,"I'm doing a professional course and need financial support, not sure what category I fall under",10,C001,0,0.3626217246055603,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,1,C043,0,0.5740137696266174,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,2,C002,0,0.5564395189285278,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,3,C047,0,0.5510070323944092,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,5,C050,0,0.5295324325561523,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,6,C028,0,0.5248973965644836,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,7,C051,0,0.5154508948326111,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,8,C019,0,0.5128238201141357,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,9,C037,0,0.5089043378829956,Potentially irrelevant result; verify judgment
+Q086,Is there a scholarship for merit students or is it only for poor students?,10,C029,0,0.5082619190216064,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",1,C048,0,0.1906694620847702,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",3,C031,0,0.1579817533493042,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",4,C027,0,0.12619440257549286,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",6,C017,0,0.12517152726650238,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",7,C015,0,0.10524044185876846,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",8,C035,0,0.09907309710979462,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",9,C049,0,0.09318092465400696,Potentially irrelevant result; verify judgment
+Q087,"My family works for the government, is there something for us?",10,C018,0,0.08968208730220795,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",1,C027,0,0.5793695449829102,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",3,C030,0,0.5557183623313904,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",4,C014,0,0.5446070432662964,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",5,C015,0,0.5203927755355835,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",6,C020,1,0.5108959674835205,Relevant result ranked below position 5
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",7,C016,0,0.5074706673622131,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",8,C035,0,0.47968852519989014,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",9,C019,0,0.47752460837364197,Potentially irrelevant result; verify judgment
+Q088,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which",10,C021,0,0.47692787647247314,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,1,C041,0,0.3750973343849182,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,3,C023,0,0.3741905689239502,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,4,C004,0,0.3497354984283447,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,5,C030,0,0.34604543447494507,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,6,C025,1,0.3452409505844116,Relevant result ranked below position 5
+Q089,Scheme for students in the northeast or hill states,7,C006,0,0.3447343111038208,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,8,C036,0,0.3360339403152466,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,9,C038,0,0.3358061611652374,Potentially irrelevant result; verify judgment
+Q089,Scheme for students in the northeast or hill states,10,C011,0,0.3310948610305786,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",2,C002,0,0.5750806331634521,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",3,C003,0,0.5218220353126526,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",4,C028,0,0.5209095478057861,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",5,C013,0,0.510771632194519,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",6,C029,0,0.5002363324165344,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",7,C022,0,0.48053351044654846,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",8,C005,0,0.4752066433429718,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",9,C026,0,0.47443172335624695,Potentially irrelevant result; verify judgment
+Q090,"I want to study abroad, are there any government scholarships for that",10,C043,0,0.47180163860321045,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",1,C051,0,0.44282281398773193,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",4,C046,0,0.36606600880622864,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",5,C007,0,0.3344014883041382,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",6,C041,0,0.3067699074745178,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",7,C034,0,0.30596455931663513,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",8,C043,0,0.30136966705322266,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",9,C047,0,0.30017542839050293,Potentially irrelevant result; verify judgment
+Q091,"Something for minorities or backward classes, I qualify for both maybe",10,C037,0,0.2993130683898926,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",1,C050,0,0.7453051209449768,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",2,C022,0,0.7438119649887085,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",5,C028,0,0.6910411715507507,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",6,C002,0,0.6881285905838013,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",7,C037,0,0.6761353015899658,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",8,C042,0,0.6703965663909912,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",9,C015,0,0.6620621085166931,Potentially irrelevant result; verify judgment
+Q092,"Scholarship for either SC or ST students in Karnataka, not sure which applies to me",10,C051,0,0.6613552570343018,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",1,C023,0,0.40500131249427795,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",3,C038,0,0.3419322669506073,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",4,C051,0,0.340823233127594,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",5,C041,0,0.3398769497871399,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",6,C026,0,0.33517587184906006,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",7,C030,0,0.3350444436073303,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",8,C004,0,0.33454033732414246,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",9,C040,0,0.3327900767326355,Potentially irrelevant result; verify judgment
+Q093,"Is this scheme for school students or college students, I'm not sure which stage I'm in",10,C036,1,0.3285263180732727,Relevant result ranked below position 5
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",3,C032,0,0.41706860065460205,Potentially irrelevant result; verify judgment
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",4,C043,0,0.3999027609825134,Potentially irrelevant result; verify judgment
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",5,C013,0,0.3936954140663147,Potentially irrelevant result; verify judgment
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",6,C044,0,0.37517160177230835,Potentially irrelevant result; verify judgment
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",7,C002,0,0.3564572036266327,Potentially irrelevant result; verify judgment
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",8,C029,0,0.3517059087753296,Potentially irrelevant result; verify judgment
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",9,C006,0,0.35070860385894775,Potentially irrelevant result; verify judgment
+Q094,"My father was in the police force, does that make me eligible for a defense scholarship",10,C003,0,0.35036981105804443,Potentially irrelevant result; verify judgment
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",2,C013,0,0.548385739326477,Potentially irrelevant result; verify judgment
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",5,C029,0,0.47510114312171936,Potentially irrelevant result; verify judgment
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",6,C051,0,0.4662948548793793,Potentially irrelevant result; verify judgment
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",7,C014,0,0.46279531717300415,Potentially irrelevant result; verify judgment
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",8,C028,0,0.45495378971099854,Potentially irrelevant result; verify judgment
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",9,C003,0,0.4161189794540405,Potentially irrelevant result; verify judgment
+Q095,"I have a disability but I'm also from a minority community, which scholarship should I look at",10,C002,0,0.4069332778453827,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",1,C006,0,0.5422372221946716,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",2,C037,0,0.5059769749641418,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",3,C023,0,0.49768632650375366,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",4,C002,0,0.4926312565803528,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",5,C050,0,0.4919290542602539,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",6,C022,0,0.4890598654747009,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",7,C026,0,0.4872336983680725,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",8,C030,0,0.48512357473373413,Potentially irrelevant result; verify judgment
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",9,C036,1,0.4806247353553772,Relevant result ranked below position 5
+Q096,"Scholarship for state-level or central-level schemes, I don't know the difference",10,C051,0,0.4795186519622803,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,1,C002,0,0.6952351927757263,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,2,C028,0,0.674015998840332,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,3,C001,0,0.6656073331832886,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,4,C015,0,0.6427223682403564,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,5,C029,0,0.642197847366333,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,6,C022,0,0.6346666812896729,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,7,C012,0,0.623820424079895,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,8,C043,0,0.6142531633377075,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,9,C040,0,0.6130961179733276,Potentially irrelevant result; verify judgment
+Q097,Scholarship for private international school fees for a general category student in Delhi,10,C044,0,0.6122326254844666,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,1,C002,0,0.6217926740646362,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,2,C001,0,0.6177108287811279,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,3,C012,0,0.5887341499328613,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,4,C015,0,0.578531801700592,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,5,C028,0,0.5671353936195374,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,6,C003,0,0.5641124844551086,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,7,C009,0,0.5590640306472778,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,8,C029,0,0.5506155490875244,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,9,C022,0,0.5410550832748413,Potentially irrelevant result; verify judgment
+Q098,Full scholarship to study MBBS in the United States for any Indian citizen,10,C010,0,0.5378643274307251,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,1,C026,0,0.22297272086143494,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,2,C023,0,0.22120247781276703,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,3,C049,0,0.20265641808509827,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,4,C010,0,0.18349534273147583,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,5,C040,0,0.17905309796333313,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,6,C011,0,0.16899794340133667,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,7,C031,0,0.1645745038986206,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,8,C037,0,0.16095715761184692,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,9,C038,0,0.15904618799686432,Potentially irrelevant result; verify judgment
+Q099,Business loan scheme for starting a small shop,10,C012,0,0.15804192423820496,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,1,C029,0,0.42008233070373535,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,2,C028,0,0.41197168827056885,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,3,C010,0,0.40960392355918884,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,4,C037,0,0.401020884513855,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,5,C025,0,0.39794039726257324,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,6,C036,0,0.38881322741508484,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,7,C007,0,0.38422656059265137,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,8,C026,0,0.3804904818534851,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,9,C012,0,0.38030946254730225,Potentially irrelevant result; verify judgment
+Q100,Free laptop distribution scheme for all citizens regardless of student status,10,C038,0,0.37988436222076416,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,1,C034,0,0.39843881130218506,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,2,C023,0,0.33110207319259644,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,3,C033,0,0.331036776304245,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,4,C032,0,0.3217281699180603,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,5,C038,0,0.31954193115234375,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,6,C018,0,0.31787267327308655,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,7,C044,0,0.31601184606552124,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,8,C001,0,0.311906099319458,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,9,C026,0,0.3118055760860443,Potentially irrelevant result; verify judgment
+Q101,Pension scheme for senior citizens above 60 years,10,C005,0,0.30607858300209045,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,1,C015,0,0.6078713536262512,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,2,C002,0,0.6003361940383911,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,3,C029,0,0.5656999349594116,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,4,C013,0,0.5512049198150635,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,5,C022,0,0.5455160140991211,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,6,C028,0,0.543340802192688,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,7,C001,0,0.5381532907485962,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,8,C003,0,0.5324490070343018,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,9,C043,0,0.520968496799469,Potentially irrelevant result; verify judgment
+Q102,Scholarship for a general category student with no income limit pursuing an MBA abroad,10,C026,0,0.5198541879653931,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,1,C006,0,0.4161364436149597,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,2,C033,0,0.36398330330848694,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,3,C025,0,0.34711766242980957,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,4,C034,0,0.344410240650177,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,5,C028,0,0.33891236782073975,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,6,C043,0,0.33509355783462524,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,7,C015,0,0.3349761962890625,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,8,C023,0,0.33131879568099976,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,9,C051,0,0.33093419671058655,Potentially irrelevant result; verify judgment
+Q103,Sports quota admission scheme for national-level athletes,10,C003,0,0.3304053544998169,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,1,C035,0,0.42049941420555115,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,2,C028,0,0.39265644550323486,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,3,C016,0,0.3819415271282196,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,4,C002,0,0.3713250756263733,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,5,C044,0,0.3563246726989746,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,6,C038,0,0.35456597805023193,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,7,C001,0,0.3487723171710968,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,8,C015,0,0.34599608182907104,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,9,C036,0,0.33885830640792847,Potentially irrelevant result; verify judgment
+Q104,How do I apply for an Indian passport online,10,C022,0,0.33739620447158813,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,1,C026,0,0.28420209884643555,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,2,C011,0,0.2755157947540283,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,3,C038,0,0.2533780038356781,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,4,C012,0,0.2531736493110657,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,5,C005,0,0.25008976459503174,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,6,C041,0,0.24105273187160492,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,7,C023,0,0.23587298393249512,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,8,C010,0,0.23496074974536896,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,9,C039,0,0.23402883112430573,Potentially irrelevant result; verify judgment
+Q105,Subsidy scheme for buying an electric vehicle,10,C036,0,0.23263946175575256,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,1,C040,0,0.4743565320968628,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,2,C037,0,0.4659351110458374,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,3,C002,0,0.46077901124954224,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,4,C023,0,0.4582799971103668,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,5,C015,0,0.43236231803894043,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,6,C039,0,0.4311635494232178,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,7,C026,0,0.4300177991390228,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,8,C019,0,0.42157411575317383,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,9,C022,0,0.41887784004211426,Potentially irrelevant result; verify judgment
+Q106,Scholarship for studying culinary arts in France with full funding,10,C005,0,0.41274333000183105,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,1,C049,0,0.47813916206359863,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,2,C026,0,0.43404924869537354,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,3,C005,0,0.4271603226661682,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,4,C009,0,0.4112394154071808,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,5,C001,0,0.41086244583129883,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,6,C043,0,0.39993929862976074,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,7,C025,0,0.3980293869972229,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,8,C011,0,0.3960318863391876,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,9,C004,0,0.39400801062583923,Potentially irrelevant result; verify judgment
+Q107,Loan waiver scheme for farmers in Punjab,10,C012,0,0.3925940990447998,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,1,C048,0,0.29025864601135254,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,2,C049,0,0.22360539436340332,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,3,C045,0,0.18890352547168732,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,4,C038,0,0.17862597107887268,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,5,C035,0,0.17192542552947998,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,6,C041,0,0.1702055186033249,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,7,C042,0,0.16940048336982727,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,8,C046,0,0.14819835126399994,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,9,C010,0,0.14704203605651855,Potentially irrelevant result; verify judgment
+Q108,Today's weather forecast for Bengaluru,10,C012,0,0.14333131909370422,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,1,C037,0,0.5867871046066284,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,2,C006,0,0.5855336785316467,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,3,C043,0,0.5825157165527344,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,4,C040,0,0.5635664463043213,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,5,C012,0,0.5524215698242188,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,6,C013,0,0.5513782501220703,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,7,C028,0,0.5448821783065796,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,8,C026,0,0.5385439991950989,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,9,C051,0,0.5383324027061462,Potentially irrelevant result; verify judgment
+Q109,Scholarship for a student from a general (unreserved) category with high family income and average marks,10,C029,0,0.5372711420059204,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,1,C023,0,0.3390800952911377,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,2,C038,0,0.31277525424957275,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,3,C011,0,0.31157344579696655,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,4,C012,0,0.30135053396224976,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,5,C009,0,0.2921551764011383,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,6,C044,0,0.28938281536102295,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,7,C041,0,0.28864216804504395,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,8,C043,0,0.2825140058994293,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,9,C031,0,0.2813282012939453,Potentially irrelevant result; verify judgment
+Q110,Health insurance scheme for unemployed graduates,10,C034,0,0.2802060842514038,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,1,C023,0,0.5550675988197327,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,2,C043,0,0.553970456123352,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,3,C028,0,0.551934540271759,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,4,C004,0,0.5399923324584961,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,5,C029,0,0.5279920101165771,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,6,C015,0,0.5271576642990112,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,7,C002,0,0.5269078016281128,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,8,C013,0,0.5239497423171997,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,9,C037,0,0.5126778483390808,Potentially irrelevant result; verify judgment
+Q111,Scholarship for children of private company employees with no income restriction,10,C040,0,0.5100722312927246,Potentially irrelevant result; verify judgment

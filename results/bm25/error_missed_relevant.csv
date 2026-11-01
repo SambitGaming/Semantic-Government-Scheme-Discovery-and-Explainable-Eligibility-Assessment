@@ -1,0 +1,64 @@
+query_id,scheme_id,relevance_score,query_text
+Q001,C005,1,Scholarships for undergraduate students
+Q001,C023,1,Scholarships for undergraduate students
+Q002,C022,1,Post-matric scholarship for SC students
+Q004,C010,2,PM-YASASVI scholarship for OBC students
+Q004,C012,2,PM-YASASVI scholarship for OBC students
+Q027,C024,1,I'm studying engineering and need some financial help for college
+Q028,C006,1,hey any scholarships for a poor family kid going to college?
+Q029,C004,2,"my daughter is doing a diploma, is there any money scheme for girls like her"
+Q030,C020,2,"looking for something to help pay fees, I'm doing my PhD in physics"
+Q034,C013,1,is there anything for disabled students who want to study abroad
+Q035,C033,2,"my son's dad was in CRPF, are there any scholarships for us"
+Q035,C034,1,"my son's dad was in CRPF, are there any scholarships for us"
+Q036,C049,2,"i stay in bangalore and my parents are farmers, any scheme for my fees"
+Q037,C009,2,can obc students get scholarship money for hostel and fees after 10th
+Q038,C018,2,"i want to do research after my PhD, is there any fellowship for that"
+Q041,C010,2,"i got into IIT but can't afford it, what scholarships can help since I'm OBC"
+Q041,C009,1,"i got into IIT but can't afford it, what scholarships can help since I'm OBC"
+Q042,C040,2,is there some scheme for scheduled tribe kids going to school in 9th standard
+Q044,C001,1,"looking for scholarship money to study science after 12th, i study hard"
+Q046,C013,1,"i live in Dadra and Nagar Haveli, is there anything for SC students here"
+Q047,C001,2,I'm an undergraduate engineering student from a low-income family. What scholarships could help me?
+Q048,C037,2,Scholarships for a Scheduled Caste student in Class 9 with family income below Rs 2.5 lakh
+Q057,C049,2,Which scheme helps a Karnataka farmer's child currently studying in school
+Q063,C043,2,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu
+Q063,C013,1,Scheme for a disabled student in Class 11 studying in Dadra and Nagar Haveli and Daman and Diu
+Q067,C001,1,I need help paying for my education
+Q067,C002,1,I need help paying for my education
+Q068,C001,1,Any scholarships for students?
+Q069,C001,1,I want financial help for higher studies
+Q071,C020,1,Scholarship for research students
+Q071,C016,1,Scholarship for research students
+Q071,C017,1,Scholarship for research students
+Q075,C043,2,What scholarships exist for disabled students?
+Q075,C044,2,What scholarships exist for disabled students?
+Q075,C014,1,What scholarships exist for disabled students?
+Q076,C006,1,Support for students from poor families
+Q077,C004,2,Scholarships for girls
+Q077,C027,1,Scholarships for girls
+Q078,C009,1,Scheme for reserved category students
+Q078,C036,1,Scheme for reserved category students
+Q078,C039,1,Scheme for reserved category students
+Q081,C041,1,Scholarships in Karnataka
+Q082,C047,1,I'm from Karnataka and need support for college. What scholarships are available?
+Q082,C049,1,I'm from Karnataka and need support for college. What scholarships are available?
+Q083,C009,1,I belong to a backward community and want help with my studies
+Q084,C043,1,Scholarship for students with special needs
+Q084,C044,1,Scholarship for students with special needs
+Q085,C009,1,"I'm doing a professional course and need financial support, not sure what category I fall under"
+Q086,C046,1,Is there a scholarship for merit students or is it only for poor students?
+Q086,C006,1,Is there a scholarship for merit students or is it only for poor students?
+Q087,C032,1,"My family works for the government, is there something for us?"
+Q087,C033,1,"My family works for the government, is there something for us?"
+Q088,C020,1,"I'm looking for either a fellowship or a scholarship for postgraduate research, not sure which"
+Q089,C003,2,Scheme for students in the northeast or hill states
+Q090,C015,2,"I want to study abroad, are there any government scholarships for that"
+Q090,C038,1,"I want to study abroad, are there any government scholarships for that"
+Q093,C037,1,"Is this scheme for school students or college students, I'm not sure which stage I'm in"
+Q093,C036,1,"Is this scheme for school students or college students, I'm not sure which stage I'm in"
+Q095,C043,1,"I have a disability but I'm also from a minority community, which scholarship should I look at"
+Q095,C050,1,"I have a disability but I'm also from a minority community, which scholarship should I look at"
+Q095,C044,1,"I have a disability but I'm also from a minority community, which scholarship should I look at"
+Q096,C001,1,"Scholarship for state-level or central-level schemes, I don't know the difference"
+Q096,C036,1,"Scholarship for state-level or central-level schemes, I don't know the difference"

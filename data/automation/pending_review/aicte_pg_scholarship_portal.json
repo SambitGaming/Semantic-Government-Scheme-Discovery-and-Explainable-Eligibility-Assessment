@@ -1,0 +1,14 @@
+{
+  "source_id": "aicte_pg_scholarship_portal",
+  "source_name": "AICTE PG Scholarship Portal",
+  "official_url": "https://pgscholarship.aicte-india.org/",
+  "page_type": "portal",
+  "extracted_at_utc": "2026-10-18T12:46:25.176128+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The HTML page contains no extractable text content."
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name_candidate": "Home Page - Inspire",
+  "description_candidate": "\"Innovation in Science Pursuit for Inspired Research (INSPIRE)\" is an innovative programme sponsored and managed by the Department of Science & Technology for attraction of talent to Science. The basic objective of INSPIRE is to communicate to the youth of the country the excitements of creative pursuit of science, attract talent to the study of science at an early age and thus build the required critical human resource pool for strengthening and expanding the Science & Technology system and R & D base. A striking feature of the programme is that it does not believe in conducting competitive exams for identification of talent at any level. It believes in and relies on the efficacy of the existing educational structure for identification of talent. \"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.\" -Louis Pasteur",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://www.online-inspire.gov.in/",
+  "source_sections": [
+    {
+      "heading": "Welcome to the Online Portal of the INSPIRE Programme",
+      "text": "\"Innovation in Science Pursuit for Inspired Research (INSPIRE)\" is an innovative programme sponsored and managed by the Department of Science & Technology for attraction of talent to Science. \r\n            The basic objective of INSPIRE is to communicate to the youth of the country the excitements of creative pursuit of science, attract talent to the study of science at an early age and thus build the required critical human resource pool for strengthening and expanding the Science & Technology system and R & D base. A striking feature of the programme is that it does not believe in conducting competitive exams for identification of talent at any level. It believes in and relies on the efficacy of the existing educational structure for identification of talent. \"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.\" -Louis Pasteur"
+    },
+    {
+      "heading": "Need Help ?",
+      "text": "Guidelines for Security Upgrade - TLS 1.2 Browser Compatibility Guide,click here., click here Guidelines for Security Upgrade - TLS 1.2 Browser Compatibility Guide,click here., click here For support, please click here For support, please click here For detailed steps to change your LOGIN ID & PASSWORD, click here., click here For detailed steps to change your LOGIN ID & PASSWORD, click here., click here For steps to change your college or university, Click here, click here For steps to change your college or university, Click here, click here Copyright © 2013 Department of Science and Technology"
+    }
+  ],
+  "source_id": "inspire_online",
+  "source_name": "INSPIRE Scholarship Online Portal",
+  "page_type": "portal",
+  "extracted_at_utc": "2026-10-19T12:46:08.760577+00:00",
+  "validation_status": "discovery_only",
+  "validation_issues": [
+    "Discovery source: individual scholarship pages must be extracted and verified before approval."
+  ],
+  "verification_status": "pending_review",
+  "duplicate_status": "no_match_found",
+  "duplicate_note": null
+}

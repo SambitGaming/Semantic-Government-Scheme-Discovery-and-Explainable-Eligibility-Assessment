@@ -1,0 +1,14 @@
+{
+  "source_id": "ugc_frg",
+  "source_name": "UGC Faculty Recharge / Fellowships Portal",
+  "official_url": "https://frg.ugc.ac.in/",
+  "page_type": "portal",
+  "extracted_at_utc": "2026-10-18T12:24:12.163992+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ConnectTimeout: HTTPSConnectionPool(host='frg.ugc.ac.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='frg.ugc.ac.in', port=443) at 0x1d943beecf0>, 'Connection to frg.ugc.ac.in timed out. (connect timeout=20)'))"
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "karnataka_social_welfare",
+  "source_name": "Karnataka Social Welfare Department",
+  "official_url": "https://socialwelfare.karnataka.gov.in/",
+  "page_type": "portal",
+  "extracted_at_utc": "2026-10-18T12:31:24.219621+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ConnectionError: HTTPSConnectionPool(host='socialwelfare.karnataka.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='socialwelfare.karnataka.gov.in', port=443): Failed to resolve 'socialwelfare.karnataka.gov.in' ([Errno 11001] getaddrinfo failed)\"))"
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null
+}

@@ -1,0 +1,5 @@
+query_id,query_text_x,rank,scheme_id,scheme_name,bm25_score,relevance_score,query_text_y
+Q034,is there anything for disabled students who want to study abroad,9,C015,National Overseas Scholarship For Scheduled Tribes (ST) Students,6.656202530505322,2.0,is there anything for disabled students who want to study abroad
+Q037,can obc students get scholarship money for hostel and fees after 10th,9,C042,Post-Matric Scholarship for Backward Classes (OBC),7.928142327519867,1.0,can obc students get scholarship money for hostel and fees after 10th
+Q053,Post-doctoral fellowship for a woman researcher after completing PhD,9,C027,National Post Doctoral Fellowship,5.35438229252782,2.0,Post-doctoral fellowship for a woman researcher after completing PhD
+Q072,Is there support for school students?,10,C037,Pre-Matric Scholarship for SC Students,3.230643740561558,1.0,Is there support for school students?

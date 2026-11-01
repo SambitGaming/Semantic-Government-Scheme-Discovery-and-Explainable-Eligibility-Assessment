@@ -1,0 +1,44 @@
+{
+  "source_id": "nsp_all_scholarships",
+  "source_url": "https://scholarships.gov.in/All-Scholarships",
+  "candidate_count": 6,
+  "candidates": [
+    {
+      "text": "",
+      "url": "https://scholarships.gov.in/All-Scholarships",
+      "discovery_source_url": "https://scholarships.gov.in/All-Scholarships",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "Apply For Scholarship",
+      "url": "https://scholarships.gov.in/ApplicationForm",
+      "discovery_source_url": "https://scholarships.gov.in/All-Scholarships",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "Scholarship\n                                                                    Eligibility",
+      "url": "https://scholarships.gov.in/scholarshipEligibility",
+      "discovery_source_url": "https://scholarships.gov.in/All-Scholarships",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "Nodal\n                                                                    Officers (Scheme-wise)",
+      "url": "https://scholarships.gov.in/nodalofficerList",
+      "discovery_source_url": "https://scholarships.gov.in/All-Scholarships",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "List of Applicants Processed for Scholarships",
+      "url": "https://scholarships.gov.in/onlineSanctionedList",
+      "discovery_source_url": "https://scholarships.gov.in/All-Scholarships",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "Nodal\n                                                                    Officers (Scheme-wise)",
+      "url": "https://scholarships.gov.in/nodelOfficerDetails",
+      "discovery_source_url": "https://scholarships.gov.in/All-Scholarships",
+      "verification_status": "pending_review"
+    }
+  ],
+  "verification_status": "pending_review"
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name_candidate": "Welcome to Non-Tax Receipt Portal",
+  "description_candidate": "Donate to Swachh Bharat Kosh Online Donation to Swachh Bharat Kosh Payment to GoI",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://bharatkosh.gov.in/",
+  "source_sections": [
+    {
+      "heading": "Make payments to Government of India using Credit Card/ Debit Card/ UPI/150+ Netbanking options/ NEFT/RTGS",
+      "text": "Donate to Swachh Bharat Kosh Online Donation to Swachh Bharat Kosh Payment to GoI"
+    },
+    {
+      "heading": "Total Transaction Amt",
+      "text": "This is an Online Donation to Swachh Bharat Kosh. Do you want to proceed? Select the mode of payment to use while making the transaction"
+    }
+  ],
+  "source_id": "bharatkosh",
+  "source_name": "Bharatkosh",
+  "page_type": "portal",
+  "extracted_at_utc": "2026-10-19T12:46:10.138652+00:00",
+  "validation_status": "discovery_only",
+  "validation_issues": [
+    "Discovery source: individual scholarship pages must be extracted and verified before approval."
+  ],
+  "verification_status": "pending_review",
+  "duplicate_status": "no_match_found",
+  "duplicate_note": null
+}

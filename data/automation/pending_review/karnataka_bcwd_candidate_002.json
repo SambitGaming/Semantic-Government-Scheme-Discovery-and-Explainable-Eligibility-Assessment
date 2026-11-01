@@ -1,0 +1,18 @@
+{
+  "source_id": "karnataka_bcwd_candidate_002",
+  "source_name": "ಖಾಸಗಿ ಅನುದಾನಿತ ಅನಾಥಾಲಯಗಳು",
+  "official_url": "https://bcwd.karnataka.gov.in/172/grant-in-aid-hostels/kn",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-23T13:22:44.256420+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "HTTPError: 500 Server Error: Internal Server Error for url: https://bcwd.karnataka.gov.in/172/grant-in-aid-hostels/kn"
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null,
+  "candidate_url": "https://bcwd.karnataka.gov.in/172/grant-in-aid-hostels/kn",
+  "discovered_from": "https://bcwd.karnataka.gov.in/",
+  "parent_source_id": "karnataka_bcwd",
+  "discovery_candidate_text": "ಖಾಸಗಿ ಅನುದಾನಿತ ಅನಾಥಾಲಯಗಳು"
+}

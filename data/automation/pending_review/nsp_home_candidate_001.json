@@ -1,0 +1,48 @@
+{
+  "scheme_name_candidate": "NSP : National Scholarship Portal",
+  "description_candidate": "Dark Contrast Light Contrast Invert Saturation Text Size Increase Text Size Decrease Highlight Links Unhighlight Links Hide Images Show Images Default Cursor Increased Cursor Size",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "application_process_candidates": [],
+  "official_url": "https://scholarships.gov.in/Fellowship",
+  "source_sections": [
+    {
+      "heading": "Accessibility Controls",
+      "text": "Dark Contrast Light Contrast Invert Saturation Text Size Increase Text Size Decrease Highlight Links Unhighlight Links Hide Images Show Images Default Cursor Increased Cursor Size"
+    },
+    {
+      "heading": "Announcements",
+      "text": "One Time Registration(OTR) is required to avail the fellowship. OTR is a unique number allotted to the candidate and is applicable for entire academic career. OTR can be generated using the link: https://scholarships.gov.in/otrapplication/#/login-page View more"
+    }
+  ],
+  "extraction_method": "requests_beautifulsoup",
+  "javascript_rendered": false,
+  "extraction_issues": [
+    "No eligibility section was identified; the information may be absent or use an unrecognized heading.",
+    "No benefits section was identified; the information may be absent or use an unrecognized heading.",
+    "No required documents section was identified; the information may be absent or use an unrecognized heading.",
+    "No deadlines section was identified; the information may be absent or use an unrecognized heading."
+  ],
+  "verification_status": "pending_review",
+  "source_id": "nsp_home_candidate_001",
+  "scheme_id": "nsp_home_candidate_001",
+  "source_name": "Fellowship",
+  "configured_url": "https://scholarships.gov.in/Fellowship",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-23T13:23:09.422995+00:00",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "validation_issues": [
+    "Eligibility section not detected",
+    "Benefits section not detected"
+  ],
+  "validation_status": "needs_review",
+  "duplicate_status": "possible_duplicate",
+  "duplicate_note": "Matching normalized scheme name in nsp_all_scholarships.json",
+  "candidate_url": "https://scholarships.gov.in/Fellowship",
+  "discovered_from": "https://scholarships.gov.in/",
+  "parent_source_id": "nsp_home",
+  "discovery_candidate_text": "Fellowship"
+}

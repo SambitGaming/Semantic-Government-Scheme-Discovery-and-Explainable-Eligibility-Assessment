@@ -1,0 +1,122 @@
+profile_id,scheme_id,overall_result,rule_id,field,user_value,operator,required_value,rule_result,explanation,rule_version,Official_url
+GP001,C025,Eligible,R098,state,Jammu and Kashmir,IN,Jammu and Kashmir|Ladakh,PASS,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP001,C025,Eligible,R099,annual_income,500000,<=,800000,PASS,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP002,C025,Eligible,R098,state,Ladakh,IN,Jammu and Kashmir|Ladakh,PASS,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP002,C025,Eligible,R099,annual_income,500000,<=,800000,PASS,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP003,C025,Eligible,R098,state,Jammu and Kashmir,IN,Jammu and Kashmir|Ladakh,PASS,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP003,C025,Eligible,R099,annual_income,799999,<=,800000,PASS,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP004,C025,Eligible,R098,state,Jammu and Kashmir,IN,Jammu and Kashmir|Ladakh,PASS,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP004,C025,Eligible,R099,annual_income,800000,<=,800000,PASS,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP005,C025,Not Eligible,R098,state,Jammu and Kashmir,IN,Jammu and Kashmir|Ladakh,PASS,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP005,C025,Not Eligible,R099,annual_income,800001,<=,800000,FAIL,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP006,C025,Not Eligible,R098,state,Jammu and Kashmir,IN,Jammu and Kashmir|Ladakh,PASS,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP006,C025,Not Eligible,R099,annual_income,1200000,<=,800000,FAIL,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP007,C025,Not Eligible,R099,annual_income,500000,<=,800000,PASS,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP007,C025,Not Eligible,R098,state,Karnataka,IN,Jammu and Kashmir|Ladakh,FAIL,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP008,C025,Not Eligible,R098,state,Karnataka,IN,Jammu and Kashmir|Ladakh,FAIL,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP008,C025,Not Eligible,R099,annual_income,1200000,<=,800000,FAIL,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP009,C025,Eligible,R098,state,Jammu and Kashmir,IN,Jammu and Kashmir|Ladakh,PASS,Applicant must be a domicile of the UTs of J&K or Ladakh,1,https://www.aicte-jk-scholarship-gov.in/
+GP009,C025,Eligible,R099,annual_income,500000,<=,800000,PASS,"Family income must not exceed ?8,00,000 per annum",1,https://www.aicte-jk-scholarship-gov.in/
+GP010,C036,Eligible,R132,category,SC,==,SC,PASS,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP010,C036,Eligible,R133,state,Karnataka,==,Karnataka,PASS,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP010,C036,Eligible,R134,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP011,C036,Eligible,R132,category,SC,==,SC,PASS,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP011,C036,Eligible,R133,state,Karnataka,==,Karnataka,PASS,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP011,C036,Eligible,R134,education_level,Higher Secondary,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP012,C036,Eligible,R132,category,SC,==,SC,PASS,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP012,C036,Eligible,R133,state,Karnataka,==,Karnataka,PASS,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP012,C036,Eligible,R134,education_level,Postgraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP013,C036,Not Eligible,R132,category,SC,==,SC,PASS,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP013,C036,Not Eligible,R133,state,Karnataka,==,Karnataka,PASS,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP013,C036,Not Eligible,R134,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP014,C036,Not Eligible,R132,category,SC,==,SC,PASS,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP014,C036,Not Eligible,R134,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP014,C036,Not Eligible,R133,state,Maharashtra,==,Karnataka,FAIL,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP015,C036,Not Eligible,R133,state,Karnataka,==,Karnataka,PASS,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP015,C036,Not Eligible,R134,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP015,C036,Not Eligible,R132,category,ST,==,SC,FAIL,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP016,C036,Not Eligible,R133,state,Karnataka,==,Karnataka,PASS,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP016,C036,Not Eligible,R134,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP016,C036,Not Eligible,R132,category,General,==,SC,FAIL,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP017,C036,Eligible,R132,category,SC,==,SC,PASS,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP017,C036,Eligible,R133,state,Karnataka,==,Karnataka,PASS,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP017,C036,Eligible,R134,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP018,C036,Not Eligible,R132,category,General,==,SC,FAIL,Applicant must belong to SC,1,https://socialjustice.gov.in/schemes/25/archive
+GP018,C036,Not Eligible,R133,state,Maharashtra,==,Karnataka,FAIL,Applicant must be Karnataka-domiciled,1,https://socialjustice.gov.in/schemes/25/archive
+GP018,C036,Not Eligible,R134,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://socialjustice.gov.in/schemes/25/archive
+GP019,C038,Eligible,R139,category,SC,IN,SC|ST,PASS,Applicant must be an SC or ST student,1,https://socialwelfare.karnataka.gov.in/
+GP019,C038,Eligible,R140,state,Karnataka,==,Karnataka,PASS,Applicant must be from Karnataka,1,https://socialwelfare.karnataka.gov.in/
+GP020,C038,Eligible,R139,category,ST,IN,SC|ST,PASS,Applicant must be an SC or ST student,1,https://socialwelfare.karnataka.gov.in/
+GP020,C038,Eligible,R140,state,Karnataka,==,Karnataka,PASS,Applicant must be from Karnataka,1,https://socialwelfare.karnataka.gov.in/
+GP021,C038,Not Eligible,R140,state,Karnataka,==,Karnataka,PASS,Applicant must be from Karnataka,1,https://socialwelfare.karnataka.gov.in/
+GP021,C038,Not Eligible,R139,category,General,IN,SC|ST,FAIL,Applicant must be an SC or ST student,1,https://socialwelfare.karnataka.gov.in/
+GP022,C038,Not Eligible,R140,state,Karnataka,==,Karnataka,PASS,Applicant must be from Karnataka,1,https://socialwelfare.karnataka.gov.in/
+GP022,C038,Not Eligible,R139,category,OBC,IN,SC|ST,FAIL,Applicant must be an SC or ST student,1,https://socialwelfare.karnataka.gov.in/
+GP023,C038,Not Eligible,R139,category,SC,IN,SC|ST,PASS,Applicant must be an SC or ST student,1,https://socialwelfare.karnataka.gov.in/
+GP023,C038,Not Eligible,R140,state,Maharashtra,==,Karnataka,FAIL,Applicant must be from Karnataka,1,https://socialwelfare.karnataka.gov.in/
+GP024,C038,Not Eligible,R139,category,General,IN,SC|ST,FAIL,Applicant must be an SC or ST student,1,https://socialwelfare.karnataka.gov.in/
+GP024,C038,Not Eligible,R140,state,Maharashtra,==,Karnataka,FAIL,Applicant must be from Karnataka,1,https://socialwelfare.karnataka.gov.in/
+GP025,C039,Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP025,C039,Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP025,C039,Eligible,R143,annual_income,200000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP026,C039,Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP026,C039,Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP026,C039,Eligible,R143,annual_income,249999,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP027,C039,Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP027,C039,Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP027,C039,Eligible,R143,annual_income,250000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP028,C039,Not Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP028,C039,Not Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP028,C039,Not Eligible,R143,annual_income,250001,<=,250000,FAIL,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP029,C039,Not Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP029,C039,Not Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP029,C039,Not Eligible,R143,annual_income,500000,<=,250000,FAIL,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP030,C039,Not Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP030,C039,Not Eligible,R143,annual_income,200000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP030,C039,Not Eligible,R141,category,SC,==,ST,FAIL,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP031,C039,Not Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP031,C039,Not Eligible,R143,annual_income,200000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP031,C039,Not Eligible,R141,category,General,==,ST,FAIL,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP032,C039,Not Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP032,C039,Not Eligible,R143,annual_income,200000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP032,C039,Not Eligible,R142,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP033,C039,Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP033,C039,Eligible,R142,education_level,Higher Secondary,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP033,C039,Eligible,R143,annual_income,200000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP034,C039,Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP034,C039,Eligible,R142,education_level,PhD,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP034,C039,Eligible,R143,annual_income,200000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP035,C039,Eligible,R141,category,ST,==,ST,PASS,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP035,C039,Eligible,R142,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP035,C039,Eligible,R143,annual_income,200000,<=,250000,PASS,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP036,C039,Not Eligible,R141,category,General,==,ST,FAIL,Applicant must belong to ST,1,https://tribal.nic.in/ScholarshiP.aspx
+GP036,C039,Not Eligible,R142,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://tribal.nic.in/ScholarshiP.aspx
+GP036,C039,Not Eligible,R143,annual_income,600000,<=,250000,FAIL,Parental income must not exceed ?2.50 lakh per year,1,https://tribal.nic.in/ScholarshiP.aspx
+GP037,C041,Eligible,R147,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP037,C041,Eligible,R148,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP038,C041,Eligible,R147,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP038,C041,Eligible,R148,education_level,Higher Secondary,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP039,C041,Eligible,R147,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP039,C041,Eligible,R148,education_level,Postgraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP040,C041,Not Eligible,R148,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP040,C041,Not Eligible,R147,state,Maharashtra,==,Karnataka,FAIL,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP041,C041,Not Eligible,R147,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP041,C041,Not Eligible,R148,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP042,C041,Not Eligible,R147,state,Maharashtra,==,Karnataka,FAIL,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP042,C041,Not Eligible,R148,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP043,C041,Eligible,R147,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP043,C041,Eligible,R148,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP044,C042,Eligible,R149,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP044,C042,Eligible,R150,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP045,C042,Eligible,R149,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP045,C042,Eligible,R150,education_level,Higher Secondary,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP046,C042,Eligible,R149,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP046,C042,Eligible,R150,education_level,Postgraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP047,C042,Not Eligible,R150,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP047,C042,Not Eligible,R149,state,Maharashtra,==,Karnataka,FAIL,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP048,C042,Not Eligible,R149,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP048,C042,Not Eligible,R150,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP049,C042,Not Eligible,R149,state,Maharashtra,==,Karnataka,FAIL,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP049,C042,Not Eligible,R150,education_level,School,!=,School,FAIL,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/
+GP050,C042,Eligible,R149,state,Karnataka,==,Karnataka,PASS,Applicant must be a Karnataka student,1,https://bcwd.karnataka.gov.in/
+GP050,C042,Eligible,R150,education_level,Undergraduate,!=,School,PASS,Applicant must be pursuing post-matric (Class XI or above) education,1,https://bcwd.karnataka.gov.in/

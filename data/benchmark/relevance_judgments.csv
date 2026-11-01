@@ -1,4 +1,4 @@
-﻿query_id,scheme_id,relevance_label,relevance_score,justification
+query_id,scheme_id,relevance_label,relevance_score,justification
 Q001,C001,Relevant,2,PM-USP is the core central merit scholarship for college/university (UG) students
 Q001,C019,Partially Relevant,1,"INSPIRE-SHE covers only UG/PG science students, a subset of undergraduates"
 Q001,C005,Partially Relevant,1,"AICTE Saksham(Degree) covers only UG students with disability, a subset of undergraduates"
@@ -196,3 +196,18 @@ Q109,C001,Not Relevant,0,PM-USP requires meritorious performance (80th percentil
 Q109,C046,Not Relevant,0,D. Devaraj Urs Prathibha Puraskara requires over 90% marks; 'average marks' does not meet the merit bar
 Q110,C001,Not Relevant,0,No scheme in the dataset offers health insurance; all listed schemes provide educational scholarships/fellowships
 Q111,C001,Not Relevant,0,PM-USP has an income ceiling of Rs 4.50 lakh; 'no income restriction' for private company employees' children does not qualify
+Q001,C002,Not Relevant,0,Targets postgraduate students rather than undergraduate students.
+Q001,C003,Relevant,2,"Supports eligible students from the North Eastern Region pursuing higher education, including undergraduate study; verify current eligibility."
+Q001,C006,Not Relevant,0,Primarily supports school students rather than undergraduate students.
+Q001,C013,Partially Relevant,1,Relevance depends on whether the scheme covers undergraduate courses.
+Q001,C015,Partially Relevant,1,Relevance depends on whether the scheme's covered study levels include undergraduate study.
+Q001,C022,Not Relevant,0,Targets postgraduate professional-course students rather than undergraduate students.
+Q001,C025,Relevant,2,May cover eligible undergraduate students from Jammu and Kashmir and Ladakh; verify current scheme rules.
+Q001,C028,Not Relevant,0,Targets pre-matric school students rather than undergraduate students.
+Q001,C029,Partially Relevant,1,Verify undergraduate coverage and whether this record duplicates C013.
+Q001,C032,Partially Relevant,1,May support eligible wards or widows of specified railway protection personnel; verify covered study levels.
+Q001,C036,Partially Relevant,1,May cover eligible Scheduled Caste students pursuing undergraduate study; verify official eligibility.
+Q001,C037,Not Relevant,0,Targets pre-matric school students rather than undergraduate students.
+Q001,C039,Partially Relevant,1,May cover eligible Scheduled Tribe students pursuing undergraduate study; verify official eligibility.
+Q001,C040,Not Relevant,0,Targets pre-matric school students rather than undergraduate students.
+Q001,C051,Not Relevant,0,Targets pre-matric school students rather than undergraduate students.

@@ -1,0 +1,32 @@
+{
+  "source_id": "karnataka_labour",
+  "source_url": "https://labour.karnataka.gov.in/",
+  "candidate_count": 4,
+  "candidates": [
+    {
+      "text": "ಕರ್ನಾಟಕ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿಯ ಕಲ್ಯಾಣ ಯೋಜನೆಗಳು",
+      "url": "https://labour.karnataka.gov.in/33/labour-social-security-and-welfare-schemes/kn",
+      "discovery_source_url": "https://labour.karnataka.gov.in/",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "ಆಶಾದೀಪ ಯೋಜನೆ",
+      "url": "https://labour.karnataka.gov.in/34/ashadeepa-scheme/kn",
+      "discovery_source_url": "https://labour.karnataka.gov.in/",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ವಾಣಿಜ್ಯ ಸಾರಿಗೆ ಕಾರ್ಮಿಕರ ಅಪಘಾತ ಪರಿಹಾರ ಯೋಜನೆ",
+      "url": "https://labour.karnataka.gov.in/32/karnataka-state-private-commercial-transport-workers-accident-benefit-scheme/kn",
+      "discovery_source_url": "https://labour.karnataka.gov.in/",
+      "verification_status": "pending_review"
+    },
+    {
+      "text": "ಅಂಬೇಡ್ಕರ್‌ ಕಾರ್ಮಿಕ ಸಹಾಯ ಹಸ್ತ ಯೋಜನೆ",
+      "url": "https://labour.karnataka.gov.in/31/ambedkar-karmika-sahaya-hasta-scheme/kn",
+      "discovery_source_url": "https://labour.karnataka.gov.in/",
+      "verification_status": "pending_review"
+    }
+  ],
+  "verification_status": "pending_review"
+}

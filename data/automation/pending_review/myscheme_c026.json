@@ -1,0 +1,36 @@
+{
+  "scheme_name_candidate": "",
+  "description_candidate": "Are you sure you want to sign out? © 2026",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://www.myscheme.gov.in/schemes/sak-dip",
+  "source_sections": [
+    {
+      "heading": "Are you sure you want to sign out?",
+      "text": "Are you sure you want to sign out? © 2026"
+    },
+    {
+      "heading": "Quick Links",
+      "text": "About Us Contact Us Screen Reader Accessibility Statement Frequently Asked Questions Disclaimer Terms & Conditions Dashboard"
+    },
+    {
+      "heading": "Get in touch",
+      "text": "4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India support-myscheme[at]digitalindia[dot]gov[dot]in (011) 24303714 (9:00 AM to 5:30 PM)"
+    }
+  ],
+  "source_id": "myscheme_c026",
+  "source_name": "AICTE - Saksham Scholarship Scheme For Specially-Abled Student (Diploma)",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-19T12:49:04.355132+00:00",
+  "validation_issues": [
+    "Missing scheme name candidate",
+    "Eligibility section not detected",
+    "Benefits section not detected"
+  ],
+  "validation_status": "needs_review",
+  "verification_status": "pending_review",
+  "duplicate_status": "no_match_found",
+  "duplicate_note": null
+}

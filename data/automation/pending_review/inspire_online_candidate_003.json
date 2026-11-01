@@ -1,0 +1,18 @@
+{
+  "source_id": "inspire_online_candidate_003",
+  "source_name": "Results of Level-1 Screening of INSPIRE Fellowship-2025 applications",
+  "official_url": "https://www.online-inspire.gov.in/Account/OpenDocument?documentId=5081543",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-23T13:22:29.529167+00:00",
+  "validation_status": "fetch_failed",
+  "verification_status": "pending_review",
+  "validation_issues": [
+    "ValueError: The server redirected the request. Redirect target: https://www.online-inspire.gov.in/. Verify the target host before fetching it."
+  ],
+  "duplicate_status": "not_checked",
+  "duplicate_note": null,
+  "candidate_url": "https://www.online-inspire.gov.in/Account/OpenDocument?documentId=5081543",
+  "discovered_from": "https://www.online-inspire.gov.in/",
+  "parent_source_id": "inspire_online",
+  "discovery_candidate_text": "Results of Level-1 Screening of INSPIRE Fellowship-2025 applications"
+}

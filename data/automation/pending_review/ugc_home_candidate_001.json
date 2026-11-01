@@ -1,0 +1,33 @@
+{
+  "scheme_name_candidate": "Welcome to UGC, New Delhi, India",
+  "description_candidate": "University Grants Commission (UGC) - Statutory body of the Government of India for coordination, determination and maintenance of standards of higher education in India.",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "official_url": "https://www.ugc.gov.in/Home/student_Corner",
+  "source_sections": [
+    {
+      "heading": "Page content",
+      "text": "Follow Us on Twitter Follow Us on Twitter Like Us on Facebook Like Us on Facebook Follow Us on LinkedIn Follow Us on LinkedIn Follow Us on Instagram Follow Us on Instagram Subscribe on YouYube Subscribe on YouYube Follow Us on WhatsApp group Follow Us on WhatsApp group"
+    },
+    {
+      "heading": "Portals/ Helplines for Students",
+      "text": "Copyright © 2023 University Grants Commission New Delhi, India Website last updated on:\r\n                    \r\n                    19-10-2026 Disclaimer | Privacy Policy | Contact Us"
+    }
+  ],
+  "source_id": "ugc_home_candidate_001",
+  "source_name": "Fellowships",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-19T12:51:39.674997+00:00",
+  "validation_issues": [
+    "Eligibility section not detected",
+    "Benefits section not detected"
+  ],
+  "validation_status": "needs_review",
+  "verification_status": "pending_review",
+  "duplicate_status": "possible_duplicate",
+  "duplicate_note": "Matching normalized scheme name in ugc_home.json",
+  "discovered_from": "https://www.ugc.gov.in/",
+  "discovery_candidate_text": "Fellowships"
+}

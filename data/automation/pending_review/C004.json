@@ -1,0 +1,50 @@
+{
+  "scheme_name_candidate": "",
+  "description_candidate": "Are you sure you want to sign out? © 2026",
+  "eligibility_candidates": [],
+  "benefit_candidates": [],
+  "document_candidates": [],
+  "deadline_candidates": [],
+  "application_process_candidates": [],
+  "official_url": "https://www.myscheme.gov.in/schemes/psgs-dip",
+  "source_sections": [
+    {
+      "heading": "Are you sure you want to sign out?",
+      "text": "Are you sure you want to sign out? © 2026"
+    },
+    {
+      "heading": "Quick Links",
+      "text": "About Us Contact Us Screen Reader Accessibility Statement Frequently Asked Questions Disclaimer Terms & Conditions Dashboard"
+    },
+    {
+      "heading": "Get in touch",
+      "text": "4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India support-myscheme[at]digitalindia[dot]gov[dot]in (011) 24303714 (9:00 AM to 5:30 PM)"
+    }
+  ],
+  "extraction_method": "requests_beautifulsoup",
+  "javascript_rendered": false,
+  "extraction_issues": [
+    "Scheme name could not be extracted.",
+    "No eligibility section was identified; the information may be absent or use an unrecognized heading.",
+    "No benefits section was identified; the information may be absent or use an unrecognized heading.",
+    "No required documents section was identified; the information may be absent or use an unrecognized heading.",
+    "No deadlines section was identified; the information may be absent or use an unrecognized heading."
+  ],
+  "verification_status": "pending_review",
+  "source_id": "C004",
+  "scheme_id": "C004",
+  "source_name": "Pragati Scholarship Scheme For Girl Students (Technical Diploma)",
+  "configured_url": "https://www.myscheme.gov.in/schemes/psgs-dip",
+  "page_type": "scheme_detail",
+  "extracted_at_utc": "2026-10-23T13:20:41.942351+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "validation_issues": [
+    "Missing scheme name candidate",
+    "Eligibility section not detected",
+    "Benefits section not detected"
+  ],
+  "validation_status": "needs_review",
+  "duplicate_status": "possible_duplicate",
+  "duplicate_note": "Matching official URL in myscheme_c004.json"
+}
